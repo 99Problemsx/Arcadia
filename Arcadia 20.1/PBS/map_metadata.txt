@@ -1,0 +1,415 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # PokéCenter
+Name = PokéCenter
+#-------------------------------
+[002]   # Spear Pillar
+Name = Spear Pillar
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[003]   # Distortion World
+Name = Distortion World
+Outdoor = false
+ShowArea = true
+HealingSpot = 5,6,8
+SnapEdges = false
+BattleBack = FairyGym
+#-------------------------------
+[004]   # Frostbyte Mt.
+Name = Frostbyte Mt.
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,4
+SnapEdges = true
+BattleBack = Cave
+#-------------------------------
+[005]   # Hailgem Gym
+Name = Hailgem Gym
+Outdoor = false
+ShowArea = false
+SnapEdges = true
+BattleBack = Icy
+#-------------------------------
+[007]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,10
+MapSize = 2,11
+#-------------------------------
+[008]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,8
+SafariMap = true
+#-------------------------------
+[014]   # Newfolk City
+Name = Newfolk City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,13
+#-------------------------------
+[015]   # Rightful Base #4
+Name = Rightful Base #4
+BattleBack = Hideout
+#-------------------------------
+[017]   # Newfolk City Gym
+Name = Newfolk City Gym
+BattleBack = FireGym
+#-------------------------------
+[021]   # Academia Administration
+Name = Academia Administration
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[022]   # Greystone Cavern
+Name = Greystone Cavern
+Outdoor = true
+ShowArea = true
+Weather = Storm,10
+MapPosition = 0,7,10
+#-------------------------------
+[023]   # Greystone Cave
+Name = Greystone Cave
+Outdoor = false
+ShowArea = true
+MapPosition = 0,7,10
+#-------------------------------
+[029]   # Interstellar Passage
+Name = Interstellar Passage
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,14
+BattleBack = CaveDark
+#-------------------------------
+[030]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,13
+BattleBack = Field
+#-------------------------------
+[031]   # Heggate Town
+Name = Heggate Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,9,14
+BattleBack = Field
+MapSize = 2,1101
+#-------------------------------
+[032]   # Titan Town
+Name = Titan Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,12
+#-------------------------------
+[036]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,7,14
+#-------------------------------
+[037]   # Enursia City
+Name = Enursia City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,13
+#-------------------------------
+[038]   # Interstellar Cave
+Name = Interstellar Cave
+MapPosition = 0,9,14
+#-------------------------------
+[040]   # Enursia City Gym
+Name = Enursia City Gym
+BattleBack = FairyGym
+#-------------------------------
+[041]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,14
+#-------------------------------
+[042]   # \PN's Home
+Name = \PN's Home
+HealingSpot = 42,5,6
+#-------------------------------
+[044]   # Royal River
+Name = Royal River
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,15
+#-------------------------------
+[045]   # Route 8
+Name = Route 8
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,6,17
+#-------------------------------
+[049]   # Route 9
+Name = Route 9
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,11
+#-------------------------------
+[050]   # Wishing Well
+Name = Wishing Well
+Outdoor = true
+ShowArea = true
+MapPosition = 0,9,12
+BattleBack = Field
+#-------------------------------
+[052]   # Downpour City
+Name = Downpour City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,6,18
+#-------------------------------
+[053]   # Wishing Well
+Name = Wishing Well
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,4
+BattleBack = Mountain
+#-------------------------------
+[054]   # Padded Forest
+Name = Padded Forest
+Outdoor = true
+ShowArea = true
+MapPosition = 0,3,18
+BattleBack = PaddedForest
+#-------------------------------
+[055]   # Route 10
+Name = Route 10
+Outdoor = true
+ShowArea = true
+MapPosition = 0,5,18
+#-------------------------------
+[056]   # Route 11
+Name = Route 11
+Outdoor = true
+ShowArea = true
+MapPosition = 0,3,16
+#-------------------------------
+[058]   # Downpour Gym
+Name = Downpour Gym
+BattleBack = PoisonGym
+#-------------------------------
+[059]   # Keishan City
+Name = Keishan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,3,15
+#-------------------------------
+[060]   # Keishan City Gym
+Name = Keishan City Gym
+SnapEdges = true
+BattleBack = FieldSand
+#-------------------------------
+[061]   # Rightful Base #2
+Name = Rightful Base #2
+BattleBack = Hideout
+#-------------------------------
+[064]   # Wishing Well
+Name = Wishing Well
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[065]   # Cerulean Link
+Name = Cerulean Link
+Outdoor = false
+ShowArea = true
+BattleBack = Cave
+#-------------------------------
+[066]   # Bell Tower
+Name = Bell Tower
+ShowArea = true
+#-------------------------------
+[067]   # Bellchime Trail
+Name = Bellchime Trail
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[068]   # Bell Tower
+Name = Bell Tower
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[069]   # Whirl Islands
+Name = Whirl Islands
+Outdoor = false
+ShowArea = true
+BattleBack = Cave
+#-------------------------------
+[070]   # Whirl Islands (Outside)
+Name = Whirl Islands (Outside)
+Outdoor = true
+ShowArea = false
+#-------------------------------
+[074]   # Route 12
+Name = Route 12
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[075]   # Route 13
+Name = Route 13
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[076]   # Introduction
+Name = Introduction
+Outdoor = true
+ShowArea = false
+SnapEdges = true
+#-------------------------------
+[077]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,13
+#-------------------------------
+[078]   # Academia City
+Name = Academia City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,18,13
+#-------------------------------
+[081]   # Deserted Path
+Name = Deserted Path
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,100
+MapPosition = 0,15,10
+BattleBack = Mountain
+#-------------------------------
+[082]   # Brinkstone Cave
+Name = Brinkstone Cave
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,11
+BattleBack = Cave
+#-------------------------------
+[083]   # Temples of Azecca
+Name = Temples of Azecca
+ShowArea = true
+DarkMap = true
+BattleBack = Cave
+#-------------------------------
+[085]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+MapPosition = 0,14,6
+SnapEdges = true
+BattleBack = Snow
+#-------------------------------
+[086]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,18,12
+BattleBack = Field
+#-------------------------------
+[087]   # New Harbour Town
+Name = New Harbour Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,12
+BattleBack = Field
+#-------------------------------
+[089]   # Norpeak Island
+Name = Norpeak Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,28,1
+#-------------------------------
+[090]   # Norpeak Island
+Name = Norpeak Island
+Outdoor = true
+ShowArea = true
+Weather = Blizzard,100
+MapPosition = 0,28,1
+#-------------------------------
+[097]   # Cyberhole City
+Name = Cyberhole City
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+MapPosition = 0,14,7
+SnapEdges = true
+#-------------------------------
+[100]   # Cave of Creation Entrance
+Name = Cave of Creation Entrance
+Outdoor = true
+ShowArea = false
+MapPosition = 0,27,17
+#-------------------------------
+[101]   # Cave of Creation
+Name = Cave of Creation
+ShowArea = true
+MapPosition = 0,27,17
+SnapEdges = true
+BattleBack = Cave
+#-------------------------------
+[102]   # Norpeak Tomb
+Name = Norpeak Tomb
+ShowArea = true
+DarkMap = true
+SnapEdges = true
+BattleBack = Cave
+#-------------------------------
+[103]   # Norpeak Gym
+Name = Norpeak Gym
+SnapEdges = true
+BattleBack = NorpeakGym
+#-------------------------------
+[117]   # Hailgem City
+Name = Hailgem City
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+MapPosition = 0,14,5
+SnapEdges = true
+BattleBack = Snow
+#-------------------------------
+[124]   # Distortion World
+Name = Distortion World
+Outdoor = false
+ShowArea = true
+BattleBack = FairyGym
+#-------------------------------
+[125]   # Eterna City
+Name = Eterna City
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[127]   # Route 211
+Name = Route 211
+Outdoor = true
+ShowArea = true
+Weather = Rain,25
+BattleBack = Mountain
+#-------------------------------
+[128]   # Mt. Coronet
+Name = Mt. Coronet
+ShowArea = true
+DarkMap = false
+BattleBack = Cave
+#-------------------------------
+[129]   # Mt. Coronet
+Name = Mt. Coronet
+Outdoor = false
+ShowArea = true
+BattleBack = Cave
+#-------------------------------
+[130]   # Mt. Coronet
+Name = Mt. Coronet
+ShowArea = true
+BattleBack = Cave
