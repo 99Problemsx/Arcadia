@@ -1,0 +1,182 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map022]
+\bImmortal steht auf der Gewinnerseite.
+\bImmortal steht auf der Gewinnerseite.
+\bWir werden nicht scheitern.
+\bWir werden nicht scheitern.
+\a5467b14]??? Ah! Wir haben Gesellschaft!
+\a5467b14]??? Ah! Wir haben Gesellschaft!
+\[a5467b14]??? Ich nehme an, du bist \PN?
+\[a5467b14]??? Ich nehme an, du bist \PN?
+\a5467b14]??? Du bist pünktlich zur Show!
+\a5467b14]??? Du bist pünktlich zur Show!
+\a5467b14]??? Ich nehme an, du hattest eine Geräuschkomposition?
+\a5467b14]??? Ich nehme an, du hattest eine Geräuschkomposition?
+\wu\rNina: Halt!
+\wu\rNina: Halt!
+\Nina: Du willst Kyurem beschwören, oder?
+\Nina: Du willst Kyurem beschwören, oder?
+\(a5467b14): Oh je, glaubst du wirklich, dass ich in diesem Moment Kyurem beschwöre?
+\(a5467b14): Oh je, glaubst du wirklich, dass ich in diesem Moment Kyurem beschwöre?
+\a5467b14]???: Ich bin nicht hier, um Kyurem zu beschwören.
+\a5467b14]???: Ich bin nicht hier, um Kyurem zu beschwören.
+\a5467b14]??? Weil...
+\a5467b14]??? Weil...
+\a5467b14]??? Ich habe Kyurem bereits gefangen genommen.
+\a5467b14]??? Ich habe Kyurem bereits gefangen genommen.
+\wu\bOtto: Was machst du dann hier? Ich meine, geh doch einfach.
+\wu\bOtto: Was machst du dann hier? Ich meine, geh doch einfach.
+\a5467b14]??? Oh! Und da ist Otto. Du folgst uns wohl gerne, oder?
+\a5467b14]??? Oh! Und da ist Otto. Du folgst uns wohl gerne, oder?
+\bOtto: Wenn ihr nicht meine Arena Herausforderung stören würdet, würde ich euch in Ruhe lassen.
+\bOtto: Wenn ihr nicht meine Arena Herausforderung stören würdet, würde ich euch in Ruhe lassen.
+\wu\bJimmy: Yea! Hör schon auf damit!
+\wu\bJimmy: Yea! Hör schon auf damit!
+\a5467b14]??? Und wer bist du? Ein Kind, das sich verlaufen hat?
+\a5467b14]??? Und wer bist du? Ein Kind, das sich verlaufen hat?
+\bJimmy: AAAHHH!!! DAS IST EIN RIESIGER DRACHE!
+\bJimmy: AAAHHH!!! DAS IST EIN RIESIGER DRACHE!
+\[a5467b14]???: Wie auch immer, hier gibt es nichts für euch zu sehen, ihr könnt einfach abhauen.
+\[a5467b14]???: Wie auch immer, hier gibt es nichts für euch zu sehen, ihr könnt einfach abhauen.
+\bOtto: Was machst du dann hier? \1Etris?
+\bOtto: Was machst du dann hier? \1Etris?
+\[a5467b14]Etris: Nun, wenn du so interessiert bist. Ich denke, ich werde dich Zeuge von etwas Großem werden lassen.
+\[a5467b14]Etris: Nun, wenn du so interessiert bist. Ich denke, ich werde dich Zeuge von etwas Großem werden lassen.
+\rNina: Otto, woher kennst du ihn?
+\rNina: Otto, woher kennst du ihn?
+\bJimmy: Yea how do you know this guy? He seems all scary.
+\bJimmy: Yea how do you know this guy? He seems all scary.
+\[a5467b14]Etris: ...
+\[a5467b14]Etris: ...
+\[a5467b14]Etris: Mitglieder von Immortal, werdet die beiden Leute los, sie nerven mich.
+\[a5467b14]Etris: Mitglieder von Immortal, werdet die beiden Leute los, sie nerven mich.
+\bMitglied 1: Ja, Sir!\n\rMitglied 2: Verstanden!
+\bMitglied 1: Ja, Sir!\n\rMitglied 2: Verstanden!
+\rNina: Fass mich nicht an!
+\rNina: Fass mich nicht an!
+\bJimmy: HEY!
+\bJimmy: HEY!
+\[a5467b14]Etris: So, schon viel besser.
+\[a5467b14]Etris: So, schon viel besser.
+\bOtto: Hey! Wo sind sie? Ich werde eine Menge Ärger bekommen, wenn sie weg sind!
+\bOtto: Hey! Wo sind sie? Ich werde eine Menge Ärger bekommen, wenn sie weg sind!
+\[a5467b14]Etris: Oh, mach dir keine Sorgen. Sie wurden nur in die neue Hafenstadt gebracht. Sie werden ihren Weg zurück finden.
+\[a5467b14]Etris: Oh, mach dir keine Sorgen. Sie wurden nur in die neue Hafenstadt gebracht. Sie werden ihren Weg zurück finden.
+\[a5467b14]Etris: Wie ich schon sagte, werde ich euch beiden erlauben, Zeuge von etwas Großem zu werden. Etwas Außergewöhnliches.
+\[a5467b14]Etris: Wie ich schon sagte, werde ich euch beiden erlauben, Zeuge von etwas Großem zu werden. Etwas Außergewöhnliches.
+\[a5467b14]Etris: Ja, ich bin für etwas Erstaunliches hier.
+\[a5467b14]Etris: Ja, ich bin für etwas Erstaunliches hier.
+\[a5467b14]Etris: Ein großer Wunsch, eine große Liebe zu unterstützen.
+\[a5467b14]Etris: Ein großer Wunsch, eine große Liebe zu unterstützen.
+\bOtto: Du bist in dein Pokémon verliebt? Das ist einfach seltsam.
+\bOtto: Du bist in dein Pokémon verliebt? Das ist einfach seltsam.
+\[a5467b14]Etris: Fräulein... Sie ist die Liebe...
+\[a5467b14]Etris: Fräulein... Sie ist die Liebe...
+\[a5467b14]Etris: Aber für den Wunsch...
+\[a5467b14]Etris: Aber für den Wunsch...
+\[a5467b14]Etris: Mir wurden zwei unglaublich mächtige Steine geschenkt.
+\[a5467b14]Etris: Mir wurden zwei unglaublich mächtige Steine geschenkt.
+\[a5467b14]Etris: Die Unovaner hatten eine Geschichte über diese Steine. Eine Geschichte über Ideale und Wahrheiten.
+\[a5467b14]Etris: Die Unovaner hatten eine Geschichte über diese Steine. Eine Geschichte über Ideale und Wahrheiten.
+\[a5467b14]Etris: Nun, ich glaube nicht an Mythen und Legenden, was schwer zu sagen ist, wenn Kyurem zwischen uns steht.
+\[a5467b14]Etris: Nun, ich glaube nicht an Mythen und Legenden, was schwer zu sagen ist, wenn Kyurem zwischen uns steht.
+\[a5467b14]Etris: Aber ich glaube an das Fräulein.
+\[a5467b14]Etris: Aber ich glaube an das Fräulein.
+\[a5467b14]Etris: Und deshalb werde ich diese Mission erfolgreich abschließen, um den einst zerbrochenen Drachen zurückzubringen.
+\[a5467b14]Etris: Und deshalb werde ich diese Mission erfolgreich abschließen, um den einst zerbrochenen Drachen zurückzubringen.
+\bOtto: Warte, du wirst doch nicht...
+\bOtto: Warte, du wirst doch nicht...
+<outln>\[a5467b14]Etris: Oh yes I am...</outln>
+<outln>\[a5467b14]Etris: Oh yes I am...</outln>
+\bOtto: Warte! Machst du Witze?! Er hat sie tatsächlich!
+\bOtto: Warte! Machst du Witze?! Er hat sie tatsächlich!
+<outln>\[a5467b14]Etris: Oh ja, das tue ich...</outln>
+<outln>\[a5467b14]Etris: Oh ja, das tue ich...</outln>
+<outln>\[a5467b14]Etris: Jetzt warten wir darauf, dass die Steine auf die Umgebung reagieren!</outln>
+<outln>\[a5467b14]Etris: Jetzt warten wir darauf, dass die Steine auf die Umgebung reagieren!</outln>
+\bOtto: Wir müssen das JETZT beenden!
+\bOtto: Wir müssen das JETZT beenden!
+<outln>\[a5467b14]Etris: Das lässt sich nicht mehr aufhalten. Du kannst nur noch zusehen.</outln>
+<outln>\[a5467b14]Etris: Das lässt sich nicht mehr aufhalten. Du kannst nur noch zusehen.</outln>
+Zekrom: Uraaaaahhh
+Zekrom: Uraaaaahhh
+Reshiram: Kyaaahhh
+Reshiram: Kyaaahhh
+\[a5467b14]Etris: Erstaunlich, nicht wahr?!
+\[a5467b14]Etris: Erstaunlich, nicht wahr?!
+\bOtto: Was, warum, wie...
+\bOtto: Was, warum, wie...
+\bOtto: Wir müssen diesen Wahnsinn stoppen, bevor er noch schlimmer wird!
+\bOtto: Wir müssen diesen Wahnsinn stoppen, bevor er noch schlimmer wird!
+\bOtto: Ich sage es nur ungern, aber ich brauche deine Unterstützung bei dieser Sache.
+\bOtto: Ich sage es nur ungern, aber ich brauche deine Unterstützung bei dieser Sache.
+\[a5467b14]Etris: Also... wo ist es?
+\[a5467b14]Etris: Also... wo ist es?
+\[a5467b14]Etris: Habe ich das nicht?
+\[a5467b14]Etris: Habe ich das nicht?
+\bOtto: Willst du damit sagen, dass du deinen DNS-Keil verloren hast?
+\bOtto: Willst du damit sagen, dass du deinen DNS-Keil verloren hast?
+\[a5467b14]Etris: Verdammt! Ich habe es diesem dummen Mitglied gegeben!
+\[a5467b14]Etris: Verdammt! Ich habe es diesem dummen Mitglied gegeben!
+\[a5467b14]Etris: Nun, ich muss sie ja noch nicht reformieren. Ich kann das tun, wann immer ich will.
+\[a5467b14]Etris: Nun, ich muss sie ja noch nicht reformieren. Ich kann das tun, wann immer ich will.
+\[a5467b14]Etris: Jetzt geh aus dem Weg!
+\[a5467b14]Etris: Jetzt geh aus dem Weg!
+\bOtto: Wir gehen nirgendwo hin!
+\bOtto: Wir gehen nirgendwo hin!
+\[a5467b14]Etris: Nun... Wenn du es so willst?
+\[a5467b14]Etris: Nun... Wenn du es so willst?
+\[a5467b14]Etris: Ich wusste, dass ich nicht gegen euch beide kämpfen sollte. Deshalb hat das Fräulein ein Kopfgeld auf euch beide ausgesetzt!
+\[a5467b14]Etris: Ich wusste, dass ich nicht gegen euch beide kämpfen sollte. Deshalb hat das Fräulein ein Kopfgeld auf euch beide ausgesetzt!
+\bOtto: Es ist ein Kopfgeld auf uns ausgesetzt?
+\bOtto: Es ist ein Kopfgeld auf uns ausgesetzt?
+\[a5467b14]Etris: Das spielt keine Rolle mehr. Ich habe die Drachen so oder so.
+\[a5467b14]Etris: Das spielt keine Rolle mehr. Ich habe die Drachen so oder so.
+\[a5467b14]Etris: Ich hoffe, das nächste Mal, wenn wir uns treffen, hat das Fräulein ihre Hände an euch beiden.
+\[a5467b14]Etris: Ich hoffe, das nächste Mal, wenn wir uns treffen, hat das Fräulein ihre Hände an euch beiden.
+\bOtto: \PN, ich weiß, dass ich normalerweise nicht so bin. Aber wir müssen diese Typen aufhalten. Nicht nur um meinetwillen, sondern um aller willen.
+\bOtto: \PN, ich weiß, dass ich normalerweise nicht so bin. Aber wir müssen diese Typen aufhalten. Nicht nur um meinetwillen, sondern um aller willen.
+I should probably investigate the area before leaving.
+I should probably investigate the area before leaving.
+\rMöchtest du deine Pokémon heilen?
+\rMöchtest du deine Pokémon heilen?
+\rMoment mal, was ist passiert?!
+\rMoment mal, was ist passiert?!
+\rSo habe ich es von der Maschine abgelesen.
+\rSo habe ich es von der Maschine abgelesen.
+\rIch werde das der Liga melden und sie werden dafür sorgen, dass sie für das, was sie tun, bezahlen.
+\rIch werde das der Liga melden und sie werden dafür sorgen, dass sie für das, was sie tun, bezahlen.
+\rAußerdem habe ich das Gerät an meinen Laptop im Labor angeschlossen, so dass ich nicht hier bleiben muss, um die Messwerte zu überprüfen.
+\rAußerdem habe ich das Gerät an meinen Laptop im Labor angeschlossen, so dass ich nicht hier bleiben muss, um die Messwerte zu überprüfen.
+\rIch bringe dich zum Newfolk City Pokécenter zurück. Von dort aus kannst du nach Westen gehen, um deinen fünften Orden zu erhalten.
+\rIch bringe dich zum Newfolk City Pokécenter zurück. Von dort aus kannst du nach Westen gehen, um deinen fünften Orden zu erhalten.
+\rImmortal steht auf der Gewinnerseite.
+\rImmortal steht auf der Gewinnerseite.
+\rWir werden nicht scheitern.
+\rWir werden nicht scheitern.
+\bIch werde erst einmal hier bleiben.
+\bIch werde erst einmal hier bleiben.
+\rImmortal ist auf der Siegerseite.
+\rImmortal ist auf der Siegerseite.
+It's Professor Maiderhair her machine. It scans energy levels in the area.
+It's Professor Maiderhair her machine. It scans energy levels in the area.
+\bOtto: \PN, ich möchte dich besiegen, um zu sehen, wie stark ich geworden bin.
+\bOtto: \PN, ich möchte dich besiegen, um zu sehen, wie stark ich geworden bin.
+\bOtto: Bist du bereit, besiegt zu werden?
+\bOtto: Bist du bereit, besiegt zu werden?
+\bOtto: Ich heile meine Pokémon, du kannst schon mal vorgehen.
+\bOtto: Ich heile meine Pokémon, du kannst schon mal vorgehen.
+\rProfessorin Maylee: Ich bleibe hier bei der Maschine und du untersuchst.
+\rProfessorin Maylee: Ich bleibe hier bei der Maschine und du untersuchst.
+\bJimmy: Ich komme in ein paar Minuten nach.
+\bJimmy: Ich komme in ein paar Minuten nach.
+\rNina: In Ordnung.
+\rNina: In Ordnung.
+\rProfessorin Maylee: Wenn du deine Pokémon heilen willst, komm zu mir und rede mit mir.
+\rProfessorin Maylee: Wenn du deine Pokémon heilen willst, komm zu mir und rede mit mir.
+Ja
+Ja
+Nein
+Nein

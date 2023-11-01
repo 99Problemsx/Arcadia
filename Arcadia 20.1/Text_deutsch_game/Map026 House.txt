@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map026]
+\rDieArenaleiterin von Hailgem City Nina und ich waren auf derselben Schule.
+\rDieArenaleiterin von Hailgem City Nina und ich waren auf derselben Schule.
+\bPokémon können nur bis zu 4 Attacken gleichzeitig lernen.
+\bPokémon können nur bis zu 4 Attacken gleichzeitig lernen.

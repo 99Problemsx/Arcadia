@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map023]
+\bRightful is on the winning side.
+\bRightful is on the winning side.
+\bWe will not fail.
+\bWe will not fail.
+Greystone Cavern
+Greystone Cavern

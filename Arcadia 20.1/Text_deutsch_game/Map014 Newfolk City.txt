@@ -1,0 +1,50 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map014]
+\bEs tut mir leid, aber du darfst diesen Bereich nicht betreten!
+\bEs tut mir leid, aber du darfst diesen Bereich nicht betreten!
+Hey!
+Hey!
+Hey du!
+Hey du!
+Ja du!
+Ja du!
+Du bist \PN, richtig?
+Du bist \PN, richtig?
+Dann kommst du jetzt mit mir.
+Dann kommst du jetzt mit mir.
+Du musst nicht lügen. Du kommst mit mir mit.
+Du musst nicht lügen. Du kommst mit mir mit.
+Du gehst nirgendwo anders hin als mit mir.
+Du gehst nirgendwo anders hin als mit mir.
+Wir gehen...
+Wir gehen...
+Newfolk City Arena
+Newfolk City Arena
+\bHey loser...
+\bHey loser...
+\bDu hast endlich diese Arena besiegt, was?
+\bDu hast endlich diese Arena besiegt, was?
+\bIch bin schon auf dem Weg zu meinem 6. Orden, aber wie du vielleicht von Razor gehört hast...
+\bIch bin schon auf dem Weg zu meinem 6. Orden, aber wie du vielleicht von Razor gehört hast...
+\b...Verdammt
+\b...Verdammt
+\bAufgrund dieser Rechthaber kann ich die sechste Arena noch nicht herausfordern.
+\bAufgrund dieser Rechthaber kann ich die sechste Arena noch nicht herausfordern.
+\bAlso, ich bin hier, um dich abzuholen.
+\bAlso, ich bin hier, um dich abzuholen.
+\bWir gehen zurück nach Academia City. Professorin Maylee hat etwas, das wir ausprobieren sollen. Aber wir werden die Hilfe der Akademie brauchen.
+\bWir gehen zurück nach Academia City. Professorin Maylee hat etwas, das wir ausprobieren sollen. Aber wir werden die Hilfe der Akademie brauchen.
+\bZumindest sagte sie das.
+\bZumindest sagte sie das.
+\bIch setze dich am Pokécenter ab.
+\bIch setze dich am Pokécenter ab.
+\bSie sagte mir, wir sollten uns im Verwaltungsraum der Akademie treffen.
+\bSie sagte mir, wir sollten uns im Verwaltungsraum der Akademie treffen.
+\bWir gehen jetzt.
+\bWir gehen jetzt.
+Ja
+Ja
+Nein
+Nein

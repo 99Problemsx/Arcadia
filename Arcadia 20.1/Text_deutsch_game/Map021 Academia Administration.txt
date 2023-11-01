@@ -1,0 +1,106 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map021]
+\bDas ist schrecklich!
+\bDas ist schrecklich!
+\bDiese Bastarde...
+\bDiese Bastarde...
+\rDas ist wirklich schrecklich!
+\rDas ist wirklich schrecklich!
+\rIch bin froh, dass in der Grauestein Höhle niemand verletzt wurde.
+\rIch bin froh, dass in der Grauestein Höhle niemand verletzt wurde.
+Evoli: Evo evo!
+Evoli: Evo evo!
+\rAh! \PN du bist hier.
+\rAh! \PN du bist hier.
+\rProfessorin Maylee: Alle sind hier.
+\rProfessorin Maylee: Alle sind hier.
+\bHallo, ich bin Jimmy. Wir haben schon einmal gekämpft. Ich bin der stärkste Schüler der Akademie, erinnerst du dich?
+\bHallo, ich bin Jimmy. Wir haben schon einmal gekämpft. Ich bin der stärkste Schüler der Akademie, erinnerst du dich?
+\rProfessorin Maylee: Ich habe auch meinen Assistent mitgebracht, er hat ein paar Daten, die er teilen möchte.
+\rProfessorin Maylee: Ich habe auch meinen Assistent mitgebracht, er hat ein paar Daten, die er teilen möchte.
+\bNun ja... Wie wir alle wissen, hat Rightful in den letzten Monaten legendäre Pokémon gesammelt.
+\bNun ja... Wie wir alle wissen, hat Rightful in den letzten Monaten legendäre Pokémon gesammelt.
+\bVor zwei Tagen brachen sie in die Liga ein, um ein altes Relikt zu holen, das dort gelagert wurde.
+\bVor zwei Tagen brachen sie in die Liga ein, um ein altes Relikt zu holen, das dort gelagert wurde.
+\bNormalerweise wird jeder, der in die Liga einbricht, sofort von den starken Trainern und natürlich der Elite Vier aufgehalten.
+\bNormalerweise wird jeder, der in die Liga einbricht, sofort von den starken Trainern und natürlich der Elite Vier aufgehalten.
+\bAber sie hatten Darkrai schon gefangen genommen, also kamen sie damit durch...
+\bAber sie hatten Darkrai schon gefangen genommen, also kamen sie damit durch...
+\bDas Relikt, das sie gestohlen haben, war kein uralter Topf oder so etwas.
+\bDas Relikt, das sie gestohlen haben, war kein uralter Topf oder so etwas.
+\bWas sie gestohlen haben, war viel mehr wert.
+\bWas sie gestohlen haben, war viel mehr wert.
+\ff[Kette]\bSie haben eine Nachbildung der Roten Kette gestohlen, die vor etwa 20 Jahren von Team Galaktik hergestellt wurde.
+\ff[Kette]\bSie haben eine Nachbildung der Roten Kette gestohlen, die vor etwa 20 Jahren von Team Galaktik hergestellt wurde.
+\bOtto: Warum ist das so wichtig? Es ist doch nur eine Halskette, oder? Und es ist noch nicht einmal das einzig Wahre.
+\bOtto: Warum ist das so wichtig? Es ist doch nur eine Halskette, oder? Und es ist noch nicht einmal das einzig Wahre.
+\bAssistent: Nun, das haben wir auch gedacht. Aber anscheinend wurde dieser Nachbau so gut gemacht, dass er genauso gut funktioniert.
+\bAssistent: Nun, das haben wir auch gedacht. Aber anscheinend wurde dieser Nachbau so gut gemacht, dass er genauso gut funktioniert.
+\rLehrerin Maria: Und was macht diese Kette so gefährlich?
+\rLehrerin Maria: Und was macht diese Kette so gefährlich?
+\bAssistent: Diese Ketten ähneln den Edelsteinen im legendären See Trio und sie haben die Fähigkeit, 2 der Schöpfungstrio Legenden zu kontrollieren.
+\bAssistent: Diese Ketten ähneln den Edelsteinen im legendären See Trio und sie haben die Fähigkeit, 2 der Schöpfungstrio Legenden zu kontrollieren.
+\rNina: Ich habe von ihnen gehört, dem Schöpfungs Trio. Palkia, Dialga und Giratina. Zusammen haben sie die Macht, Arceus zu stürzen.
+\rNina: Ich habe von ihnen gehört, dem Schöpfungs Trio. Palkia, Dialga und Giratina. Zusammen haben sie die Macht, Arceus zu stürzen.
+\bAssistent: Genau, es ist nicht nur ein Mythos. Aber sie haben trotzdem nur eine von ihnen. Mit nur einer Halskette werden die anderen Legendären Pokémon einfach kommen, um die Dinge in Ordnung zu bringen.
+\bAssistent: Genau, es ist nicht nur ein Mythos. Aber sie haben trotzdem nur eine von ihnen. Mit nur einer Halskette werden die anderen Legendären Pokémon einfach kommen, um die Dinge in Ordnung zu bringen.
+\Aber wenn sie noch eine machen würden...
+\Aber wenn sie noch eine machen würden...
+\rProfessor Maylee: Und das ist genau das, was sie jetzt gerade tun.
+\rProfessor Maylee: Und das ist genau das, was sie jetzt gerade tun.
+\rUnd das bedeutet auch, dass sie in ihrem Versteck wahrscheinlich noch viel mehr Legendäre Pokémon haben.
+\rUnd das bedeutet auch, dass sie in ihrem Versteck wahrscheinlich noch viel mehr Legendäre Pokémon haben.
+\bJimmy: Warte, wie viele können wir mit Sicherheit sagen.
+\bJimmy: Warte, wie viele können wir mit Sicherheit sagen.
+\rProfessor Maylee: Sie haben bereits die Legendären Titanen einschließlich Regigigas.
+\rProfessor Maylee: Sie haben bereits die Legendären Titanen einschließlich Regigigas.
+\rNina: \PN und ich haben sie daran gehindert, Heatran zu bekommen, aber wir können nicht mit Sicherheit sagen, wie lange das anhalten wird.
+\rNina: \PN und ich haben sie daran gehindert, Heatran zu bekommen, aber wir können nicht mit Sicherheit sagen, wie lange das anhalten wird.
+\rProfessor Maylee: Und \PN ist jemandem mit einem Jirachi begegnet.
+\rProfessor Maylee: Und \PN ist jemandem mit einem Jirachi begegnet.
+\bOtto: Sie haben auch schon Xerneas und Yveltal.
+\bOtto: Sie haben auch schon Xerneas und Yveltal.
+\bAssistent: Und da sie bereits Darkrai haben, haben sie wahrscheinlich auch Cresselia erwischt.
+\bAssistent: Und da sie bereits Darkrai haben, haben sie wahrscheinlich auch Cresselia erwischt.
+\bDas ist schon eine Menge, aber wenn sie versuchen, eine Kopie der Kette zu machen, brauchen sie das See Trio.
+\bDas ist schon eine Menge, aber wenn sie versuchen, eine Kopie der Kette zu machen, brauchen sie das See Trio.
+\bUnd um Giratina unter Kontrolle zu halten, brauchen sie einen Haufen anderer Legendärer Pokémon wie zum Beispiel das Wettertrio.
+\bUnd um Giratina unter Kontrolle zu halten, brauchen sie einen Haufen anderer Legendärer Pokémon wie zum Beispiel das Wettertrio.
+\bOtto: Aber du sagtest, du hättest Daten, die du mit uns teilen kannst?
+\bOtto: Aber du sagtest, du hättest Daten, die du mit uns teilen kannst?
+\bAssistent: Richtig! Im Westen der Region wurde eine enorme Menge an Energie entdeckt.
+\bAssistent: Richtig! Im Westen der Region wurde eine enorme Menge an Energie entdeckt.
+\bUnd das sind keine normalen Messwerte. Sie ähneln der Aura, die vom Tao Trio ausgeht.
+\bUnd das sind keine normalen Messwerte. Sie ähneln der Aura, die vom Tao Trio ausgeht.
+\rLehrerin Maria: Reshiram, Zekrom und Kyurem.
+\rLehrerin Maria: Reshiram, Zekrom und Kyurem.
+\rNina: Das kann überhaupt nicht gut sein.
+\rNina: Das kann überhaupt nicht gut sein.
+\bOtto: Und hier kommen wir ins Spiel?
+\bOtto: Und hier kommen wir ins Spiel?
+\rProfessor Maylee: Ich möchte euch vier in die Grünsteinhöhle schicken, um die Lage zu überprüfen.
+\rProfessor Maylee: Ich möchte euch vier in die Grünsteinhöhle schicken, um die Lage zu überprüfen.
+\bJimmy: Wir vier?
+\bJimmy: Wir vier?
+\rProfessor Mayleee: Ja, ich bringe euch rüber. Ich werde ein paar Tests durchführen, während ihr vier nach etwas sucht, das das Tao Trio oder Rightful betrifft.
+\rProfessor Mayleee: Ja, ich bringe euch rüber. Ich werde ein paar Tests durchführen, während ihr vier nach etwas sucht, das das Tao Trio oder Rightful betrifft.
+\Nina: Ich bin mir nicht sicher, ob...
+\Nina: Ich bin mir nicht sicher, ob...
+\bOtto: Hast du Angst oder so? Nur ein paar Drachen.
+\bOtto: Hast du Angst oder so? Nur ein paar Drachen.
+\rProfessor Maylee: Wie auch immer... Wir treffen uns draußen, ich bringe euch dann hin.
+\rProfessor Maylee: Wie auch immer... Wir treffen uns draußen, ich bringe euch dann hin.
+\bOtto: Bringen wir es hinter uns.
+\bOtto: Bringen wir es hinter uns.
+\rNina: Ein Abenteuer.
+\rNina: Ein Abenteuer.
+\bJimmy: Na gut...
+\bJimmy: Na gut...
+Meditalis: Me di talis!
+Meditalis: Me di talis!
+\bKönnen wir uns beeilen? Je eher wir sie aufhalten, desto eher kann ich mein Orden bekommen.
+\bKönnen wir uns beeilen? Je eher wir sie aufhalten, desto eher kann ich mein Orden bekommen.
+\rWarum sollten sie das tun?
+\rWarum sollten sie das tun?

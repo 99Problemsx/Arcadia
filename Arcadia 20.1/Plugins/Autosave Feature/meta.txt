@@ -1,0 +1,5 @@
+Name = Autosave Feature v21.1
+Version = 1.2
+Website = https://reliccastle.com/resources/848
+Credits = Caruban
+Essentials = 21.1

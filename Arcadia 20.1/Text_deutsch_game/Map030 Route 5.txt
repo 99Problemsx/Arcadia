@@ -1,0 +1,68 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map030]
+\rI water these flowers daily just in case.
+\rI water these flowers daily just in case.
+\r\..\..\..
+\r\..\..\..
+\rOh! I see you have a Shaymin! Amazing!
+\rOh! I see you have a Shaymin! Amazing!
+\rI have something for you and Shaymin. This item will help Shaymin out in battle!
+\rI have something for you and Shaymin. This item will help Shaymin out in battle!
+\rThese flowers usually don't grow here, but I managed to grow some.
+\rThese flowers usually don't grow here, but I managed to grow some.
+\rMake sure to take good care of your Shaymin!
+\rMake sure to take good care of your Shaymin!
+\rOh! You don't have any room for that?
+\rOh! You don't have any room for that?
+\rDon't worry, I'll give it to you when you have enough room.
+\rDon't worry, I'll give it to you when you have enough room.
+\rMake sure to take good care of it!
+\rMake sure to take good care of it!
+\bGrass-types and Bug-types share a lot of similarities but are very different!
+\bGrass-types and Bug-types share a lot of similarities but are very different!
+\bStrange right?!
+\bStrange right?!
+\bFishing clears the mind!
+\bFishing clears the mind!
+\bIf I keep fishing, I might catch myself a winner!
+\bIf I keep fishing, I might catch myself a winner!
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+It's a very odd tree.\1 Would you like to try pouring water on it?\.
+It's a very odd tree.\1 Would you like to try pouring water on it?\.
+\bEinige Pokémon sind einfach stärker als andere.
+\bEinige Pokémon sind einfach stärker als andere.
+\bVoll entwickelte Pokémon sind normalerweise stärker als nicht entwickelte Pokémon.
+\bVoll entwickelte Pokémon sind normalerweise stärker als nicht entwickelte Pokémon.
+\bAhoi! Das nächste Schiff fährt bald ab!
+\bAhoi! Das nächste Schiff fährt bald ab!
+\bDas Schlachtschiff ist meine Lieblingsart von Schiff!
+\bDas Schlachtschiff ist meine Lieblingsart von Schiff!
+Ruuu
+Ruuu
+Tauros scheint ein wirklich schnelles Pokémon zu sein. Du könntest dich in es verwandeln, um schneller zu werden.
+Tauros scheint ein wirklich schnelles Pokémon zu sein. Du könntest dich in es verwandeln, um schneller zu werden.
+Nimm ein paar \bTauros-Haare\c[0]?
+Nimm ein paar \bTauros-Haare\c[0]?
+\bIch hoffe, du hast keine Wasser Pokémon bei dir, ohne konkreten Grund!
+\bIch hoffe, du hast keine Wasser Pokémon bei dir, ohne konkreten Grund!
+\bIch werde meine Flammen füttern, um stärker zu werden!
+\bIch werde meine Flammen füttern, um stärker zu werden!
+\rDie Freundschaft mit deinen Pokémon macht sie im Kampf stärker!
+\rDie Freundschaft mit deinen Pokémon macht sie im Kampf stärker!
+\rI love my Pokémon!
+\rI love my Pokémon!
+\bErst vor ein paar Jahren wurde der Soundtyp entdeckt. Davor dachten viele Menschen, die meisten Pokémon vom Typ Sound seien normal.
+\bErst vor ein paar Jahren wurde der Soundtyp entdeckt. Davor dachten viele Menschen, die meisten Pokémon vom Typ Sound seien normal.
+Yes
+Yes
+No
+No
+Ja
+Ja
+Nein
+Nein

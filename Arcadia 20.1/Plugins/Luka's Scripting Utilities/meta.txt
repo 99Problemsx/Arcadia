@@ -1,6 +1,6 @@
 Name       =  Luka's Scripting Utilities
 Version    = 3.3.2
-Essentials = 20.1
+Essentials = 21.1
 Website    = https://luka-sj.com/res/luts
 Credits    = Luka S.J.
 #====================================================================
@@ -8,5 +8,5 @@ Credits    = Luka S.J.
 #====================================================================
 #
 # 1.0.0:
-# - Initial Port from Essentials 19.1 to 20.1.
+# - Initial Port from Essentials 20.1 to 21.
 #====================================================================

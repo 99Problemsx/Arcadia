@@ -1,0 +1,40 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map001]
+Heiteira: Hei teira!!
+Heiteira: Hei teira!!
+Dummisel: Dum dum!!
+Dummisel: Dum dum!!
+\rHallo, und willkommen im Pokémon Center.
+\rHallo, und willkommen im Pokémon Center.
+\rWir stellen die volle Gesundheit deiner müden Pokémon wieder her.
+\rWir stellen die volle Gesundheit deiner müden Pokémon wieder her.
+r\Möchtest du deine Pokémon heilen?
+r\Möchtest du deine Pokémon heilen?
+\rOK, ich werde dein Pokémon für ein paar Sekunden nehmen.
+\rOK, ich werde dein Pokémon für ein paar Sekunden nehmen.
+\rDein Pokémon könnte mit PokeRus infiziert sein.
+\rDein Pokémon könnte mit PokeRus infiziert sein.
+\rÜber das PokeRus ist wenig bekannt, außer dass es mikroskopische Lebensformen sind, die sich an Pokémon anheften.
+\rÜber das PokeRus ist wenig bekannt, außer dass es mikroskopische Lebensformen sind, die sich an Pokémon anheften.
+\rWährend sie infiziert sind, wachsen Pokémon angeblich außergewöhnlich gut.
+\rWährend sie infiziert sind, wachsen Pokémon angeblich außergewöhnlich gut.
+\rDanke fürs Warten.
+\rDanke fürs Warten.
+\rWir haben deine Pokémon vollständig geheilt.
+\rWir haben deine Pokémon vollständig geheilt.
+\rWir hoffen, dass wir dich wiedersehen!
+\rWir hoffen, dass wir dich wiedersehen!
+\rWe hope to see you again!
+\rWe hope to see you again!
+\rZuerst solltest du deine Pokémon heilen.
+\rZuerst solltest du deine Pokémon heilen.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+Yes
+Yes
+No
+No

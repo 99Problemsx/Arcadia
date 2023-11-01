@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map013]
+\bI'm sorry, but I will need those keys to open this gate. Please help me out.
+\bI'm sorry, but I will need those keys to open this gate. Please help me out.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+You returned the key to the Gatekeeper.
+You returned the key to the Gatekeeper.
+\bThank you for returning my key!
+\bThank you for returning my key!
+\bI'll open the gate now!
+\bI'll open the gate now!

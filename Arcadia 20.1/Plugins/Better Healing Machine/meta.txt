@@ -1,5 +1,0 @@
-Name = Better Healing Machine
-Version = 1.0
-Essentials = 20.1
-Credits = mej71, Rua
-

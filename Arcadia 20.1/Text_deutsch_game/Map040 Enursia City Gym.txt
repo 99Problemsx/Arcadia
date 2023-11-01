@@ -1,0 +1,40 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map040]
+\bAh welcome challenger! This gym seems very complicated at first! But not to worry, it is all an illusion made by Alysa her Mr. Mime.
+\bAh welcome challenger! This gym seems very complicated at first! But not to worry, it is all an illusion made by Alysa her Mr. Mime.
+\bAlysa mainly uses Fairy and Psychic types. So Steel, Ghost and Bug types are recommended.
+\bAlysa mainly uses Fairy and Psychic types. So Steel, Ghost and Bug types are recommended.
+\bCongratulations challenger!
+\bCongratulations challenger!
+\rAlysa: Sorry! I never got your name, may I get it before we begin?
+\rAlysa: Sorry! I never got your name, may I get it before we begin?
+\rAlysa: \PN? Can I call you \PN-chan?
+\rAlysa: \PN? Can I call you \PN-chan?
+\rAlysa: Alright then \PN-chan!
+\rAlysa: Alright then \PN-chan!
+\rAlysa: Let's not waste any more time!
+\rAlysa: Let's not waste any more time!
+\rAlysa: Great job \PN-chan!!!!
+\rAlysa: Great job \PN-chan!!!!
+\rAlysa: I adored this battle! You showed me exactly the bond between you and your Pokémon!
+\rAlysa: I adored this battle! You showed me exactly the bond between you and your Pokémon!
+\b\PN \c[0]received the \rSpatial Badge.
+\b\PN \c[0]received the \rSpatial Badge.
+\rAlysa: Again, congratulations \PN-chan!
+\rAlysa: Again, congratulations \PN-chan!
+\rAlysa: Make sure you inform me when you find out how to open the door!
+\rAlysa: Make sure you inform me when you find out how to open the door!
+\rAlysa: I wish you good luck with your last 3 gyms! They are really tough! Especially the next one.
+\rAlysa: I wish you good luck with your last 3 gyms! They are really tough! Especially the next one.
+\rThat is Trick Room, use it well!
+\rThat is Trick Room, use it well!
+\rAlysa: Cya \PN-chan!
+\rAlysa: Cya \PN-chan!
+\rAlysa: I enjoyed our battle, \PN-chan!
+\rAlysa: I enjoyed our battle, \PN-chan!
+Yes
+Yes
+No
+No

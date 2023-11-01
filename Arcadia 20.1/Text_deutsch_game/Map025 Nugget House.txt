@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map025]
+\bHi, people call me the Nugget Man.
+\bHi, people call me the Nugget Man.
+\bI will battle you everyday, and if you win I will give you a nugget.
+\bI will battle you everyday, and if you win I will give you a nugget.
+\bAre you interested?
+\bAre you interested?
+\bThis was a great battle.
+\bThis was a great battle.
+\bPlease take this.
+\bPlease take this.
+\bYou will have to wait another day before challenging me again.
+\bYou will have to wait another day before challenging me again.
+Yes
+Yes
+No
+No
