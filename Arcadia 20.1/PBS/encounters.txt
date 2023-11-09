@@ -1,19 +1,19 @@
-# See the documentation on the wiki to learn how to edit this file.
+﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[015] # Berheide
+[015] # Rightful Base #4
 Land,21
+    15,DODUO,22,26
+    15,PONYTA,22,26
+    15,SUNKERN,22,26
+    15,WHISMUR,22,26
+    10,FEAROW,22,26
+    9,ABRA,22,26
     5,MILTANK,22,26
     5,TAUROS,22,26
     3,BOUFFALANT,22,26
-    15,SUNKERN,22,26
-    15,DODUO,22,26
     3,LARVESTA,22,26
-    9,ABRA,22,26
-    15,WHISMUR,22,26
-    10,FEAROW,22,26
-    15,PONYTA,22,26
 #-------------------------------
-[030] # Hornbach
+[030] # Route 5
 Land,21
     15,HOPPIP,20,25
     10,BUIZEL,20,25
@@ -40,7 +40,7 @@ OldRod
     5,BASCULIN_1,20,25
     5,FEEBAS,20,25
 #-------------------------------
-[031] # Schmidrütli
+[031] # Heggate Town
 Water,2
     20,LOTAD,13,14
     20,MARILL,14
@@ -58,15 +58,15 @@ OldRod
     8,BASCULIN,5
     7,BASCULIN_1,5
 #-------------------------------
-[032] # Siedlingen
+[032] # Titan Town
 Land,21
     20,POOCHYENA,2,4
     15,SIZZLIPEDE,2,4
     15,VOLTORB,2,4
     10,MEOWTH,2,4
     10,WYNAUT,2,4
-    9,MUNNA,2,4
     9,HAPPINY,2,4
+    9,MUNNA,2,4
     4,AUDINO,2,4
     4,DITTO,2,4
     4,KLEFKI,2,4
@@ -75,28 +75,28 @@ OldRod
 Water,2
     100,CRAMORANT,20,30
 #-------------------------------
-[077] # Wiesenflur
+[077] # Route 1
 Land,21
     15,CATERPIE,2,5
-    10,FLETCHLING,2,5
-    10,PIDGEY,2,5
-    10,PIDOVE,2,5
     15,SCATTERBUG,2,5
     10,CUTIEFLY,2,5
+    10,FLETCHLING,2,5
     10,LEDYBA,2,5
+    10,PIDGEY,2,5
+    10,PIDOVE,2,5
     6,PICHU,2,5
     6,YAMPER,2,5
     5,CHESPIN,2,5
     3,MUNCHLAX,2,5
 #-------------------------------
-[082] # Dunkelpfad
+[082] # Brinkstone Cave
 Cave,5
     15,GEODUDE,5,9
-    10,ROGGENROLA,5,9
     15,ZUBAT,5,9
     10,CUBONE,5,9
     10,DWEBBLE,5,9
     10,NOSEPASS,5,9
+    10,ROGGENROLA,5,9
     10,WOOBAT,5,9
     6,GOLETT,5,9
     6,MISDREAVUS,5,9
@@ -115,7 +115,7 @@ OldRod
     5,FEEBAS,10,20
     1,PHIONE,15,25
 #-------------------------------
-[085] # Frostfeld
+[085] # Route 3
 Land,21
     20,BERGMITE,50,55
     20,CRYOGONAL,50,55
@@ -128,7 +128,7 @@ Land,21
     20,SWINUB,50,55
     20,VULPIX_1,50,55
 #-------------------------------
-[086] # Schwalbenweg
+[086] # Route 2
 Land,21
     10,COMBEE,8,11
     10,KRICKETOT,8,11
@@ -137,45 +137,59 @@ Land,21
     10,WEEDLE,8,11
     9,TAILLOW,8,11
     6,GRUBBIN,8,11
-    5,SHROOMISH,8,11
     6,MACHOP,8,11
-    5,SHINX,8,11
+    6,NYMBLE,8,11
     5,NIDORANfE,8,11
     5,NIDORANmA,8,11
+    5,SHINX,8,11
+    5,SHROOMISH,8,11
     3,SCORBUNNY,8,11
-    6,NYMBLE,8,11
 #-------------------------------
-[089] # Liliko'i
+[087] # New Harbour Town
+Water,2
+    25,KRABBY,20,30
+    20,STARYU,20,30
+    20,TENTACOOL,20,30
+    20,WINGULL,20,30
+    10,FINIZEN,20,30
+    5,DRATINI,20,30
+OldRod
+    35,FINNEON,15,25
+    25,CLAMPERL,15,25
+    25,HORSEA,15,25
+    15,ARROKUDA,15
+#-------------------------------
+[089] # Norpeak Island
 Land,21
     12,BINACLE,10,12
     12,CHEWTLE,10,12
-    10,CRABRAWLER,10,12
     12,INKAY,10,12
     10,CLOBBOPUS,10,12
+    10,CRABRAWLER,10,12
     10,TIRTOUGA,10,12
+    8,PAWMI,10,12
     8,SANDYGAST,10,12
+    8,WATTREL,10,12
     6,SQUAWKABILLY,10,12
     4,KOMALA,10,12
-    8,PAWMI,10,12
-    8,WATTREL,10,12
 OldRod
     25,CLAMPERL,5,15
     20,CHINCHOU,5,15
     20,WAILMER,5,15
     10,CLAUNCHER,5,15
-    10,SPHEAL,5,15
     10,SKRELP,5,15
+    10,SPHEAL,5,15
     5,SQUIRTLE,5,15
 Water,2
     25,MANTYKE,20,25
     20,CORSOLA,20,25
     20,MAREANIE,20,25
     15,WISHIWASHI,20,25
-    5,POPPLIO,20,25
     10,TATSUGIRI,20,25
     5,DONDOZO,20,25
+    5,POPPLIO,20,25
 #-------------------------------
-[095] # Wanderweg
+[095] # House4
 Land,21
     10,BUNNELBY,18,22
     10,EKANS,18,22
@@ -189,10 +203,11 @@ Land,21
     8,STANTLER,18,22
     5,ROCKRUFF,18,22
 #-------------------------------
-[133] # Normallichtung
+[133]
 Land,21
     9,BIDOOF,2,5
     9,BUNNELBY,2,5
+    9,LECHONK,2,5
     9,PATRAT,2,5
     9,RATTATA,2,5
     9,SENTRET,2,5
@@ -202,9 +217,8 @@ Land,21
     7,LILLIPUP,2,5
     7,WOOLOO,2,5
     5,EEVEE,2,5
-    9,LECHONK,2,5
 #-------------------------------
-[200] # Siedlerforst
+[200]
 Land,21
     10,BELLSPROUT,12,14
     10,BLIPBUG,12,14
@@ -229,7 +243,7 @@ OldRod
     25,CORPHISH,18,22
     10,FEEBAS,18,22
 #-------------------------------
-[203] # Hagerode
+[203]
 Land,21
     16,EXEGGCUTE,12,15
     16,FOONGUS,12,15
@@ -243,17 +257,3 @@ Land,21
     4,INDEEDEE,12,15
     4,INDEEDEE_1,12,15
     4,LITTEN,12,15
-#-------------------------------
-[087] # Gronhafen
-Water,2
-    20,WINGULL,20,30
-    20,STARYU,20,30
-    25,KRABBY,20,30
-    20,TENTACOOL,20,30
-    10,FINIZEN,20,30
-    5,DRATINI,20,30
-OldRod
-    35,FINNEON,15,25
-    25,HORSEA,15,25
-    25,CLAMPERL,15,25
-    15,ARROKUDA,15

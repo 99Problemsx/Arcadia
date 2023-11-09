@@ -7835,7 +7835,6 @@ FieldUse = Direct
 Flags = KeyItem
 Description = A wizard used to own this.
 #-------------------------------------------------------------------------------
-#-------------------------------------------------------------------------------
 [EXPALL]
 Name = EP-Teiler
 NamePlural = Ep-Teiler
@@ -7843,3 +7842,43 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Für die faulen
+#-------------------------------------------------------------------------------
+[DIPLOMA]
+Name = Diplom
+NamePlural = Diplome
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A declaration that you have passed the Academia Exams.
+#-------------------------------------------------------------------------------
+[HITMONCHANGLOVE]
+Name = Hitmonchan Glove
+NamePlural = Diplome
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A glove recieved from a Hitmonchan. It allows you to transform into a Hitmonchan.
+#-------------------------------------------------------------------------------
+[GATEKEY]
+Name = Schlüssel
+NamePlural = Diplome
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Ein Schlüssel.
+#-------------------------------------------------------------------------------
+[COSMICSHARD]
+Name = Cosmicshard
+NamePlural = Cosmicshard
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Shard.
+#-------------------------------------------------------------------------------
+[GRAVELERPEBBLE]
+Name = Steinkostüm
+NamePlural = Cosmicshard
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Shard.

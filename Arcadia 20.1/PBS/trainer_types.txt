@@ -493,3 +493,73 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = battleRightfulGrunt
 VictoryBGM = Battle victory leader
+#-------------------------------
+[PRESCHOOLER_M]
+Name = Schüler
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[PRESCHOOLER_F]
+Name = Schülerin
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TEACHER]
+Name = Lehrerin
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[JO]
+Name = Admin
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ALICE]
+Name = Admin
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[MINER]
+Name = Minenarbeiter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PARASOL]
+Name = Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[ACETRAINER_F]
+Name = Ass Trainerin
+Gender = Female
+BaseMoney = 24
+#-------------------------------
+[ACETRAINER_M]
+Name = Ass Trainer
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[RICHBOY]
+Name = Schnösel
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[FIREBREATHER]
+Name = Feuerspucker
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[LEADER_Hellen]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[VEDETTA]
+Name = Admin
+Gender = Male
+BaseMoney = 30

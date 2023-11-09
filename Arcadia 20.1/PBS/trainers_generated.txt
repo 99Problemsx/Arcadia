@@ -1,0 +1,721 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[PICNICKER,Charlotte]
+LoseText = Looks like you're the stronger one...
+Pokemon = SANDILE,5
+#-------------------------------
+[LASS,Iris]
+LoseText = I see. So you can battle that way.
+Pokemon = YUNGOOS,5
+#-------------------------------
+[PRESCHOOLER_M,Ben]
+LoseText = I did not expect to lose this battle.
+Pokemon = ONIX,6
+Pokemon = HOUNDOUR,7
+#-------------------------------
+[BUGCATCHER,James]
+LoseText = I can't move anymore...
+Pokemon = SHELMET,5
+Pokemon = SCATTERBUG,5
+#-------------------------------
+[LADY,Lauren]
+LoseText = That's strange. I won before.
+Pokemon = FIDOUGH,5
+Pokemon = ELEKID,5
+#-------------------------------
+[CAMPER,Liam]
+LoseText = Oh, yikes! We lost!
+Pokemon = BUNEARY,5
+Pokemon = RATTATA,5
+#-------------------------------
+[LASS,Jasmine]
+LoseText = You never saw me...
+Pokemon = FURFROU,6
+Pokemon = SLAKOTH,7
+#-------------------------------
+[BUGCATCHER,Darek]
+Items = FULLHEAL
+LoseText = Uwahauwaha!
+Pokemon = WURMPLE,5
+Pokemon = SURSKIT,6
+Pokemon = PARAS,6
+#-------------------------------
+[PICNICKER,Tiffany]
+LoseText = I was not expecting to lose that hard.
+Pokemon = SLUGMA,5
+Pokemon = DURANT,6
+Pokemon = SUNKERN,6
+#-------------------------------
+[YOUNGSTER,Jimmy]
+Items = FULLRESTORE
+LoseText = We give up! You're the winner!
+Pokemon = DEWPIDER,5
+Pokemon = NYMBLE,5
+Pokemon = YUNGOOS,6
+#-------------------------------
+[TEACHER,Maria]
+LoseText = Phew...
+Pokemon = BUDEW,5
+Pokemon = ZIGZAGOON,6
+Pokemon = AIPOM,8
+#-------------------------------
+[RIVAL1,Otto,1]
+LoseText = That's odd.
+Pokemon = BURMY,5
+Pokemon = SKORUPI,6
+Pokemon = STARLY,5
+#-------------------------------
+[HIKER,Ben]
+Items = FULLRESTORE
+LoseText = Mercy!
+Pokemon = SAWK,6
+Pokemon = CORSOLA,5
+Pokemon = MIENFOO,5
+#-------------------------------
+[BLACKBELT,Damien]
+LoseText = No way!
+Pokemon = SHROOMISH,6
+Pokemon = IRONHANDS,5
+Pokemon = MANKEY,5
+#-------------------------------
+[HIKER,Tyler]
+LoseText = Uwahauwaha!
+Pokemon = CUBONE,5
+Pokemon = SHROOMISH,5
+Pokemon = TURTWIG,6
+#-------------------------------
+[BUGCATCHER,Thomas]
+LoseText = Oh... I lost... you're not weak...
+Pokemon = JOLTIK,5
+Pokemon = PHEROMOSA,7
+Pokemon = SHELMET,6
+#-------------------------------
+[LASS,Colin]
+LoseText = Didn't I train enough?
+Pokemon = PANSAGE,5
+Pokemon = TANDEMAUS,6
+Pokemon = PARAS,8
+#-------------------------------
+[BLACKBELT,Matteo]
+LoseText = Gwa ha ha! I lost.
+Pokemon = SCRAGGY,6
+Pokemon = RIOLU,5
+Pokemon = FLAMIGO,7
+#-------------------------------
+[HIKER,Dennis]
+LoseText = I suppose I am the loser.
+Pokemon = QUAXLY,6
+Pokemon = TIRTOUGA,6
+Pokemon = IRONTHORNS,5
+#-------------------------------
+[LASS,Patricia]
+LoseText = Looks like you're the stronger one...
+Pokemon = SHROODLE,6
+Pokemon = SPRIGATITO,6
+Pokemon = SPINDA,7
+#-------------------------------
+[TUBER2_F,Jean]
+LoseText = Argh! You're too strong!
+Pokemon = VENIPEDE,5
+Pokemon = WOOLOO,6
+Pokemon = SCATTERBUG,6
+Pokemon = FARIGIRAF,9
+#-------------------------------
+[YOUNGCOUPLE,Holly]
+LoseText = Uww... I blew it.
+Pokemon = LITWICK,6
+Pokemon = AZURILL,5
+Pokemon = SAWK,6
+Pokemon = MAGIKARP,7
+#-------------------------------
+[RIVAL1,Otto,2]
+LoseText = I can't accept defeat like this...
+Pokemon = SENTRET,5
+Pokemon = WURMPLE,5
+Pokemon = SKORUPI,5
+#-------------------------------
+[SUPERNERD,Liam]
+Items = HYPERPOTION
+LoseText = Uwaaah! Eeek!
+Pokemon = ROTOM,6
+Pokemon = PACHIRISU,7
+Pokemon = ODDISH,5
+Pokemon = TOXEL,6
+#-------------------------------
+[SUPERNERD,Beau]
+LoseText = I knew you would win.
+Pokemon = WATTREL,5
+Pokemon = YAMPER,5
+Pokemon = MAREANIE,5
+#-------------------------------
+[LEADER_Surge,Hayden]
+LoseText = Aww man, I thought I had a chance.
+Pokemon = STARLY,6
+Pokemon = MEOWTH,7
+Pokemon = DODUO,6
+Pokemon = KOMALA,6
+Pokemon = PATRAT,10
+Pokemon = TRAPINCH,5
+#-------------------------------
+[PROFESSOR,Maidenhair]
+LoseText = I knew you would win.
+Pokemon = WATTREL,5
+Pokemon = YAMPER,5
+Pokemon = MAREANIE,5
+#-------------------------------
+[JO,Jo,1]
+Items = DIREHIT
+LoseText = I suppose I am the loser.
+Pokemon = LILLIPUP,5
+Pokemon = JOLTIK,7
+Pokemon = AIPOM,7
+Pokemon = BUNNELBY,5
+#-------------------------------
+[ALICE,Alice,1]
+LoseText = Good battle!
+Pokemon = SPOINK,5
+Pokemon = ANORITH,7
+#-------------------------------
+[SWIMMER_M,Jacob]
+LoseText = ...did I win?
+Pokemon = CLOBBOPUS,5
+Pokemon = SLOWPOKE,6
+Pokemon = FRILLISH,6
+Pokemon = BUIZEL,5
+#-------------------------------
+[SWIMMER_F,Jamie]
+LoseText = Yow! You're too strong!
+Pokemon = SLOWPOKE,6
+Pokemon = FROAKIE,5
+Pokemon = SQUIRTLE,7
+Pokemon = SHELLDER,7
+#-------------------------------
+[LEADER_Erika,Cal]
+LoseText = Oh... That's disappointing!
+Pokemon = RELLOR,6
+Pokemon = JOLTIK,5
+Pokemon = MEOWTH,7
+Pokemon = KANGASKHAN,6
+Pokemon = RABSCA,8
+Pokemon = STARLY,5
+#-------------------------------
+[TUBER2_F,Kyle]
+LoseText = Good battle!
+Pokemon = ZANGOOSE,5
+Pokemon = CUTIEFLY,6
+Pokemon = BLIPBUG,6
+Pokemon = TAROUNTULA,5
+#-------------------------------
+[TUBER2_F,Hugh]
+LoseText = I was no match...
+Pokemon = WOOLOO,6
+Pokemon = YUNGOOS,6
+Pokemon = RELLOR,8
+Pokemon = GRUBBIN,9
+#-------------------------------
+[MINER,Jerry]
+Items = FULLHEAL
+LoseText = ...Humph! Are you happy you won?
+Pokemon = SANDYGAST,6
+Pokemon = CUBONE,5
+Pokemon = KUBFU,6
+Pokemon = SWINUB,8
+Pokemon = SAWK,5
+Pokemon = CARBINK,7
+#-------------------------------
+[LEADER_Koga,Nina]
+Items = DIREHIT
+LoseText = I can't move anymore...
+Pokemon = LITLEO,6
+Pokemon = PARAS,6
+Pokemon = LILLIPUP,8
+Pokemon = AUDINO,8
+Pokemon = LECHONK,8
+Pokemon = DWEBBLE,6
+#-------------------------------
+[PARASOL,Nive]
+Items = FULLRESTORE
+LoseText = Good battle!
+Pokemon = ALOMOMOLA,6
+Pokemon = FINIZEN,5
+Pokemon = LUVDISC,7
+Pokemon = FROAKIE,6
+Pokemon = MAGIKARP,10
+#-------------------------------
+[PICNICKER,Dora]
+LoseText = Aww man, I thought I had a chance.
+Pokemon = NIDORANmA,5
+Pokemon = TORKOAL,7
+Pokemon = ROOKIDEE,7
+Pokemon = STARMIE,9
+Pokemon = FIDOUGH,10
+#-------------------------------
+[BEAUTY,Sassy]
+Items = FULLRESTORE
+LoseText = Gwa ha ha! I lost.
+Pokemon = NIDORANfE,5
+Pokemon = CARVANHA,6
+Pokemon = NUMEL,7
+Pokemon = CORPHISH,9
+Pokemon = CARVANHA,6
+#-------------------------------
+[ACETRAINER_F,Ingrid]
+Items = FULLRESTORE
+LoseText = Uwaaah! Eeek!
+Pokemon = PUMPKABOO,5
+Pokemon = DEERLING,6
+Pokemon = SANDILE,5
+Pokemon = ROOKIDEE,8
+#-------------------------------
+[HIKER,Jon]
+LoseText = I was not expecting to lose that hard.
+Pokemon = HAWLUCHA,5
+Pokemon = PAWMI,6
+Pokemon = TYRUNT,8
+Pokemon = LECHONK,9
+Pokemon = HERACROSS,8
+#-------------------------------
+[CAMPER,Caleb]
+LoseText = That's strange. I won before.
+Pokemon = KANGASKHAN,6
+Pokemon = SURSKIT,6
+Pokemon = GRUBBIN,6
+Pokemon = TAUROS,8
+#-------------------------------
+[RICHBOY,Nugget Guy,1]
+LoseText = Gwa ha ha! I lost.
+Pokemon = SHINX,6
+Pokemon = ZIGZAGOON,6
+Pokemon = AZURILL,5
+Pokemon = SHINX,7
+Pokemon = ZIGZAGOON,9
+Pokemon = ZIGZAGOON,10
+#-------------------------------
+[TUBER2_F,Don]
+LoseText = Oh... I lost... you're not weak...
+Pokemon = SEWADDLE,5
+Pokemon = SURSKIT,5
+Pokemon = PIDOVE,5
+Pokemon = BUNEARY,7
+#-------------------------------
+[YOUNGCOUPLE,Tess]
+LoseText = Yaha! I lost!
+Pokemon = RHYPERIOR,46
+Pokemon = EMBOAR,46
+Pokemon = LANTURN,47
+Pokemon = MABOSSTIFF,47
+#-------------------------------
+[TUBER2_F,Michael]
+LoseText = Tch! I took you too lightly!
+Pokemon = EXPLOUD,55
+Pokemon = SLAKING,56
+Pokemon = NINJASK,55
+Pokemon = VESPIQUEN,58
+Pokemon = INDEEDEE,56
+#-------------------------------
+[CODEWISH,WISHMAKER]
+LoseText = OK! I give up!
+Pokemon = AUDINO,55
+Pokemon = WORMADAM,55
+Pokemon = FORRETRESS,56
+Pokemon = FROSMOTH,57
+Pokemon = LEAVANNY,58
+Pokemon = SHEDINJA,55
+#-------------------------------
+[FIREBREATHER,Ken]
+LoseText = Good battle!
+Pokemon = CAMERUPT,56
+Pokemon = MAGMORTAR,56
+Pokemon = SALAZZLE,58
+Pokemon = INFERNAPE,57
+Pokemon = COALOSSAL,59
+Pokemon = MAGMORTAR,56
+#-------------------------------
+[FIREBREATHER,James]
+LoseText = Argh, I can't do anymore...
+Pokemon = BLAZIKEN,76
+Pokemon = CERULEDGE,75
+Pokemon = TALONFLAME,76
+Pokemon = COALOSSAL,79
+Pokemon = MARACTUS,79
+Pokemon = INCINEROAR,81
+#-------------------------------
+[LASS,Jamie]
+Items = FULLHEAL
+LoseText = That's strange. I won before.
+Pokemon = PACHIRISU,56
+Pokemon = DIGGERSBY,57
+Pokemon = STOUTLAND,57
+Pokemon = TOUCANNON,56
+Pokemon = BIBAREL,58
+Pokemon = BRELOOM,61
+#-------------------------------
+[LEADER_Sabrina,Razor]
+LoseText = Aww, darn it!
+Pokemon = LOKIX,75
+Pokemon = BRAVIARY,77
+Pokemon = SPINDA,76
+Pokemon = ARAQUANID,77
+Pokemon = RIBOMBEE,80
+Pokemon = ACCELGOR,81
+#-------------------------------
+[TUBER2_F,Sebastian]
+Items = DIREHIT
+LoseText = Good battle!
+Pokemon = OINKOLOGNE,55
+Pokemon = MASQUERAIN,55
+Pokemon = BEEDRILL,56
+Pokemon = LEAVANNY,59
+Pokemon = CINCCINO,59
+Pokemon = VIKAVOLT,59
+#-------------------------------
+[TUBER2_F,Noah]
+LoseText = Argh, I can't do anymore...
+Pokemon = MASQUERAIN,65
+Pokemon = BEAUTIFLY,67
+Pokemon = TOUCANNON,65
+Pokemon = CRUSTLE,67
+Pokemon = OBSTAGOON,65
+Pokemon = SHEDINJA,70
+#-------------------------------
+[YOUNGCOUPLE,Jasmine]
+LoseText = I lost that one!
+Pokemon = RAPIDASH,65
+Pokemon = GOLDUCK,66
+Pokemon = INFERNAPE,65
+Pokemon = TINKATON,66
+Pokemon = INTELEON,69
+Pokemon = CHARIZARD,67
+#-------------------------------
+[RIVAL1,Otto,3]
+Items = FULLRESTORE
+LoseText = Gaah!
+Pokemon = ESCAVALIER,66
+Pokemon = GENESECT,65
+Pokemon = GOLISOPOD,65
+Pokemon = STARAPTOR,69
+Pokemon = EXPLOUD,70
+Pokemon = KECLEON,65
+#-------------------------------
+[TUBER2_F,Jackson]
+LoseText = Hang on, this makes no sense...
+Pokemon = CASTFORM,55
+Pokemon = DIGGERSBY,55
+Pokemon = ALTARIA,55
+Pokemon = PHEROMOSA,59
+Pokemon = CRUSTLE,56
+Pokemon = SCOLIPEDE,57
+#-------------------------------
+[YOUNGCOUPLE,Nancy]
+LoseText = No way!
+Pokemon = PERSIAN,76
+Pokemon = LUMINEON,76
+Pokemon = SWELLOW,75
+Pokemon = FEAROW,78
+Pokemon = PYROAR,79
+Pokemon = ILLUMISE,80
+#-------------------------------
+[RIVAL1,Otto,4]
+Items = FULLRESTORE
+LoseText = Gaah!
+Pokemon = ESCAVALIER,66
+Pokemon = GENESECT,65
+Pokemon = GOLISOPOD,65
+Pokemon = STARAPTOR,69
+Pokemon = EXPLOUD,70
+Pokemon = KECLEON,65
+#-------------------------------
+[ADMIN_Etris,Etris]
+LoseText = I was no match...
+Pokemon = PIDGEOT,100
+Pokemon = DUBWOOL,100
+Pokemon = VIVILLON,100
+Pokemon = TALONFLAME,100
+Pokemon = KECLEON,100
+Pokemon = SWELLOW,100
+#-------------------------------
+[SAILOR,Luther]
+LoseText = Wow, you're too good!
+Pokemon = ALOMOMOLA,75
+Pokemon = STARMIE,77
+Pokemon = DREDNAW,78
+Pokemon = SIMIPOUR,79
+Pokemon = PALAFIN,79
+#-------------------------------
+[SCIENTIST,Jack]
+LoseText = You're too much!
+Pokemon = SILVALLY,65
+Pokemon = ESCAVALIER,65
+Pokemon = SAWSBUCK,67
+Pokemon = FORRETRESS,67
+Pokemon = DUSTOX,69
+#-------------------------------
+[PICNICKER,Missy]
+LoseText = Oh, dear! I wanted to win!
+Pokemon = MAGMORTAR,76
+Pokemon = VENUSAUR,76
+Pokemon = TENTACRUEL,77
+Pokemon = POLIWRATH,79
+Pokemon = DEDENNE,75
+#-------------------------------
+[RICHBOY,Gus]
+LoseText = This can't be happening.
+Pokemon = OBSTAGOON,65
+Pokemon = LUXRAY,67
+Pokemon = LUXRAY,68
+Pokemon = OBSTAGOON,65
+Pokemon = OBSTAGOON,68
+Pokemon = AZUMARILL,71
+#-------------------------------
+[FISHERMAN,Harold]
+LoseText = Wow, you're too good!
+Pokemon = CORSOLA,6
+Pokemon = BARBOACH,6
+Pokemon = HORSEA,8
+Pokemon = MAGIKARP,5
+Pokemon = SLOWKING,7
+#-------------------------------
+[FIREBREATHER,Clarence]
+LoseText = Ugh, why do I always keep losing these battles?
+Pokemon = CHARIZARD,80
+Pokemon = EMBOAR,81
+Pokemon = BLAZIKEN,83
+#-------------------------------
+[LEADER_Blaine,Alysa]
+LoseText = You're too much!
+Pokemon = FLYGON,86
+Pokemon = VIVILLON,87
+Pokemon = MELOETTA,85
+Pokemon = NINJASK,89
+Pokemon = INDEEDEE,85
+Pokemon = BUTTERFREE,88
+#-------------------------------
+[RIVAL1,Otto,5]
+LoseText = Good battle!
+Pokemon = VIVILLON,86
+Pokemon = SWELLOW,86
+Pokemon = MELOETTA,85
+Pokemon = FURFROU,89
+Pokemon = UNFEZANT,85
+Pokemon = PARASECT,89
+#-------------------------------
+[GUITARIST,Ava]
+Items = HYPERPOTION
+LoseText = Yikes! Sorry!
+Pokemon = EELEKTROSS,75
+Pokemon = LUXRAY,76
+Pokemon = IRONHANDS,78
+Pokemon = MORPEKO,78
+Pokemon = MANECTRIC,75
+Pokemon = ELECTRODE,76
+#-------------------------------
+[DRUMMER,Jovi]
+LoseText = We give up! You're the winner!
+Pokemon = ZIGZAGOON,6
+Pokemon = IGGLYBUFF,5
+Pokemon = HAPPINY,7
+Pokemon = LITLEO,8
+Pokemon = DEWPIDER,10
+Pokemon = WOOLOO,10
+#-------------------------------
+[LEADER_Giovanni,Lerran]
+LoseText = Peace--even though I lost!
+Pokemon = NOCTOWL,100
+Pokemon = YANMEGA,100
+Pokemon = MAUSHOLD,100
+Pokemon = VOLBEAT,100
+Pokemon = ARIADOS,100
+Pokemon = TOUCANNON,100
+#-------------------------------
+[RIVAL1,Otto,6]
+Items = MAXPOTION
+LoseText = Gulp! This is a bleak moment.
+Pokemon = BEWEAR,100
+Pokemon = MASQUERAIN,100
+Pokemon = CRUSTLE,100
+Pokemon = EXPLOUD,100
+Pokemon = PORYGONZ,100
+Pokemon = WATCHOG,100
+#-------------------------------
+[ADMIN_Cindy,Cindy]
+LoseText = What an amazing battle!
+Pokemon = LEAVANNY,100
+Pokemon = PORYGONZ,100
+Pokemon = ORBEETLE,100
+Pokemon = PARASECT,100
+Pokemon = GUMSHOOS,100
+Pokemon = BEEDRILL,100
+#-------------------------------
+[LASS,Jase]
+Items = HYPERPOTION
+LoseText = Pfft. Before I could get serious, I lost!
+Pokemon = CHERRIM,100
+Pokemon = WIGGLYTUFF,100
+Pokemon = BEWEAR,100
+Pokemon = BEWEAR,100
+Pokemon = SUNFLORA,100
+Pokemon = VICTREEBEL,100
+#-------------------------------
+[BLACKBELT,Harrok]
+LoseText = That's strange. I won before.
+Pokemon = BUZZWOLE,100
+Pokemon = KOMMOO,100
+Pokemon = LUMINEON,100
+Pokemon = SLITHERWING,100
+Pokemon = URSHIFU,100
+Pokemon = QUAQUAVAL,100
+#-------------------------------
+[CAMPER,Ashen]
+LoseText = That's shocking!
+Pokemon = VENOMOTH,100
+Pokemon = BLISSEY,100
+Pokemon = HERACROSS,100
+Pokemon = ALTARIA,100
+Pokemon = BLISSEY,100
+Pokemon = VIKAVOLT,100
+#-------------------------------
+[PICNICKER,Anne]
+LoseText = Nyuraahahhaah
+Pokemon = TSAREENA,100
+Pokemon = BELLOSSOM,100
+Pokemon = DEWGONG,100
+Pokemon = CLEFABLE,100
+Pokemon = TALONFLAME,100
+Pokemon = BEHEEYEM,100
+#-------------------------------
+[LEADER_Hellen,Hellen]
+LoseText = I was no match...
+Pokemon = ARIADOS,100
+Pokemon = SLAKING,100
+Pokemon = KECLEON,100
+Pokemon = DUBWOOL,100
+Pokemon = CINCCINO,100
+Pokemon = WIGGLYTUFF,100
+#-------------------------------
+[YOUNGCOUPLE,Samantha]
+LoseText = I knew you would win.
+Pokemon = GOGOAT,100
+Pokemon = EELEKTROSS,100
+Pokemon = SUNFLORA,100
+Pokemon = KINGDRA,100
+Pokemon = FLOATZEL,100
+Pokemon = CRAMORANT,100
+#-------------------------------
+[YOUNGCOUPLE,Billy]
+LoseText = I lost. I lost!
+Pokemon = SWAMPERT,100
+Pokemon = FURRET,100
+Pokemon = WHIMSICOTT,100
+Pokemon = COMFEY,100
+Pokemon = LANTURN,100
+Pokemon = SAMUROTT,100
+#-------------------------------
+[TUBER2_F,Olivier]
+LoseText = Just as I thought, you're tough!
+Pokemon = UNFEZANT,100
+Pokemon = LICKILICKY,100
+Pokemon = RABSCA,100
+Pokemon = HELIOLISK,100
+Pokemon = AZUMARILL,100
+Pokemon = LEDIAN,100
+#-------------------------------
+[RIVAL1,Otto,7]
+Items = MAXPOTION
+LoseText = Gulp! This is a bleak moment.
+Pokemon = BEWEAR,100
+Pokemon = MASQUERAIN,100
+Pokemon = CRUSTLE,100
+Pokemon = EXPLOUD,100
+Pokemon = PORYGONZ,100
+Pokemon = WATCHOG,100
+#-------------------------------
+[VEDETTA,Vedetta]
+LoseText = Pfft. Before I could get serious, I lost!
+Pokemon = HELIOLISK,100
+Pokemon = BEWEAR,100
+Pokemon = AZUMARILL,100
+#-------------------------------
+[ALICE,Alice,2]
+LoseText = You cheated! It's that simple.
+Pokemon = MASQUERAIN,100
+Pokemon = SWELLOW,100
+Pokemon = SPINDA,100
+#-------------------------------
+[ADMIN_Motessonal,Motessonal]
+LoseText = Impresive...
+Pokemon = RATICATE,100
+Pokemon = EXPLOUD,100
+Pokemon = CENTISKORCH,100
+Pokemon = GREEDENT,100
+Pokemon = BLISSEY,100
+Pokemon = TOUCANNON,100
+#-------------------------------
+[ADMIN_Koji,Koji,2]
+LoseText = I'm glad I got to see your Pokemon!
+Pokemon = ORBEETLE,100
+Pokemon = TAUROS,100
+Pokemon = LEAVANNY,100
+#-------------------------------
+[ADMIN_Koji,Koji,3]
+Items = FULLHEAL
+LoseText = Phew...
+Pokemon = AMBIPOM,100
+Pokemon = WIGGLYTUFF,100
+Pokemon = DELCATTY,100
+Pokemon = BLISSEY,100
+Pokemon = CYCLIZAR,100
+Pokemon = KRICKETUNE,100
+#-------------------------------
+[ADMIN_Tanish,Tanish]
+LoseText = Good battle!
+Pokemon = ESCAVALIER,100
+Pokemon = RIBOMBEE,100
+Pokemon = GUMSHOOS,100
+Pokemon = URSARING,100
+Pokemon = DODRIO,100
+Pokemon = SCOLIPEDE,100
+#-------------------------------
+[ADMIN_Uex,Uex]
+LoseText = Wow! You're super impressive.
+Pokemon = BUTTERFREE,100
+Pokemon = NINJASK,100
+Pokemon = CINCCINO,100
+Pokemon = GOLISOPOD,100
+Pokemon = SQUAWKABILLY,100
+Pokemon = LOKIX,100
+#-------------------------------
+[ADMIN_Aze,Aze]
+LoseText = Oh... I lost...
+Pokemon = GUMSHOOS,100
+Pokemon = DUBWOOL,100
+Pokemon = VESPIQUEN,100
+Pokemon = GRAFAIAI,100
+Pokemon = ARMALDO,100
+Pokemon = LEDIAN,100
+#-------------------------------
+[ADMIN_Mese,Mese]
+LoseText = ...did I win?
+Pokemon = UNFEZANT,100
+Pokemon = KLEAVOR,100
+Pokemon = DIGGERSBY,100
+Pokemon = PERSIAN,100
+Pokemon = PIDGEOT,100
+Pokemon = BEAUTIFLY,100
+#-------------------------------
+[ADMIN_Mitu,Mitu]
+LoseText = Nyuraahahhaah
+Pokemon = VOLCARONA,100
+Pokemon = SAWSBUCK,100
+Pokemon = FLYGON,100
+Pokemon = RABSCA,100
+Pokemon = BUTTERFREE,100
+Pokemon = BEEDRILL,100
+#-------------------------------
+[ADMIN_Denna,Denna]
+LoseText = This can't be happening.
+Pokemon = ALTARIA,100
+Pokemon = CINCCINO,100
+Pokemon = VOLBEAT,100
+Pokemon = ALTARIA,100
+Pokemon = ARIADOS,100
+Pokemon = PORYGONZ,100
