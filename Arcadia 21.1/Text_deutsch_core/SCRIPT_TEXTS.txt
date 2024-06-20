@@ -233,27 +233,27 @@ Multi Winged
 Insectoid
 Insectoid
 Red
-Red
+Rot
 Blue
-Blue
+Blau
 Yellow
-Yellow
+Gelb
 Green
-Green
+Grün
 Black
-Black
+Schwarz
 Brown
-Brown
+Braun
 Purple
-Purple
+Lila
 Gray
-Gray
+Grau
 White
-White
+Weiß
 Pink
-Pink
+Rosa
 None
-None
+Keine
 Grassland
 Grassland
 Forest
@@ -271,7 +271,7 @@ Rough Terrain
 Urban
 Urban
 Rare
-Rare
+Selten
 HP
 KP
 Attack
@@ -302,56 +302,56 @@ evasiveness
 Fluchtwert
 Eva
 Flw
+Adamant
+Hartes
+Bashful
+Zaghaftes
+Bold
+Kühnes
+Brave
+Mutiges
+Calm
+Stilles
+Careful
+Sachtes
+Docile
+Sanftes
+Gentle
+Zartes
 Hardy
-Robust
+Robustes
+Hasty
+Hastiges
+Impish
+Pfiffiges
+Jolly
+Frohes
+Lax
+Lasches
 Lonely
 Solo
-Brave
-Mutig
-Adamant
-Hart
-Naughty
-Frech
-Bold
-Kühn
-Docile
-Sanft
-Relaxed
-Locker
-Impish
-Pfiffig
-Lax
-Lasch
-Timid
-Scheu
-Hasty
-Hastig
-Serious
-Ernst
-Jolly
-Froh
-Naive
-Naiv
+Mild
+Mildes
 Modest
-Mäßig
-Mild
-Mild
+Mäßiges
+Naive
+Naives
+Naughty
+Freches
 Quiet
-Ruhig
-Bashful
-Zaghaft
-Rash
-Hitzig
-Calm
-Still
-Gentle
-Zart
-Sassy
-Sassy
-Careful
-Careful
+Ruhiges
 Quirky
-Kauzig
+Kauziges
+Rash
+Hitziges
+Relaxed
+Lockeres
+Sassy
+Forsches
+Serious
+Ernstes
+Timid
+Scheues
 Sleep
 Einschlafen
 Poison
@@ -417,39 +417,39 @@ Nebel
 Psychic
 Psycho
 User
-User
+Nutzer
 Near Ally
-Near Ally
+Verbündete
 User or Near Ally
-User or Near Ally
+Nutzer oder Verbündete
 All Allies
-All Allies
+Alle Verbündete
 User and Allies
-User and Allies
+Nutzer und Verbündete
 Near Foe
-Near Foe
+Gegner
 Random Near Foe
-Random Near Foe
+Zufälliger Gegner
 All Near Foes
-All Near Foes
+Alle Gegner
 Foe
-Foe
+Gegner
 All Foes
-All Foes
+Alle Gegner
 Near Other
-Near Other
+Nähe andere
 All Near Others
-All Near Others
+Alle in der Nähe
 Other
-Other
+Andere
 All Battlers
-All Battlers
+Alle im Kampf
 User Side
-User Side
+Nutzerseite
 Foe Side
-Foe Side
+Gegnerseite
 Both Sides
-Both Sides
+Beide Seiten
 Can't use in field
 Kann nicht eingesetzt werden
 Can't use in battle
@@ -671,15 +671,15 @@ The opposing {1}
 The wild {1}
 {1} (wild)
 The ally {1}
-{1} (verbündet)
+{1} (verbündete)
 The sunlight turned harsh!
 Das Sonnenlicht wurde grell!
 It started to rain!
-Es begann zu regnen!
+Es beginnt zu regnen!
 A sandstorm brewed!
 Ein Sandsturm braute sich zusammen!
 It started to hail!
-Es begann zu hageln!
+Es beginnt zu hageln!
 The sunlight turned extremely harsh!
 Das Sonnenlicht wurde extrem grell!
 A heavy rain began to fall!
@@ -853,7 +853,7 @@ Nur noch ein bisschen mehr! Halte durch, {1}!
 Your opponent's weak! Get 'em, {1}!
 Dein Gegner ist schwach! Zeig's ihnen, {1}!
 Oh!<<n>>A Shadow Pokémon!
-Oh!<<n>>A Shadow Pokémon!
+Oh!<<n>>Ein Schatten Pokémon!
 The healing wish came true for {1}!
 Der Wunschtraum von {1} hat sich erfüllt!
 {1} became cloaked in mystical moonlight!
@@ -911,13 +911,13 @@ Would you like to forfeit the match and quit now?
 You can't escape!
 Du kannst nicht entkommen!
 {1} fled using its {2}!
-{1} ist mit {2} geflohen!
+{1} ist durch {2} geflohen!
 {1} prevents escape with {2}!
 {1} verhindert die Flucht mit {2}!
 You couldn't get away!
 Du konntest nicht entkommen!
 {1} called {2}!
-{1} rief {2}!
+{1} ruft {2}!
 {1}!
 {1}!
 {1} came to its senses from the Trainer's call!
@@ -943,7 +943,7 @@ Sky Drop won't let {1} go!
 The sunlight faded.
 Das Sonnenlicht verblasste.
 The rain stopped.
-The rain stopped.
+Der Regen hat aufgehört.
 The sandstorm subsided.
 Der Sandsturm ließ nach.
 The hail stopped.
@@ -1157,15 +1157,15 @@ Doch der Aufruhr hielt {1} wach!
 {1} cannot be frozen solid!
 {1} kann nicht eingefroren werden!
 {1} stays awake because of {2}'s {3}!
-{1} bleibt wach wegen {2}s {3}!
+{1} bleibt wach aufgrund {2}s {3}!
 {1} cannot be poisoned because of {2}'s {3}!
-{1} kann nicht vergiftet werden wegen {2}s {3}!
+{1} kann nicht vergiftet werden aufgrund {2}s {3}!
 {1} cannot be burned because of {2}'s {3}!
-1} kann nicht verbrannt werden wegen {2}s {3}!
+{1} kann nicht verbrannt werden aufgrund {2}s {3}!
 {1} cannot be paralyzed because of {2}'s {3}!
-{1} kann wegen {2}s {3} nicht gelähmt werden!
+{1} kann aufgrund {2}s {3} nicht gelähmt werden!
 {1} cannot be frozen solid because of {2}'s {3}!
-{1} kann wegen {2}s {3} nicht fest gefroren werden!
+{1} kann aufgrund {2}s {3} nicht fest gefroren werden!
 {1} stays awake because of its {2}!
 {1} bleibt wegen seiner {2} wach!
 {1}'s {2} prevents poisoning!
@@ -1217,7 +1217,7 @@ Aber es schlug fehl!
 {1} doesn't become confused!
 {1} wurde nicht verwirrt!
 {1}'s {2} prevents confusion!
-1}s {2} verhindert die Verwirrung!
+{1}s {2} verhindert die Verwirrung!
 {1} became confused!
 {1} wurde verwirrt!
 {1}'s {2} prevents romance!
@@ -2326,8 +2326,10 @@ You found an \c[1]{1}\c[0]!
 Du hast einen \c[1]{1}\c[0] gefunden!
 You found a \c[1]{1}\c[0]!
 Du hast ein \c[1]{1}\c[0] gefunden!
-You put the {1} in\<<n>>your Bag's <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
-Du hast das {1} in die <icon=bagPocket{2}>\c[1]{3}\c[0] Tasche gelegt.
+You put the {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.
+Du hast das Item in\\ndie <icon=bagPocket{2}>\\c[1]{3}\\c[0] Tasche gesteckt.
+You put {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.
+Du hast das Item in die Tasche gesteckt.
 But your Bag is full...
 Aber deine Beutel ist voll...
 You obtained \c[1]{1}\c[0]!
@@ -2388,6 +2390,10 @@ Mar.
 Mär.
 Apr.
 Apr.
+May.
+Mai
+May
+Mai
 Jun.
 Jun.
 Jul.
@@ -2401,7 +2407,7 @@ Oct.
 Nov.
 Nov.
 Dec.
-Dec.
+Dez.
 Spring
 Frühling
 Summer
@@ -2627,7 +2633,7 @@ Die Stufe von {1} blieb unverändert.
 {1}'s HP was restored by {2} points.
 Die KP von {1} wurden um {2} Punkte wiederhergestellt.
 {1}'s {2} increased.
-{{1}s {2} ist gestiegen.
+{1}s {2} ist gestiegen.
 It might affect {1}'s stats. Are you sure you want to use it?
 Es könnte sich auf {1}s Werte auswirken. Bist du sicher, dass du es benutzen willst?
 {1}'s stats may have changed due to the effects of the {2}!
@@ -3059,7 +3065,7 @@ Name
 Type
 Typ
 Height
-Höhe
+Größe
 Weight
 Gewicht
 Color
@@ -3296,6 +3302,8 @@ OT
 OT
 ID No.
 ID
+RENTAL
+RENTAL
 Heart Gauge
 Heart Gauge
 The door to its heart is open! Undo the final lock!
@@ -3606,8 +3614,8 @@ Bist du sicher, dass du jetzt speichern und die andere Speicherdatei überschrei
 {1} hat das Spiel gespeichert.
 Close
 Schließen
-Typ {1}/{2}
-Typ {1}/{2}
+Type {1}/{2}
+Type {1}/{2}
 Close the screen.
 Schließt den Bildschirm.
 Music Volume
@@ -4519,7 +4527,7 @@ There's no more room for Pokémon!
 The Pokémon Boxes are full and can't accept any more!
 The Pokémon Boxes are full and can't accept any more!
 {1} obtained {2}!
-{1} erhältst {2}!
+{1} erhält {2}!
 {1} received a Pokémon from {2}.
 {1} received a Pokémon from {2}.
 {1} received a Pokémon.
@@ -6354,7 +6362,7 @@ Make player's
 Make player's
 Set OT's name
 OTs Name festlegen
-Geschlecht des OTs festlegen
+Set OT's gender
 Set OT's gender
 Random foreign ID
 Zufällige ID festlegen
@@ -6598,5 +6606,3 @@ Processing {1} maps...
 Processing {1} maps...
 Processing common events...
 Processing common events...
-{1} is shivering with the effects of being poisoned.
-{1} leidet unter den Auswirkungen der Vergiftung.

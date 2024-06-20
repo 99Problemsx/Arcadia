@@ -93,7 +93,7 @@
   // with Alt-Enter during runtime).
   //
   // 
-  "fullscreen": true,
+  "fullscreen": false,
 
   // Whether you can toggle full-screen mode by pressing Alt + Enter with
   // either the left or right Alt key.

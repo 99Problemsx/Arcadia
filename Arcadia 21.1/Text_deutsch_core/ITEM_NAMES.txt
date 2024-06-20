@@ -2,1463 +2,1253 @@
 # translate every second line of this file.
 #-------------------------------
 [ITEM_NAMES]
-Repel
-Repel
-Super Repel
-Super Repel
-Max Repel
-Max Repel
-Black Flute
-Black Flute
-White Flute
-White Flute
-Honey
-Honey
-Red Shard
-Red Shard
-Yellow Shard
-Yellow Shard
-Blue Shard
-Blue Shard
-Green Shard
-Green Shard
-Fire Stone
-Fire Stone
-Thunder Stone
-Thunder Stone
-Thunderstone
-Thunderstone
-Water Stone
-Water Stone
-Leaf Stone
-Leaf Stone
-Moon Stone
-Moon Stone
-Sun Stone
-Sun Stone
-Dusk Stone
-Dusk Stone
-Dawn Stone
-Dawn Stone
-Shiny Stone
-Shiny Stone
-Ice Stone
-Ice Stone
-Sweet Apple
-Sweet Apple
-Tart Apple
-Tart Apple
-Cracked Pot
-Cracked Pot
-Chipped Pot
-Chipped Pot
-Galarica Cuff
-Galarica Cuff
-Galarica Wreath
-Galarica Wreath
-Red Apricorn
-Red Apricorn
-Yellow Apricorn
-Yellow Apricorn
-Ylw Apricorn
-Ylw Apricorn
-Blue Apricorn
-Blue Apricorn
-Blu Apricorn
-Blu Apricorn
-Green Apricorn
-Green Apricorn
-Grn Apricorn
-Grn Apricorn
-Pink Apricorn
-Pink Apricorn
-Pnk Apricorn
-Pnk Apricorn
-White Apricorn
-White Apricorn
-Wht Apricorn
-Wht Apricorn
-Black Apricorn
-Black Apricorn
-Blk Apricorn
-Blk Apricorn
-Helix Fossil
-Helix Fossil
-Dome Fossil
-Dome Fossil
-Old Amber
-Old Amber
-Root Fossil
-Root Fossil
-Claw Fossil
-Claw Fossil
-Skull Fossil
-Skull Fossil
-Armor Fossil
-Armor Fossil
-Cover Fossil
-Cover Fossil
-Plume Fossil
-Plume Fossil
-Jaw Fossil
-Jaw Fossil
-Sail Fossil
-Sail Fossil
-Fossilized Bird
-Fossilized Bird
-Fossilized Fish
-Fossilized Fish
-Fossilized Drake
-Fossilized Drake
-Fossilized Dino
-Fossilized Dino
-Pretty Feather
-Pretty Feather
-Pretty Wing
-Pretty Wing
-Tiny Mushroom
-Tiny Mushroom
-TinyMushroom
-TinyMushroom
-Big Mushroom
-Big Mushroom
-Balm Mushroom
-Balm Mushroom
-BalmMushroom
-BalmMushroom
-Pearl
-Pearl
-Big Pearl
-Big Pearl
-Pearl String
-Pearl String
-Stardust
-Stardust
-Star Piece
-Star Piece
-Comet Shard
-Comet Shard
-Nugget
-Nugget
-Big Nugget
-Big Nugget
-Heart Scale
-Heart Scale
-Slowpoke Tail
-Slowpoke Tail
-SlowpokeTail
-SlowpokeTail
-Rare Bone
-Rare Bone
-Relic Copper
-Relic Copper
-Relic Silver
-Relic Silver
-Relic Gold
-Relic Gold
-Relic Vase
-Relic Vase
-Relic Band
-Relic Band
-Relic Statue
-Relic Statue
-Relic Crown
-Relic Crown
-Growth Mulch
-Growth Mulch
-Damp Mulch
-Damp Mulch
-Stable Mulch
-Stable Mulch
-Gooey Mulch
-Gooey Mulch
-Shoal Salt
-Shoal Salt
-Shoal Shell
-Shoal Shell
-Odd Keystone
-Odd Keystone
-Red Nectar
-Red Nectar
-Yellow Nectar
-Yellow Nectar
-Pink Nectar
-Pink Nectar
-Purple Nectar
-Purple Nectar
-Air Balloon
-Air Balloon
-Bright Powder
-Bright Powder
-BrightPowder
-BrightPowder
-Eviolite
-Eviolite
-Float Stone
-Float Stone
-Destiny Knot
-Destiny Knot
-Rocky Helmet
-Rocky Helmet
-Assault Vest
-Assault Vest
-Safety Goggles
-Safety Goggles
-Protective Pads
-Protective Pads
-Heavy-Duty Boots
-Heavy-Duty Boots
-Utility Umbrella
-Utility Umbrella
-Eject Button
-Eject Button
-Eject Pack
-Eject Pack
-Red Card
-Red Card
-Shed Shell
-Shed Shell
-Smoke Ball
-Smoke Ball
-Lucky Egg
-Lucky Egg
-Exp. Share
-Exp. Share
-Amulet Coin
-Amulet Coin
-Soothe Bell
-Soothe Bell
-Cleanse Tag
-Cleanse Tag
-Choice Band
-Choice Band
-Choice Specs
-Choice Specs
-Choice Scarf
-Choice Scarf
-Heat Rock
-Heat Rock
-Damp Rock
-Damp Rock
-Smooth Rock
-Smooth Rock
-Icy Rock
-Icy Rock
-Terrain Extender
-Terrain Extender
-Light Clay
-Light Clay
-Grip Claw
-Grip Claw
-Binding Band
-Binding Band
-Big Root
-Big Root
-Black Sludge
-Black Sludge
-Leftovers
-Leftovers
-Shell Bell
-Shell Bell
-Mental Herb
-Mental Herb
-White Herb
-White Herb
-Power Herb
-Power Herb
-Absorb Bulb
-Absorb Bulb
-Cell Battery
-Cell Battery
-Luminous Moss
-Luminous Moss
-Snowball
-Snowball
-Weakness Policy
-Weakness Policy
-Blunder Policy
-Blunder Policy
-Throat Spray
-Throat Spray
-Adrenaline Orb
-Adrenaline Orb
-Room Service
-Room Service
-Electric Seed
-Electric Seed
-Grassy Seed
-Grassy Seed
-Misty Seed
-Misty Seed
-Psychic Seed
-Psychic Seed
-Life Orb
-Life Orb
-Expert Belt
-Expert Belt
-Metronome
-Metronome
-Muscle Band
-Muscle Band
-Wise Glasses
-Wise Glasses
-Razor Claw
-Razor Claw
-Scope Lens
-Scope Lens
-Wide Lens
-Wide Lens
-Zoom Lens
-Zoom Lens
-King's Rock
-King's Rock
-Razor Fang
-Razor Fang
-Lagging Tail
-Lagging Tail
-Quick Claw
-Quick Claw
-Focus Band
-Focus Band
-Focus Sash
-Focus Sash
-Flame Orb
-Flame Orb
-Toxic Orb
-Toxic Orb
-Sticky Barb
-Sticky Barb
-Iron Ball
-Iron Ball
-Ring Target
-Ring Target
-Macho Brace
-Macho Brace
-Power Weight
-Power Weight
-Power Bracer
-Power Bracer
-Power Belt
-Power Belt
-Power Lens
-Power Lens
-Power Band
-Power Band
-Power Anklet
-Power Anklet
-Lax Incense
-Lax Incense
-Full Incense
-Full Incense
-Luck Incense
-Luck Incense
-Pure Incense
-Pure Incense
-Sea Incense
-Sea Incense
-Wave Incense
-Wave Incense
-Rose Incense
-Rose Incense
-Odd Incense
-Odd Incense
-Rock Incense
-Rock Incense
-Charcoal
-Charcoal
-Mystic Water
-Mystic Water
-Magnet
-Magnet
-Miracle Seed
-Miracle Seed
-Never-Melt Ice
-Never-Melt Ice
-NeverMeltIce
-NeverMeltIce
-Black Belt
-Black Belt
-Poison Barb
-Poison Barb
-Soft Sand
-Soft Sand
-Sharp Beak
-Sharp Beak
-Twisted Spoon
-Twisted Spoon
-TwistedSpoon
-TwistedSpoon
-Silver Powder
-Silver Powder
-SilverPowder
-SilverPowder
-Hard Stone
-Hard Stone
-Spell Tag
-Spell Tag
-Dragon Fang
-Dragon Fang
-Black Glasses
-Black Glasses
-BlackGlasses
-BlackGlasses
-Metal Coat
-Metal Coat
-Silk Scarf
-Silk Scarf
-Flame Plate
-Flame Plate
-Splash Plate
-Splash Plate
-Zap Plate
-Zap Plate
-Meadow Plate
-Meadow Plate
-Icicle Plate
-Icicle Plate
-Fist Plate
-Fist Plate
-Toxic Plate
-Toxic Plate
-Earth Plate
-Earth Plate
-Sky Plate
-Sky Plate
-Mind Plate
-Mind Plate
-Insect Plate
-Insect Plate
-Stone Plate
-Stone Plate
-Spooky Plate
-Spooky Plate
-Draco Plate
-Draco Plate
-Dread Plate
-Dread Plate
-Iron Plate
-Iron Plate
-Pixie Plate
-Pixie Plate
-Fire Gem
-Fire Gem
-Water Gem
-Water Gem
-Electric Gem
-Electric Gem
-Grass Gem
-Grass Gem
-Ice Gem
-Ice Gem
-Fighting Gem
-Fighting Gem
-Poison Gem
-Poison Gem
-Ground Gem
-Ground Gem
-Flying Gem
-Flying Gem
-Psychic Gem
-Psychic Gem
-Bug Gem
-Bug Gem
-Rock Gem
-Rock Gem
-Ghost Gem
-Ghost Gem
-Dragon Gem
-Dragon Gem
-Dark Gem
-Dark Gem
-Steel Gem
-Steel Gem
-Fairy Gem
-Fairy Gem
-Normal Gem
-Normal Gem
-Light Ball
-Light Ball
-Lucky Punch
-Lucky Punch
-Metal Powder
-Metal Powder
-Quick Powder
-Quick Powder
-Thick Club
-Thick Club
-Leek
-Leek
-Stick
-Stick
-Soul Dew
-Soul Dew
-Deep Sea Tooth
-Deep Sea Tooth
-DeepSeaTooth
-DeepSeaTooth
-Deep Sea Scale
-Deep Sea Scale
-DeepSeaScale
-DeepSeaScale
-Adamant Orb
-Adamant Orb
-Lustrous Orb
-Lustrous Orb
-Griseous Orb
-Griseous Orb
-Rusted Sword
-Rusted Sword
-Rusted Shield
-Rusted Shield
-Douse Drive
-Douse Drive
-Shock Drive
-Shock Drive
-Burn Drive
-Burn Drive
-Chill Drive
-Chill Drive
-Fire Memory
-Fire Memory
-Water Memory
-Water Memory
-Electric Memory
-Electric Memory
-Grass Memory
-Grass Memory
-Ice Memory
-Ice Memory
-Fighting Memory
-Fighting Memory
-Poison Memory
-Poison Memory
-Ground Memory
-Ground Memory
-Flying Memory
-Flying Memory
-Psychic Memory
-Psychic Memory
-Bug Memory
-Bug Memory
-Rock Memory
-Rock Memory
-Ghost Memory
-Ghost Memory
-Dragon Memory
-Dragon Memory
-Dark Memory
-Dark Memory
-Steel Memory
-Steel Memory
-Fairy Memory
-Fairy Memory
-Everstone
-Everstone
-Dragon Scale
-Dragon Scale
-Upgrade
-Upgrade
-Up-Grade
-Up-Grade
-Dubious Disc
-Dubious Disc
-Protector
-Protector
-Electirizer
-Electirizer
-Magmarizer
-Magmarizer
-Reaper Cloth
-Reaper Cloth
-Prism Scale
-Prism Scale
-Oval Stone
-Oval Stone
-Whipped Dream
-Whipped Dream
-Sachet
-Sachet
-Strawberry Sweet
-Strawberry Sweet
-Love Sweet
-Love Sweet
-Berry Sweet
-Berry Sweet
-Clover Sweet
-Clover Sweet
-Flower Sweet
-Flower Sweet
-Star Sweet
-Star Sweet
-Ribbon Sweet
-Ribbon Sweet
-Venusaurite
-Venusaurite
-Charizardite X
-Charizardite X
-Charizardite Y
-Charizardite Y
-Blastoisinite
-Blastoisinite
-Beedrillite
-Beedrillite
-Pidgeotite
-Pidgeotite
-Alakazite
-Alakazite
-Slowbronite
-Slowbronite
-Gengarite
-Gengarite
-Kangaskhanite
-Kangaskhanite
-Pinsirite
-Pinsirite
-Gyaradosite
-Gyaradosite
-Aerodactylite
-Aerodactylite
-Mewtwonite X
-Mewtwonite X
-Mewtwonite Y
-Mewtwonite Y
-Ampharosite
-Ampharosite
-Steelixite
-Steelixite
-Scizorite
-Scizorite
-Heracronite
-Heracronite
-Houndoominite
-Houndoominite
-Tyranitarite
-Tyranitarite
-Sceptilite
-Sceptilite
-Blazikenite
-Blazikenite
-Swampertite
-Swampertite
-Gardevoirite
-Gardevoirite
-Sablenite
-Sablenite
-Mawilite
-Mawilite
-Aggronite
-Aggronite
-Medichamite
-Medichamite
-Manectite
-Manectite
-Sharpedonite
-Sharpedonite
-Cameruptite
-Cameruptite
-Altarianite
-Altarianite
-Banettite
-Banettite
-Absolite
-Absolite
-Glalitite
-Glalitite
-Salamencite
-Salamencite
-Metagrossite
-Metagrossite
-Latiasite
-Latiasite
-Latiosite
-Latiosite
-Lopunnite
-Lopunnite
-Garchompite
-Garchompite
-Lucarionite
-Lucarionite
-Abomasite
-Abomasite
-Galladite
-Galladite
-Audinite
-Audinite
-Diancite
-Diancite
-Red Orb
-Red Orb
-Blue Orb
-Blue Orb
 Potion
-Potion
-Super Potion
-Super Potion
-Hyper Potion
-Hyper Potion
-Max Potion
-Max Potion
-Full Restore
-Full Restore
-Sacred Ash
-Sacred Ash
-Awakening
-Awakening
+Trank
 Antidote
-Antidote
+Gegengift
 Burn Heal
-Burn Heal
-Paralyze Heal
-Paralyze Heal
-Parlyz Heal
-Parlyz Heal
+Feuerheiler
 Ice Heal
-Ice Heal
+Eisheiler
+Awakening
+Aufwecker
+Paralyze Heal
+Para-Heiler
+Full Restore
+Top-Genesung
+Max Potion
+Top-Trank
+Hyper Potion
+Hypertrank
+Super Potion
+Supertrank
 Full Heal
-Full Heal
-Pewter Crunchies
-Pewter Crunchies
-Rage Candy Bar
-Rage Candy Bar
-RageCandyBar
-RageCandyBar
-Lava Cookie
-Lava Cookie
-Old Gateau
-Old Gateau
-Casteliacone
-Casteliacone
-Lumiose Galette
-Lumiose Galette
-Shalour Sable
-Shalour Sable
-Big Malasada
-Big Malasada
+Hyperheiler
 Revive
-Revive
+Beleber
 Max Revive
-Max Revive
-Berry Juice
-Berry Juice
-Sweet Heart
-Sweet Heart
+Top-Beleber
 Fresh Water
-Fresh Water
+Tafelwasser
 Soda Pop
-Soda Pop
+Sprudel
 Lemonade
-Lemonade
-Moomoo Milk
-Moomoo Milk
-Energy Powder
-Energy Powder
-EnergyPowder
-EnergyPowder
-Energy Root
-Energy Root
-Heal Powder
-Heal Powder
-Revival Herb
-Revival Herb
-Max Honey
-Max Honey
+Limonade
 Ether
-Ether
+Äther
 Max Ether
-Max Ether
+Top-Äther
 Elixir
-Elixir
+Elixier
 Max Elixir
-Max Elixir
-PP Up
-PP Up
-PP Max
-PP Max
+Top-Elixier
 HP Up
-HP Up
+KP-Plus
 Protein
 Protein
 Iron
-Iron
-Calcium
-Calcium
-Zinc
-Zinc
+Eisen
 Carbos
-Carbos
-Health Feather
-Health Feather
-Health Wing
-Health Wing
-Muscle Feather
-Muscle Feather
-Muscle Wing
-Muscle Wing
-Resist Feather
-Resist Feather
-Resist Wing
-Resist Wing
-Genius Feather
-Genius Feather
-Genius Wing
-Genius Wing
-Clever Feather
-Clever Feather
-Clever Wing
-Clever Wing
-Swift Feather
-Swift Feather
-Swift Wing
-Swift Wing
-Lonely Mint
-Lonely Mint
-Adamant Mint
-Adamant Mint
-Naughty Mint
-Naughty Mint
-Brave Mint
-Brave Mint
-Bold Mint
-Bold Mint
-Impish Mint
-Impish Mint
-Lax Mint
-Lax Mint
-Relaxed Mint
-Relaxed Mint
-Modest Mint
-Modest Mint
-Mild Mint
-Mild Mint
-Rash Mint
-Rash Mint
-Quiet Mint
-Quiet Mint
-Calm Mint
-Calm Mint
-Gentle Mint
-Gentle Mint
-Careful Mint
-Careful Mint
-Sassy Mint
-Sassy Mint
-Timid Mint
-Timid Mint
-Hasty Mint
-Hasty Mint
-Jolly Mint
-Jolly Mint
-Naive Mint
-Naive Mint
-Serious Mint
-Serious Mint
-Ability Capsule
-Ability Capsule
-Ability Patch
-Ability Patch
-Exp. Candy XS
-Exp. Candy XS
-Exp. Candy S
-Exp. Candy S
-Exp. Candy M
-Exp. Candy M
-Exp. Candy L
-Exp. Candy L
-Exp. Candy XL
-Exp. Candy XL
+Carbon
+Calcium
+Kalzium
 Rare Candy
-Rare Candy
+Sonderbonbon
+PP Up
+AP-Plus
+Moomoo Milk
+Kuhmuh-Milch
+Energy Powder
+Energiestaub
+Energy Root
+Kraftwurzel
+Heal Powder
+Heilpuder
+Revival Herb
+Vitalkraut
+Berry Juice
+Beerensaft
+Sacred Ash
+Zauberasche
+Rage Candy Bar
+Wutkeks
+Lava Cookie
+Lavakeks
+Zinc
+Zink
+PP Max
+AP-Top
+Old Gateau
+Spezialität
+Sweet Heart
+Herzkonfekt
+Health Feather
+Heilfeder
+Muscle Feather
+Kraftfeder
+Resist Feather
+Abwehrfeder
+Genius Feather
+Geniefeder
+Clever Feather
+Espritfeder
+Swift Feather
+Flinkfeder
+Casteliacone
+Stratos-Eis
+Ability Capsule
+Fähigk.-Kapsel
+Lumiose Galette
+Illumina-Galette
+Shalour Sable
+Yantara-Sablé
+Big Malasada
+Maxi-Malasada
+Pewter Crunchies
+Marmoria-Kräcker
+Exp. Candy XS
+EP-Bonbon XS
+Exp. Candy S
+EP-Bonbon S
+Exp. Candy M
+EP-Bonbon M
+Exp. Candy L
+EP-Bonbon L
+Exp. Candy XL
+EP-Bonbon XL
+Dynamax Candy
+Dynamax-Bonbon
+Adamant Mint
+Hart-Minze
+Bashful Mint
+Kühn-Minze
+Zaghaft Mint
+Mutig-Minze
+Bold Mint
+Still-Minze
+Kühn Mint
+Sacht-Minze
+Mutig Mint
+Zart-Minze
+Still Mint
+Hastig-Minze
+Careful Mint
+Pfiffig-Minze
+Sacht Mint
+Froh-Minze
+Docile Mint
+Lasch-Minze
+Sanft Mint
+Solo-Minze
+Gentle Mint
+Gentle-Minze
+Zart Mint
+Mäßig-Minze
+Hardy Mint
+Naiv-Minze
+Robust Mint
+Frech-Minze
+Hasty Mint
+Ruhig-Minze
+Impish Mint
+Hitzig-Minze
+Pfiffig Mint
+Locker-Minze
+Jolly Mint
+Forsch-Minze
+Froh Mint
+Ernst-Minze
+Lax Mint
+Scheu-Minze
+Ability Patch
+Fähigk.-Pflaster
+Normal Tera Shard
+Tera-Stück (Normal)
+Fighting Tera Shard
+Tera-Stück (Kampf)
+Flying Tera Shard
+Tera-Stück (Flug)
+Poison Tera Shard
+Tera-Stück (Gift)
+Ground Tera Shard
+Tera-Stück (Boden)
+Rock Tera Shard
+Tera-Stück (Gestein)
+Bug Tera Shard
+Tera-Stück (Käfer)
+Ghost Tera Shard
+Tera-Stück (Geist)
+Steel Tera Shard
+Tera-Stück (Stahl)
+Fire Tera Shard
+Tera-Stück (Feuer)
+Water Tera Shard
+Tera-Stück (Wasser)
+Grass Tera Shard
+Tera-Stück (Pflanze)
+Electric Tera Shard
+Tera-Stück (Elektro)
+Psychic Tera Shard
+Tera-Stück (Psyscho)
+Ice Tera Shard
+Tera-Stück (Eis)
+Dragon Tera Shard
+Tera-Stück (Drache)
+Dark Tera Shard
+Tera-Stück (Unlicht)
+Fairy Tera Shard
+Tera-Stück (Fee)
+Stellar Tera Shard
+Tera-Stück (Stellar)
+Health Mochi
+Heil-Mochi
+Muscle Mochi
+Kraft-Mochi
+Resist Mochi
+Abwehr-Mochi
+Genius Mochi
+Genie-Mochi
+Clever Mochi
+Esprit-Mochi
+Swift Mochi
+Flink-Mochi
+Fresh-Start Mochi
+Neuanfangs-Mochi
 Master Ball
-Master Ball
+Meisterball
 Ultra Ball
-Ultra Ball
+Hyperball
 Great Ball
-Great Ball
+Superball
 Poké Ball
-Poké Ball
+Pokéball
 Safari Ball
-Safari Ball
-Sport Ball
-Sport Ball
-Net Ball
-Net Ball
-Dive Ball
-Dive Ball
-Nest Ball
-Nest Ball
-Repeat Ball
-Repeat Ball
-Timer Ball
-Timer Ball
-Luxury Ball
-Luxury Ball
-Premier Ball
-Premier Ball
-Dusk Ball
-Dusk Ball
-Heal Ball
-Heal Ball
-Quick Ball
-Quick Ball
-Cherish Ball
-Cherish Ball
+Safariball
 Fast Ball
-Fast Ball
+Turboball
 Level Ball
-Level Ball
+Levelball
 Lure Ball
-Lure Ball
+Köderball
 Heavy Ball
-Heavy Ball
+Schwerball
 Love Ball
-Love Ball
+Sympaball
 Friend Ball
-Friend Ball
+Freundesball
 Moon Ball
-Moon Ball
+Mondball
+Sport Ball
+Turnierball
+Net Ball
+Netzball
+Dive Ball
+Tauchball
+Nest Ball
+Nestball
+Repeat Ball
+Wiederball
+Timer Ball
+Timerball
+Luxury Ball
+Luxusball
+Premier Ball
+Premierball
+Dusk Ball
+Finsterball
+Heal Ball
+Heilball
+Quick Ball
+Flottbal
+Cherish Ball
+Jubelball
+Park Ball
+Parkball
 Dream Ball
-Dream Ball
+Traumball
 Beast Ball
-Beast Ball
-TM01
-TM01
-TM02
-TM02
-TM03
-TM03
-TM04
-TM04
-TM05
-TM05
-TM06
-TM06
-TM07
-TM07
-TM08
-TM08
-TM09
-TM09
-TM10
-TM10
-TM11
-TM11
-TM12
-TM12
-TM13
-TM13
-TM14
-TM14
-TM15
-TM15
-TM16
-TM16
-TM17
-TM17
-TM18
-TM18
-TM19
-TM19
-TM20
-TM20
-TM21
-TM21
-TM22
-TM22
-TM23
-TM23
-TM24
-TM24
-TM25
-TM25
-TM26
-TM26
-TM27
-TM27
-TM28
-TM28
-TM29
-TM29
-TM30
-TM30
-TM31
-TM31
-TM32
-TM32
-TM33
-TM33
-TM34
-TM34
-TM35
-TM35
-TM36
-TM36
-TM37
-TM37
-TM38
-TM38
-TM39
-TM39
-TM40
-TM40
-TM41
-TM41
-TM42
-TM42
-TM43
-TM43
-TM44
-TM44
-TM45
-TM45
-TM46
-TM46
-TM47
-TM47
-TM48
-TM48
-TM49
-TM49
-TM50
-TM50
-TM51
-TM51
-TM52
-TM52
-TM53
-TM53
-TM54
-TM54
-TM55
-TM55
-TM56
-TM56
-TM57
-TM57
-TM58
-TM58
-TM59
-TM59
-TM60
-TM60
-TM61
-TM61
-TM62
-TM62
-TM63
-TM63
-TM64
-TM64
-TM65
-TM65
-TM66
-TM66
-TM67
-TM67
-TM68
-TM68
-TM69
-TM69
-TM70
-TM70
-TM71
-TM71
-TM72
-TM72
-TM73
-TM73
-TM74
-TM74
-TM75
-TM75
-TM76
-TM76
-TM77
-TM77
-TM78
-TM78
-TM79
-TM79
-TM80
-TM80
-TM81
-TM81
-TM82
-TM82
-TM83
-TM83
-TM84
-TM84
-TM85
-TM85
-TM86
-TM86
-TM87
-TM87
-TM88
-TM88
-TM89
-TM89
-TM90
-TM90
-TM91
-TM91
-TM92
-TM92
-TM93
-TM93
-TM94
-TM94
-TM95
-TM95
-TM96
-TM96
-TM97
-TM97
-TM98
-TM98
-TM99
-TM99
-TM100
-TM100
-HM01
-HM01
-HM02
-HM02
-HM03
-HM03
-HM04
-HM04
-HM05
-HM05
-HM06
-HM06
-Cheri Berry
-Cheri Berry
-Chesto Berry
-Chesto Berry
-Pecha Berry
-Pecha Berry
-Rawst Berry
-Rawst Berry
-Aspear Berry
-Aspear Berry
-Leppa Berry
-Leppa Berry
-Oran Berry
-Oran Berry
-Persim Berry
-Persim Berry
-Lum Berry
-Lum Berry
-Sitrus Berry
-Sitrus Berry
-Figy Berry
-Figy Berry
-Wiki Berry
-Wiki Berry
-Mago Berry
-Mago Berry
-Aguav Berry
-Aguav Berry
-Iapapa Berry
-Iapapa Berry
-Razz Berry
-Razz Berry
-Bluk Berry
-Bluk Berry
-Nanab Berry
-Nanab Berry
-Wepear Berry
-Wepear Berry
-Pinap Berry
-Pinap Berry
-Pomeg Berry
-Pomeg Berry
-Kelpsy Berry
-Kelpsy Berry
-Qualot Berry
-Qualot Berry
-Hondew Berry
-Hondew Berry
-Grepa Berry
-Grepa Berry
-Tamato Berry
-Tamato Berry
-Cornn Berry
-Cornn Berry
-Magost Berry
-Magost Berry
-Rabuta Berry
-Rabuta Berry
-Nomel Berry
-Nomel Berry
-Spelon Berry
-Spelon Berry
-Pamtre Berry
-Pamtre Berry
-Watmel Berry
-Watmel Berry
-Durin Berry
-Durin Berry
-Belue Berry
-Belue Berry
-Occa Berry
-Occa Berry
-Passho Berry
-Passho Berry
-Wacan Berry
-Wacan Berry
-Rindo Berry
-Rindo Berry
-Yache Berry
-Yache Berry
-Chople Berry
-Chople Berry
-Kebia Berry
-Kebia Berry
-Shuca Berry
-Shuca Berry
-Coba Berry
-Coba Berry
-Payapa Berry
-Payapa Berry
-Tanga Berry
-Tanga Berry
-Charti Berry
-Charti Berry
-Kasib Berry
-Kasib Berry
-Haban Berry
-Haban Berry
-Colbur Berry
-Colbur Berry
-Babiri Berry
-Babiri Berry
-Roseli Berry
-Roseli Berry
-Chilan Berry
-Chilan Berry
-Liechi Berry
-Liechi Berry
-Ganlon Berry
-Ganlon Berry
-Salac Berry
-Salac Berry
-Petaya Berry
-Petaya Berry
-Apicot Berry
-Apicot Berry
-Lansat Berry
-Lansat Berry
-Starf Berry
-Starf Berry
-Enigma Berry
-Enigma Berry
-Micle Berry
-Micle Berry
-Custap Berry
-Custap Berry
-Jaboca Berry
-Jaboca Berry
-Rowap Berry
-Rowap Berry
-Kee Berry
-Kee Berry
-Maranga Berry
-Maranga Berry
-Grass Mail
-Grass Mail
-Flame Mail
-Flame Mail
-Bubble Mail
-Bubble Mail
-Bloom Mail
-Bloom Mail
-Tunnel Mail
-Tunnel Mail
-Steel Mail
-Steel Mail
-Heart Mail
-Heart Mail
-Snow Mail
-Snow Mail
-Space Mail
-Space Mail
-Air Mail
-Air Mail
-Mosaic Mail
-Mosaic Mail
-Brick Mail
-Brick Mail
-X Attack
-X Attack
-X Attack 2
-X Attack 2
-X Attack 3
-X Attack 3
-X Attack 6
-X Attack 6
-X Defense
-X Defense
-X Defend
-X Defend
-X Defense 2
-X Defense 2
-X Defend 2
-X Defend 2
-X Defense 3
-X Defense 3
-X Defend 3
-X Defend 3
-X Defense 6
-X Defense 6
-X Defend 6
-X Defend 6
-X Sp. Atk
-X Sp. Atk
-X Special
-X Special
-X Sp. Atk 2
-X Sp. Atk 2
-X Special 2
-X Special 2
-X Sp. Atk 3
-X Sp. Atk 3
-X Special 3
-X Special 3
-X Sp. Atk 6
-X Sp. Atk 6
-X Special 6
-X Special 6
-X Sp. Def
-X Sp. Def
-X Sp. Def 2
-X Sp. Def 2
-X Sp. Def 3
-X Sp. Def 3
-X Sp. Def 6
-X Sp. Def 6
-X Speed
-X Speed
-X Speed 2
-X Speed 2
-X Speed 3
-X Speed 3
-X Speed 6
-X Speed 6
-X Accuracy
-X Accuracy
-X Accuracy 2
-X Accuracy 2
-X Accuracy 3
-X Accuracy 3
-X Accuracy 6
-X Accuracy 6
-Max Mushrooms
-Max Mushrooms
-Dire Hit
-Dire Hit
-Dire Hit 2
-Dire Hit 2
-Dire Hit 3
-Dire Hit 3
+Ultraball
 Guard Spec.
-Guard Spec.
-Reset Urge
-Reset Urge
-Ability Urge
-Ability Urge
-Item Urge
-Item Urge
-Item Drop
-Item Drop
-Blue Flute
-Blue Flute
-Yellow Flute
-Yellow Flute
-Red Flute
-Red Flute
+Megablock
+Dire Hit
+Angriffplus
+X Attack
+X-Angriff
+X Defence
+X-Verteidigung
+X Speed
+X-Initiative
+X Accuracy
+X-Genauigkeit
+X Sp. Atk
+X-Sp.-Ang.
 Poké Doll
-Poké Doll
+Poképuppe
+Blue Flute
+Blaue Flöte
+Yellow Flute
+Gelbe Flöte
+Red Flute
+Rote Flöte
+X Sp. Def
+X-Sp.-Vert.
 Fluffy Tail
-Fluffy Tail
+Eneco-Rute
 Poké Toy
-Poké Toy
-Bicycle
-Bicycle
-Bike
-Bike
-Old Rod
-Old Rod
-Good Rod
-Good Rod
-Super Rod
-Super Rod
-Itemfinder
-Itemfinder
-Dowsing Machine
-Dowsing Machine
-Dowsing MCHN
-Dowsing MCHN
-Poké Radar
-Poké Radar
-Town Map
-Town Map
+Pokéwedel
+Cheri Berry
+Amrenabeere
+Chesto Berry
+Maronbeere
+Pecha Berry
+Pirsifbeere
+Rawst Berry
+Fragiabeere
+Aspear Berry
+Wilbirbeere
+Leppa Berry
+Jonagobeere
+Oran Berry
+Sinelbeere
+Persim Berry
+Persimbeere
+Lum Berry
+Prunusbeere
+Sitrus Berry
+Tsitrubeere
+Figy Berry
+Giefebeere
+Wiki Berry
+Wikibeere
+Mago Berry
+Magobeere
+Aguav Berry
+Guavebeere
+Iapapa Berry
+Yapabeere
+Razz Berry
+Himmihbeere
+Bluk Berry
+Morbbeere
+Nanab Berry
+Nanabbeere
+Wepear Berry
+Nirbebeere
+Pinap Berry
+Sananabeere
+Pomeg Berry
+Granabeere
+Kelpsy Berry
+Setangbeere
+Qualot Berry
+Qualotbeere
+Hondew Berry
+Honmelbeere
+Grepa Berry
+Labrusbeere
+Tamato Berry
+Tamotbeere
+Cornn Berry
+Saimbeere
+Magost Berry
+Magostbeere
+Rabuta Berry
+Rabutabeere
+Nomel Berry
+Tronzibeere
+Spelon Berry
+Kiwanbeere
+Pamtre Berry
+Pallmbeere
+Watmel Berry
+Wasmelbeere
+Durin Berry
+Durinbeere
+Belue Berry
+Myrtilbeere
+Leichi Berry
+Lydzibeere
+Galon Berry
+Linganbeere
+Salac Berry
+Salkabeere
+Petaya Berry
+Tahaybeere
+Apricot Berry
+Apikobeere
+Lansat Berry
+Lansatbeere
+Starf Berry
+Krambobeere
+Enigma Berry
+Enigmabeere
+Occa Berry
+Koakobeere
+Passho Berry
+Foepasbeere
+Wacan Berry
+Kerzalbeere
+Rindo Berry
+Grindobeere
+Yache Berry
+Kiroyabeere
+Chople Berry
+Rospelbeere
+Kebia Berry
+Grarzbeere
+Shuca Berry
+Schukebeere
+Coba Berry
+Kobabeere
+Payapa Berry
+Pyapabeere
+Tanga Berry
+Tanigabeere
+Charti Berry
+Chiaribeere
+Kasib Berry
+Zitarzbeere
+Haban Berry
+Terirobeere
+Colbur Berry
+Burleobeere
+Babiri Berry
+Babiribeere
+Chilan Berry
+Latchibeere
+Micle Berry
+Wunfrubeere
+Custap Berry
+Eipfelbeere
+Jaboca Berry
+Jabocabeere
+Rowap Berry
+Roselbeere
+Roseli Berry
+Hibisbeere
+Kee Berry
+Akibeere
+Maranga Berry
+Tarabeere
+Hopo Berry
+Pfohbeere
+Repel
+Schutz
+Super Repel
+Superschutz
+Max Repel
+Top-Schutz
 Escape Rope
-Escape Rope
-Coin Case
-Coin Case
-Poké Flute
-Poké Flute
-Soot Sack
-Soot Sack
-Silph Scope
-Silph Scope
-Devon Scope
-Devon Scope
+Fluchtseil
+Black Flute
+Schwarze Flöte
+White Flute
+Weisse Flöte
+Shoal Salt
+Küstensalz
+Shoal Shell
+Küstenschale
+Red Shard
+Purpurstück
+Blue Shard
+Indigostück
+Yellow Shard
+Gelbstück
+Green Shard
+Grünstück
+Exp. Share
+EP-Teiler
+Heart Scale
+Herzschuppe
+Growth Mulch
+Wachsmulch
+Damp Mulch
+Feuchtmulch
+Stable Mulch
+Stabilmulch
+Gooey Mulch
+Neumulch
+Root Fossil
+Wurzelfossil
+Claw Fossil
+Klauenfossil
+Helix Fossil
+Helixfossil
+Dome Fossil
+Domfossil
+Old Amber
+Altbernstein
+Armor Fossil
+Panzerfossil
+Skull Fossil
+Kopffossil
+Odd Keystone
+Spiritkern
+Cover Fossil
+Schildfossil
+Plume Fossil
+Federfossil
+Rich Mulch
+Sprießmulch
+Surprise Mulch
+Wundermulch
+Boost Mulch
+Wuchermulch
+Amaze Mulch
+Ultramulch
+Jaw Fossil
+Kieferfossil
+Sail Fossil
+Flossenfossil
+Red Nectar
+Roter Nektar
+Yellow Nectar
+Gelber Nektar
+Pink Nectar
+Rosa Nektar
+Purple Nectar
+Purpurner Nektar
+Fossilized Bird
+Vogelfossil
+Fossilized Fish
+Fischfossil
+Fossilized Drake
+Drachenfossil
+Fossilized Dino
+Paddelfossil
+Sweet Apple
+Süßer Apfel
+Tart Apple
+Saurer Apfel
+Cracked Pot
+Rissige Kanne
+Chipped Pot
+Löchrige Kanne
+Galarica Cuff
+Galarnuss-Reif
+Galarica Wreath
+Galarnuss-Kranz
+Linking Cord
+Verbindungsschnur
+Black Augurite
+Schwarzaugit
+Peat Block
+Torfblock
+Scroll of Darkness
+Unlicht-Schriftrolle
+Scroll of Waters
+Wasser-Schriftrolle
+Malicious Armor
+Fluchrüstung
+Auspicious Armor
+Glorienrüstung
+Syrupy Apple
+Saftiger Apfel
+Unremarkable Teacup
+Simple Teeschale
+Masterpiece Teacup
+Edle Teeschale
+Metal Alloy
+Legierungsmetall
+Moon Stone
+Mondstein
+Fire Stone
+Feuerstein
+Thunder Stone
+Donnerstein
+Water Stone
+Wasserstein
+Leaf Stone
+Blattstein
+Sun Stone
+Sonnenstein
+Shiny Stone
+Leuchstein
+Dusk Stone
+Finsterstein
+Dawn Stone
+Funkelstein
+Ice Stone
+Eisstein
+Bright Powder
+Blendpuder
+Quick Claw
+Flinkklaue
+King's Rock
+King-Stein
+Silver Powder
+Silberstaub
+Amulet Coin
+Münzamulett
+Cleanse Tag
+Schutzband
+Smoke Ball
+Rauchball
+Everstone
+Ewigstein
+Focus Band
+Fokus-Band
+Lucky Egg
+Glücks-Ei
+Scope Lens
+Scope-Linse
+Metal Coat
+Metallmantel
+Leftovers
+Überreste
+Dragon Scale
+Drachenhaut
+Light Ball
+Kugelblitz
+Soft Sand
+Pundersand
+Hard Stone
+Granitstein
+Miracle Seed
+Wundersaat
+Black Glasses
+Schattenglas
+Black Belt
+Schwarzgurt
+Magnet
+Magnet
+Mystic Water
+Zauberwasser
+Sharp Beak
+Hackattack
+Poison Barb
+Giftstich
+Never-Melt Ice
+Ewiges Eis
+Spell Tag
+Bannsticker
+Twisted Spoon
+Krümmlöffel
+Charcoal
+Holzkohle
+Dragon Fang
+Drachenzahn
+Upgrade
+Up-Grade
+Lucky Punch
+Lucky Punch
+Metal Powder
+Metallstaub
+Thick Club
+Kampfknochen
+Leek
+Lauchstange
+White Herb
+Schlohkraut
+Macho Brace
+Machoband
+Soothe Bell
+Sanftglocke
+Mental Herb
+Mentalkraut
+Choice Band
+Wahlband
+Soul Dew
+Seelentau
+Deep Sea Tooth
+Abysszahn
+Deep Sea Scale
+Abyssplatte
+Silk Scarf
+Seidenschal
+Shell Bell
+Seegesang
+Sea Incense
+Seerauch
+Lax Incense
+Laxrauch
+Red Scarf
+Roter Schal
+Blue Scarf
+Blauer Schal
+Pink Scarf
+Rosa Schal
+Green Scarf
+Grüner Schal
+Yellow Scarf
+Gelber Schal
+Red Orb
+Roter Edelstein
+Blue Orb
+Blauer Edelstein
+Flame Plate
+Feuertafel
+Splash Plate
+Wassertafel
+Zap Plate
+Blitztafel
+Meadow Plate
+Weisentafel
+Icicle Plate
+Frosttafel
+Fist Plate
+Fausttafel
+Toxic Plate
+Gifttafel
+Earth Plate
+Erdtafel
+Sky Plate
+Wolkentafel
+Mind Plate
+Hirntafel
+Insect Plate
+Käfertafel
+Stone Plate
+Steintafel
+Spooky Plate
+Spuktafel
+Draco Plate
+Dracotafel
+Dread Plate
+Furchttafel
+Iron Plate
+Eisentafel
+Odd Incense
+Schrägrauch
+Rock Incense
+Steinrauch
+Full Incense
+Lahmrauch
+Wave Incense
+Wellenrauch
+Rose Incense
+Rosenrauch
+Luck Incense
+Glücksrauch
+Pure Incense
+Scheuchrauch
+Protector
+Schützer
+Electirizer
+Stromisierer
+Magmarizer
+Magmaisierer
+Dubious Disc
+Dubiosdisc
+Reaper Cloth
+Düsterumhang
+Razor Claw
+Scharfklaue
+Razor Fang
+Scharfzahn
+Oval Stone
+Ovaler Stein
+Adamant Orb
+Adamant-Orb
+Lustrous Orb
+Weiß-Orb
+Griseous Orb
+Platinum-Orb
+Wide Lens
+Großlinse
+Muscle Band
+Muskelband
+Wise Glasses
+Schlauglas
+Expert Belt
+Expertengurt
+Light Clay
+Lichtlehm
+Life Orb
+Leben-Orb
+Power Herb
+Energiekraut
+Toxic Orb
+Toxik-Orb
+Flame Orb
+Heiß-Orb
+Quick Powder
+Flottstaub
+Focus Sash
+Fokusgurt
+Zoom Lens
+Zoomlinse
+Metronome
+Metronom
+Iron Ball
+Eisenkugel
+Lagging Tail
+Schwerschweif
+Destiny Knot
+Fatumknoten
+Black Sludge
+Giftschleim
+Icy Rock
+Eisbrocken
+Smooth Rock
+Glattbrocken
+Heat Rock
+Heißbrocken
+Damp Rock
+Nassbrocken
+Grip Claw
+Griffklaue
+Choice Scarf
+Wahlschal
+Sticky Barb
+Klettdorn
+Power Bracer
+Machtreif
+Power Belt
+Machtgurt
+Power Lens
+Machtlinse
+Power Band
+Machtband
+Power Anklet
+Machtkette
+Power Weight
+Machtgewicht
+Shed Shell
+Wechselhülle
+Big Root
+Großwurzel
+Choice Specs
+Wahlglas
+Douse Drive
+Aquamodul
+Shock Drive
+Blitzmodul
+Burn Drive
+Flammenmodul
+Chill Drive
+Gefriermodul
+Prism Scale
+Schönschuppe
+Eviolite
+Evolith
+Float Stone
+Leichtstein
+Rocky Helmet
+Beulenhelm
+Air Balloon
+Luftballoon
+Red Card
+Rote Karte
+Ring Target
+Zielscheibe
+Binding Band
+Klammerband
+Absorb Bulb
+Knolle
+Cell Battery
+Akku
+Eject Button
+Fluchtknopf
+Fire Gem
+Feuerjuwel
+Water Gem
+Wasserjuwel
+Electric Gem
+Elektrojuwel
+Grass Gem
+Pflanzejuwel
+Ice Gem
+Eisjuwel
+Fighting Gem
+Kampfjuwel
+Poison Gem
+Giftjuwel
+Ground Gem
+Bodenjuwel
+Flying Gem
+Flugjuwel
+Psychic Gem
+Psyschojuwel
+Bug Gem
+Käferjuwel
+Rock Gem
+Gesteinjuwel
+Ghost Gem
+Geistjuwel
+Dragon Gem
+Drachejuwel
+Dark Gem
+Unlichtjuwel
+Steel Gem
+Stahljuwel
+Normal Gem
+Normaljuwel
+Fairy Gem
+Feejuwel
+Weakness Policy
+Schwächenschutz
+Assault Vest
+Offensivweste
+Pixie Plate
+Feentafel
+Whipped Dream
+Sahnehäubchen
+Sachet
+Duftbeutel
+Luminous Moss
+Leuchtmoos
+Snowball
+Schneeball
+Safety Goggles
+Schutzbrille
+Gengarite
+Gengarnit
+Gardevoirite
+Guardevoirnit
+Ampharosite
+Ampharosnit
+Venusaurite
+Bisaflornit
+Charizardite X
+Gluraknit X
+Blastoisinite
+Turtoknit
+Mewtwonite X
+Mewtunit X
+Mewtwonite Y
+Mewtunit Y
+Blazikenite
+Lohgocknit
+Medichamite
+Meditalisnit
+Houndoominite
+Hundemonit
+Aggronite
+Stollossnit
+Banettite
+Banetteonit
+Tyranitarite
+Despotarnit
+Scizorite
+Scheroxnit
+Pinisirite
+Pinisirnit
+Aerodactylite
+Aerodactylonit
+Lucarionite
+Lucarionit
+Abomasite
+Rexblisarnit
+Kangaskhanite
+Kangamanit
+Gyradosnite
+Garadosnit
+Absolite
+Absolnit
+Charizardite Y
+Gluraknit Y
+Alakazite
+Simsalanit
+Hercronite
+Skarabornit
+Mawilite
+Flunkifernit
+Manectite
+Voltensonit
+Garchompite
+Knakracknit
+Latiasite
+Latiasnit
+Latiosite
+Latiosnit
+Swarmpertite
+Sumpexnit
+Sceptilite
+Gewaldronit
+Sablenite
+Zobirisnit
+Altarianite
+Altarianit
+Galladite
+Galagladinit
+Audinite
+Ohrdochnit
+Metagrossite
+Metagrossnit
+Sharpedonite
+Tohaidonit
+Slowbronite
+Lahmusnit
+Steelixite
+Stahlosnit
+Pidgeotite
+Taubossnit
+Glalitite
+Firnontornit
+Diancite
+Diancienit
+Cameruptite
+Cameruptnit
+Loppunite
+Schlapornit
+Salamencite
+Brutalandanit
+Beedrillite
+Bibornit
+Normalium Z
+Normium Z
+Firium Z
+Pyrium Z
+Waterium Z
+Aquium Z
+Electrium Z
+Voltium Z
+Grassium Z
+Botanium Z
+Icium Z
+Glacium Z
+Fightinium Z
+Battalium Z
+Poisonium Z
+Toxium Z
+Groundium Z
+Terrium Z
+Flyinium Z
+Aerium Z
+Psychium Z
+Psium Z
+Buginium Z
+Insectium Z
+Rockium Z
+Petrium Z
+Ghostium Z
+Phantomium Z
+Dragonium Z
+Dracium Z
+Darkinium Z
+Noctium Z
+Steelium Z
+Metallium Z
+Fairium Z
+Sylphium Z
+Pikanium Z
+Pikachium Z
+Decidium Z
+Silvarronium Z
+Incinium Z
+Fuegronium Z
+Primarium Z
+Primarenium Z
+Tapunium Z
+Kapium Z
+Marshadium Z
+Marshadownium Z
+Aloraichium Z
+A-Raichunium Z
+Snorlium Z
+Relaxonium Z
+Eevium Z
+Evolium Z
+Mewnium Z
+Mewnium Z
+Pikashunium Z
+Ash-Pikachium Z
+Adrenaline Orb
+Zitterorb
+Terrain Extender
+Feldbeschichtung
+Protective Pads
+Schutzpolster
+Electric Seed
+Elektro-Samen
+Psychic Seed
+Psycho-Samen
+Misty Seed
+Nebel-Samen
+Grassy Seed
+Gras-Samen
+Fighting Memory
+Kampf-Disc
+Flying Memory
+Flug-Disc
+Poison Memory
+Gift-Disc
+Ground Memory
+Boden-Disc
+Rock Memory
+Gestein-Disc
+Bug Memory
+Käfer-Disc
+Ghost Memory
+Geist-Disc
+Steel Memory
+Stahl-Disc
+Fire Memory
+Feuer-Disc
+Water Memory
+Wasser-Disc
+Grass Memory
+Pflanze-Disc
+Electric Memory
+Elektro-Disc
+Psychic Memory
+Psyscho-Disc
+Ice Memory
+Eis-Disc
+Dragon Memory
+Drache-Disc
+Dark Memory
+Unlicht-Disc
+Fairy Memory
+Fee-Disc
+Solganium Z
+Solgalium Z
+Lunalium Z
+Lunalium Z
+Ultranecrozium Z
+Ultranecrozium Z
+Mimikium Z
+Mimigmium Z
+Lycanium Z
+Wolwerockium Z
+Kommonium Z
+Grandirasium Z
+Rusted Sword
+Rostiges Schwert
+Rusted Shield
+Rostiges Schild
+Strawberry Sweet
+Zucker-Erdbeere
+Love Sweet
+Zucker-Herz
+Berry Sweet
+Zucker-Beere
+Clover Sweet
+Zucker-Kleeblatt
+Flower Sweet
+Zucker-Blume
+Star Sweet
+Zucker-Stern
+Ribbon Sweet
+Zucker-Schleife
+Throat Spray
+Halsspray
+Eject Pack
+Fluchttasche
+Heavy-Duty Boots
+Plateauschuhe
+Blunder Policy
+Fehlschlagschutz
+Room Service
+Bizarroservice
+Utility Umbrella
+Allzweckschirm
+Adamant Crystal
+Adamasferoide
+Lustrous Globe
+Weißkristall
+Griseous Core
+Platinumkristall
+Booster Energy
+Energiekapsel
+Ability Shield
+Fähigkeitenschild
+Clear Amulet
+Neutralschmuck
+Mirror Herb
+Kopierkraut
+Punching Glove
+Boxhandschuh
+Covert Cloak
+Tarnumhang
+Loaded Dice
+Gezinkter Würfel
+Leader's Crest
+Anführersymbol
+Fairy Feather
+Feendaune
+Cornerstone Mask
+Fundamentmaske
+Wellspring Mask
+Brunnenmaske
+Hearthflame Mask
+Ofenmaske
+Red Apricorn
+Aprikoko Rot
+Blue Apricorn
+Aprikoko Blau
+Yellow Apricorn
+Aprikoko Gelb
+Green Apricorn
+Aprikoko Grün
+Pink Apricorn
+Aprikoko Pink
+White Apricorn
+Aprikoko Weiß
+Black Apricorn
+Aprikoko Schwarz
+Nugget
+Nugget
+Tiny Mushroom
+Minipilz
+Big Mushroom
+Riesenpilz
+Pearl
+Perle
+Big Pearl
+Riesenperle
+Stardust
+Sternenstaub
+Star Piece
+Sternenstück
+Honey
+Honig
+Bottle Cap
+Silberkronkorken
+Gold Silberkronkorken
+Goldkronkorken
+Bicycle
+Fahrrad
+Town Map
+Karte
+Old Rod
+Angel
+Good Rod
+Profiangel
+Super Rod
+Superangel
+Dowsing Machine
+Itemradar
 Squirt Bottle
-Squirt Bottle
-SquirtBottle
-SquirtBottle
-Sprayduck
-Sprayduck
-Wailmer Pail
-Wailmer Pail
-Sprinklotad
-Sprinklotad
+Schiggykanne
+Vs. Seeker
+Kampffahnder
+Meteorite
+Meteorit
 Gracidea
 Gracidea
-Reveal Glass
-Reveal Glass
-Prison Bottle
-Prison Bottle
-Rotom Catalog
-Rotom Catalog
-Zygarde Cube
-Zygarde Cube
 DNA Splicers
-DNA Splicers
-N-Solarizer
-N-Solarizer
-N-Lunarizer
-N-Lunarizer
-Reins of Unity
-Reins of Unity
+DNS-Keil
 Oval Charm
-Oval Charm
+Ovalpin
 Shiny Charm
-Shiny Charm
+Schillerpin
+Reveal Glass
+Wahrspiegel
+Prison Bottle
+Banngefäß
+Key Stone
+Schlüssel-Stein
+Z-Power Ring
+Z-Kraftring
+Zygarde Cube
+Zygarde-Würfel
+N-Solarizer
+Necrosol
+N-Lunarizer
+Necrolun
+Dynamax Band
+Dynamax-Band
 Catching Charm
-Catching Charm
+Superfangpin
+Rotom Catalog
+Rotom-Katalog
 Exp. Charm
-Exp. Charm
-Mega Ring
-Mega Ring
-Pokémon Box Link
-Pokémon Box Link
-Pokémon Box
-Pokémon Box
-Aurora Ticket
-Aurora Ticket
-Old Sea Map
-Old Sea Map
+EP-Pin
+Reins of Unity
+Zügel des Bundes
+Tera Orb
+Terakristall-Orb
+Glimmering Charm
+Glitzerpin

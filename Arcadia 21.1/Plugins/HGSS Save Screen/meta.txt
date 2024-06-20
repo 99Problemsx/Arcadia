@@ -1,0 +1,6 @@
+Name       = HGSS Save Screen
+Version    = 1.4
+Essentials = 20, 20.1, 21, 21.1
+Conflicts  = Auto Multi Save
+Link       = https://reliccastle.com/resources/1399/
+Credits    = Abdoulgaming

@@ -119,6 +119,7 @@ Name = Enursia City
 Outdoor = true
 ShowArea = true
 MapPosition = 0,6,13
+Flags = PowerSpot
 #-------------------------------
 [038]   # Interstellar Cave
 Name = Interstellar Cave
@@ -195,6 +196,7 @@ Name = Route 11
 Outdoor = true
 ShowArea = true
 MapPosition = 0,3,16
+Flags = PowerSpot
 #-------------------------------
 [058]   # Downpour Gym
 Name = Downpour Gym
@@ -205,6 +207,7 @@ Name = Keishan City
 Outdoor = true
 ShowArea = true
 MapPosition = 0,3,15
+Flags = PowerSpot
 #-------------------------------
 [060]   # Keishan City Gym
 Name = Keishan City Gym
@@ -214,11 +217,13 @@ BattleBack = FieldSand
 [061]   # Rightful Base #2
 Name = Rightful Base #2
 BattleBack = Hideout
+Flags = PowerSpot
 #-------------------------------
 [064]   # Wishing Well
 Name = Wishing Well
 Outdoor = true
 ShowArea = true
+Flags = PowerSpot
 #-------------------------------
 [065]   # Cerulean Link
 Name = Cerulean Link

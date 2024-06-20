@@ -123,6 +123,79 @@ class Game_FollowingPkmn < Game_Follower
     return if FollowingPkmn.active? && !FollowingPkmn::ALWAYS_FACE_PLAYER
     pbTurnTowardEvent(self, leader)
   end
+    #-----------------------------------------------------------------------------
+  # Updating the method which controls event position to includes changes to
+  # work with Marin and Boonzeets side stairs
+  #-----------------------------------------------------------------------------
+  def follow_leader(leader, instant = false, leaderIsTrueLeader = true)
+	return if @move_route_forcing
+    end_movement
+    maps_connected = $map_factory.areConnected?(leader.map.map_id, self.map.map_id)
+    target = nil
+    # Get the target tile that self wants to move to
+    if maps_connected
+      behind_direction = 10 - leader.direction
+      target = $map_factory.getFacingTile(behind_direction, leader)
+      if target && $map_factory.getTerrainTag(target[0], target[1], target[2]).ledge
+        # Get the tile above the ledge (where the leader jumped from)
+        target = $map_factory.getFacingTileFromPos(target[0], target[1], target[2], behind_direction)
+      end
+      target = [leader.map.map_id, leader.x, leader.y] if !target
+      if GameData::TerrainTag.exists?(:StairLeft)
+        currentTag = $map_factory.getTerrainTag(self.map.map_id, self.x, self.y)
+        if currentTag == :StairLeft
+          target[2] += (target[1] > $game_player.x ? -1 : 1)
+        elsif currentTag == :StairRight
+          target[2] += (target[1] < $game_player.x ? -1 : 1)
+        end
+      end
+      # Added
+      if defined?(on_stair?) && on_stair?
+        if leader.on_stair?
+          if leader.stair_start_x != self.stair_start_x
+            # Leader stepped on other side so start/end swapped, but not for follower yet
+            target[2] = self.y
+          elsif leader.stair_start_x < leader.stair_end_x
+            # Left to Right
+            if leader.x < leader.stair_start_x && self.x != self.stair_start_x
+              # Leader stepped off
+              target[2] = self.y
+            end
+          elsif leader.stair_end_x < leader.stair_start_x
+            # Right to Left
+            if leader.x > leader.stair_start_x && self.x != self.stair_start_x
+              # Leader stepped off
+              target[2] = self.y
+            end
+          end
+        elsif self.on_middle_of_stair?
+          # Leader is no longer on stair but follower is, so player moved up or down at the start or end of the stair
+          if leader.y < self.stair_end_y - self.stair_y_height + 1 || leader.y > self.stair_end_y
+            target[2] = self.y
+          end
+        end
+      end
+    else
+      # Map transfer to an unconnected map
+      target = [leader.map.map_id, leader.x, leader.y]
+    end
+    # Move self to the target
+    if self.map.map_id != target[0]
+      vector = $map_factory.getRelativePos(target[0], 0, 0, self.map.map_id, @x, @y)
+      @map = $map_factory.getMap(target[0])
+      # NOTE: Can't use moveto because vector is outside the boundaries of the
+      #       map, and moveto doesn't allow setting invalid coordinates.
+      @x = vector[0]
+      @y = vector[1]
+      @real_x = @x * Game_Map::REAL_RES_X
+      @real_y = @y * Game_Map::REAL_RES_Y
+    end
+    if instant || !maps_connected
+      moveto(target[1], target[2])
+    else
+      fancy_moveto(target[1], target[2], leader)
+    end
+  end
   #-----------------------------------------------------------------------------
   # Make Follower Appear above player
   #-----------------------------------------------------------------------------

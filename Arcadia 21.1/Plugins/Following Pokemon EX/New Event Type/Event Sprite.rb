@@ -22,7 +22,7 @@ EventHandlers.add(:on_enter_map, :erase_following_pkmn, proc { |_old_map_id|
   next if !event
   FollowingPkmn.refresh(false)
   $map_factory.maps.each { |map|
-    map.events[event.event_id]&.erase if event.original_map_id == event.current_map_id
+    map.events[event.event_id]&.erase if event.original_map_id == map.events[event.event_id]&.map_id
   }
 })
 
@@ -42,10 +42,11 @@ class FollowerSprites
     end
     data = FollowingPkmn.get_data
     $map_factory.maps.each { |map|
-      map&.events&.[](data.event_id)&.erase if data && data.original_map_id == data.current_map_id
+      map&.events&.[](data.event_id)&.erase if data && data.original_map_id == map&.events&.[](data.event_id)&.map_id
     }
     FollowingPkmn.refresh(false)
   end
+
   #-----------------------------------------------------------------------------
   # Adding DayNight and Status condition pulsing effect to Following Pokemon
   # sprite

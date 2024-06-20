@@ -3,1302 +3,2104 @@
 #-------------------------------
 [SPECIES_CATEGORIES]
 Seed
+Samen
 Seed
+Samen
+Seed
+Samen
 Lizard
-Lizard
+Echse
 Flame
+Flamme
 Flame
+Flamme
 Tiny Turtle
-Tiny Turtle
+Minikröte
 Turtle
-Turtle
+Kröte
 Shellfish
-Shellfish
+Schaltier
 Worm
-Worm
+Wurm
 Cocoon
+Kokon
+Butterfly
+Falter
+Hairy Bug
+Raupe
 Cocoon
-Butterfly
-Butterfly
-Hairy Bug
-Hairy Bug
+Kokon
 Poison Bee
-Poison Bee
+Giftbiene
 Tiny Bird
+Kleinvogel
+Bird
+Vogel
+Bird
+Vogel
+Mouse
+Maus
+Mouse
+Maus
 Tiny Bird
-Bird
-Bird
-Mouse
-Mouse
+Kleinvogel
 Beak
-Beak
+Pickvogel
 Snake
-Snake
+Schlange
 Cobra
-Cobra
+Kobra
+Mouse
+Maus
+Mouse
+Maus
+Mouse
+Maus
+Mouse
+Maus
 Poison Pin
+Giftdorn
 Poison Pin
+Giftdorn
 Drill
+Bohrer
+Poison Pin
+Giftdorn
+Poison Pin
+Giftdorn
 Drill
+Bohrer
 Fairy
+Fee
 Fairy
+Fee
 Fox
+Fuchs
 Fox
+Fuchs
 Balloon
+Ballon
 Balloon
+Ballon
 Bat
+Fledermaus
 Bat
+Fledermaus
 Weed
+Unkraut
 Weed
+Unkraut
 Flower
-Flower
+Blume
 Mushroom
+Pilz
 Mushroom
+Pilz
 Insect
-Insect
+Insekt
 Poison Moth
-Poison Moth
+Giftmotte
 Mole
+Maulwurf
 Mole
+Maulwurf
 Scratch Cat
-Scratch Cat
+Katze
 Classy Cat
-Classy Cat
+Rassekatze
 Duck
+Ente
 Duck
+Ente
 Pig Monkey
+Schwein / Affe
 Pig Monkey
+Schwein / Affe
 Puppy
-Puppy
+Welpen
+Scout
+Späher
 Legendary
-Legendary
+Legendär
 Tadpole
+Kaulquappe
 Tadpole
+Kaulquappe
+Tadpole
+Kaulquappe
+Psi
+Psi
+Psi
+Psi
 Psi
 Psi
 Superpower
+Kraftprotz
 Superpower
+Kraftprotz
+Superpower
+Kraftprotz
+Flower
+Blume
 Flycatcher
+Fliegentot
 Flycatcher
+Fliegentot
 Jellyfish
+Qualle
 Jellyfish
+Qualle
 Rock
+Gestein
 Rock
+Gestein
 Megaton
-Megaton
+Urgestein
 Fire Horse
+Feuerpferd
+Unique Horn
+Einhorn
 Fire Horse
+Feuerpferd
+Unique Horn
+Einhorn
 Dopey
-Dopey
+Schnarcher
 Hermit Crab
-Hermit Crab
+Symbiose
+Magnet
+Magnet
 Magnet
 Magnet
 Wild Duck
-Wild Duck
+Wildente
 Twin Bird
-Twin Bird
+Duovogel
 Triple Bird
-Triple Bird
+Trivogel
 Sea Lion
+Seehund
 Sea Lion
+Seehund
 Sludge
+Schlamm
 Sludge
+Schlamm
 Bivalve
+Muschel
 Bivalve
+Muschel
+Gas
+Gas
 Gas
 Gas
 Shadow
-Shadow
+Schatten
 Rock Snake
-Rock Snake
+Felsnatter
 Hypnosis
+Hypnose
 Hypnosis
+Hypnose
 River Crab
-River Crab
+Krabbe
 Pincer
-Pincer
+Kneifer
 Ball
 Ball
+Sphere
+Kugel
+Ball
+Ball
+Sphere
+Kugel
 Egg
+Ei
+Coconut
+Palmfrucht
+Lonely
+Einsam
+Bone Keeper
+Knochenfan
+Kicking
+Kicker
+Punching
+Puncher
+Licking
+Schlecker
+Poison Gas
+Giftwolke
+Poison Gas
+Giftwolke
+Spikes
+Stachler
+Drill
+Bohrer
 Egg
-Coconut
-Coconut
-Lonely
-Lonely
-Bone Keeper
-Bone Keeper
-Kicking
-Kicking
-Punching
-Punching
-Licking
-Licking
-Poison Gas
-Poison Gas
-Spikes
-Spikes
+Ei
 Vine
-Vine
+Ranke
 Parent
-Parent
-Dragon
-Dragon
+Muttertier
+Drache
+Dragón
+Drache
+Dragón
 Goldfish
+Goldfisch
 Goldfish
+Goldfisch
 Star Shape
-Star Shape
+Sternform
 Mysterious
-Mysterious
-Barrier
-Barrier
+Mysteriös
+Barriere
+Sperre
+Dancing
+Tanz
 Mantis
 Mantis
 Human Shape
-Human Shape
-Electric
-Electric
+Humanotyp
+Elektro
+Eléctrico
 Spitfire
-Spitfire
+Brenner
 Stag Beetle
-Stag Beetle
+Kneifkäfer
 Wild Bull
-Wild Bull
+Wildbulle
 Fish
-Fish
+Fisch
 Atrocious
-Atrocious
+Grausam
 Transport
 Transport
-Transform
+Wandler
 Transform
 Evolution
 Evolution
 Bubble Jet
-Bubble Jet
+Blubblase
 Lightning
-Lightning
+Blitz
+Flame
+Flamme
 Virtual
-Virtual
+Virtuell
 Spiral
+Spirale
 Spiral
+Spirale
+Shellfish
+Schaltier
+Shellfish
+Schaltier
 Fossil
 Fossil
 Sleeping
-Sleeping
+Tagträumer
 Freeze
-Freeze
+Eis
+Cruel
+Gefühlskälte
+Elektro
+Elektro
+Strong Legs
+Läufer
+Flame
+Flamme
+Malevolent
+Bosheits
+Drache
+Dragón
+Drache
+Dragón
+Drache
+Dragón
 Genetic
-Genetic
+Genmutant
 New Species
-New Species
+Neue Art
 Leaf
+Laub
 Leaf
+Laub
 Herb
-Herb
+Kräuter
 Fire Mouse
-Fire Mouse
+Feuermaus
 Volcano
+Vulkan
 Volcano
+Vulkan
+Ghost Flame
+Irrlicht
 Big Jaw
+Großmaul
 Big Jaw
+Großmaul
+Big Jaw
+Großmaul
 Scout
-Scout
+Späher
 Long Body
-Long Body
+Langleib
 Owl
+Eule
 Owl
+Eule
 Five Star
+Fünf-Punkt
 Five Star
+Fünf-Punkt
 String Spit
-String Spit
+Fadenwurf
 Long Leg
-Long Leg
+Langbein
+Bat
+Fledermaus
 Angler
 Angler
 Light
+Leuchte
+Tiny Mouse
+Babymaus
+Star Shape
+Sternform
+Balloon
+Ballon
+Spike Ball
+Zackenball
+Happiness
+Freude
+Tiny Bird
+Kleinvogel
+Mystic
+Mystik
+Wool
+Wolle
+Wool
+Wolle
 Light
-Tiny Mouse
-Tiny Mouse
-Spike Ball
-Spike Ball
-Happiness
-Happiness
-Mystic
-Mystic
-Wool
-Wool
+Leuchte
+Flower
+Blume
 Aqua Mouse
-Aqua Mouse
+Aquamaus
 Aqua Rabbit
-Aqua Rabbit
+Aquahase
 Imitation
 Imitation
 Frog
-Frog
+Frosch
 Cottonweed
+Löwenzahn
 Cottonweed
+Löwenzahn
+Cottonweed
+Löwenzahn
 Long Tail
-Long Tail
+Langschweif
+#BEZUG!
+#BEZUG!
 Sun
+Sonne
+Clear Wing
+Libelle
+Water Fish
+Fisch
+Poison Fish
+Giftfisch
+Water Fish
+Fisch
 Sun
-Clear Wing
-Clear Wing
-Water Fish
-Water Fish
+Sonne
 Moonlight
-Moonlight
+Mondschein
 Darkness
-Darkness
+Finsternis
 Royal
-Royal
-Screech
-Screech
+Monarch
+Hexpert
+Hexenmeister
+Kreideschrei
+Kreischer
 Symbol
 Symbol
 Patient
-Patient
+Geduld
 Long Neck
-Long Neck
+Langhals
 Bagworm
+Beutelwurm
 Bagworm
+Beutelwurm
 Land Snake
-Land Snake
+Schlange
 Fly Scorpion
-Fly Scorpion
+Flugskorpion
 Iron Snake
-Iron Snake
+Stahlboa
+Fairy
+Fee
+Fairy
+Fee
+Balloon
+Ballon
+Pincer
+Kneifer
 Mold
-Mold
+Schimmel
 Single Horn
-Single Horn
+Einzelhorn
 Sharp Claw
-Sharp Claw
+Stichklaue
 Little Bear
-Little Bear
+Kleinbär
 Hibernator
-Hibernator
+Schläfer
+Lava
+Lava
 Lava
 Lava
 Pig
-Pig
+Ferkel
 Swine
-Swine
+Schwein
 Coral
-Coral
+Koralle
 Jet
+Hochdruck
 Jet
+Hochdruck
 Delivery
-Delivery
+Lieferant
 Kite
-Kite
+Flugrochen
 Armor Bird
-Armor Bird
+Flugstahl
 Dark
+Hades
 Dark
+Hades
+Drache
+Dragón
 Long Nose
-Long Nose
+Langrüssel
 Armor
+Panzer
+Virtual
+Virtuell
+Big Horn
+Vielender
+Painter
+Maler
+Scuffle
+Racker
+Headstand
+Kopfstand
+Kiss
+Kuss
+Elektro
+Eléctrico
+Live Coal
+Glutherd
+Milk Cow
+Milchkuh
+Happiness
+Freude
+Thunder
+Donner
+Volcano
+Vulkan
+Aurora
+Polarlicht
+Rock Skin
+Felshaut
+Hard Shell
+Hartschale
 Armor
-Big Horn
-Big Horn
-Painter
-Painter
-Scuffle
-Scuffle
-Handstand
-Handstand
-Kiss
-Kiss
-Live Coal
-Live Coal
-Milk Cow
-Milk Cow
-Thunder
-Thunder
-Aurora
-Aurora
-Rock Skin
-Rock Skin
-Hard Shell
-Hard Shell
+Panzer
 Diving
-Diving
+Taucher
 Rainbow
-Rainbow
+Regenbogen
 Time Travel
-Time Travel
+Zeitreise
 Wood Gecko
+Waldgecko
 Wood Gecko
+Waldgecko
 Forest
-Forest
+Dschungel
 Chick
-Chick
+Küken
 Young Fowl
-Young Fowl
-Blaze
-Blaze
+Kleinhahn
+Großbrand
+Mar Llamas
 Mud Fish
+Lehmhüpfer
 Mud Fish
-Bite
-Bite
+Lehmhüpfer
+Mud Fish
+Lehmhüpfer
+Biss
+Mordisco
+Biss
+Mordisco
 Tiny Raccoon
-Tiny Raccoon
+Kleindachs
 Rushing
-Rushing
+Sprinter
+Worm
+Wurm
+Cocoon
+Kokon
+Butterfly
+Falter
+Cocoon
+Kokon
+Poison Moth
+Giftmotte
 Water Weed
-Water Weed
+Wasserlinse
 Jolly
-Jolly
+Froh
 Carefree
-Carefree
+Sorglos
 Acorn
-Acorn
+Eichelnuss
 Wily
-Wily
+Hinterlist
 Wicked
-Wicked
+Verschlagen
 Tiny Swallow
-Tiny Swallow
+Schwälblein
 Swallow
-Swallow
+Schwalbe
 Seagull
-Seagull
+Seemöwe
 Water Bird
-Water Bird
+Wasservogel
 Feeling
-Feeling
+Gefühl
 Emotion
 Emotion
 Embrace
-Embrace
+Umarmung
 Pond Skater
-Pond Skater
+Wassergeher
 Eyeball
-Eyeball
+Auge
+Mushroom
+Pilz
+Mushroom
+Pilz
 Slacker
-Slacker
+Faulpelz
 Wild Monkey
-Wild Monkey
+Wildaffe
 Lazy
-Lazy
+Müßig
 Trainee
-Trainee
+Vorbereiter
 Ninja
 Ninja
 Shed
-Shed
+Häutung
 Whisper
-Whisper
+Flüster
 Big Voice
-Big Voice
+Lauthals
 Loud Noise
-Loud Noise
+Krach
 Guts
-Guts
+Courage
 Arm Thrust
-Arm Thrust
+Armstoß
 Polka Dot
-Polka Dot
+Gepunktet
 Compass
-Compass
+Kompass
 Kitten
-Kitten
+Kätzchen
 Prim
-Prim
+Eingebildet
+Darkness
+Finsternis       
 Deceiver
-Deceiver
+Schwindel
 Iron Armor
+Eisenpanzer
 Iron Armor
+Eisenpanzer
+Iron Armor
+Eisenpanzer
 Meditate
+Meditation
 Meditate
+Meditation
+Lightning
+Gewitter
 Discharge
-Discharge
+Entladung
 Cheering
+Jubel
 Cheering
+Jubel
 Firefly
+Libelle
 Firefly
+Libelle
 Thorn
-Thorn
+Dorn
 Stomach
-Stomach
+Magen
 Poison Bag
-Poison Bag
+Giftbeutel
 Savage
-Savage
+Gnadenlos
 Brutal
 Brutal
 Ball Whale
-Ball Whale
+Kugelwal
 Float Whale
-Float Whale
+Flutwal
 Numb
-Numb
+Taubheit
 Eruption
-Eruption
+Ausbruch
 Coal
-Coal
-Bounce
-Bounce
-Manipulate
-Manipulate
+Kohle
+Sprungfeder
+Bote
+Manipulation
+Manipulator
 Spot Panda
-Spot Panda
+Punkt-Panda
 Ant Pit
-Ant Pit
+Ameisenlöwe
 Vibration
 Vibration
+Mystic
+Mystik
 Cactus
-Cactus
+Kaktus
 Scarecrow
-Scarecrow
+Vogelschock
 Cotton Bird
-Cotton Bird
+Wollvogel
 Humming
-Humming
-Cat Ferret
-Cat Ferret
+Summsel
+Cat Furret
+Frettkatz
 Fang Snake
-Fang Snake
+Reißzahn
 Meteorite
+Meterorit
 Meteorite
+Meterorit
 Whiskers
+Barthaar
 Whiskers
+Barthaar
 Ruffian
-Ruffian
+Grobian
 Rogue
-Rogue
+Schlingel
 Clay Doll
+Lehmpuppe
 Clay Doll
+Lehmpuppe
 Sea Lily
-Sea Lily
+Seeanemone
 Barnacle
-Barnacle
+Rankfüßer
 Old Shrimp
-Old Shrimp
+Krebssenior
 Plate
-Plate
+Schild
+Fish
+Fisch
 Tender
-Tender
+Zartheit
 Weather
-Weather
+Wetter
 Color Swap
-Color Swap
+Farbenspiel
 Puppet
-Puppet
+Puppe
 Marionette
 Marionette
 Requiem
 Requiem
 Beckon
-Beckon
+Wink
 Fruit
-Fruit
+Obst
 Wind Chime
-Wind Chime
+Windspiel
 Disaster
-Disaster
+Desaster
 Bright
-Bright
+Strahlekind
 Snow Hat
-Snow Hat
+Schneehut
 Face
-Face
+Antlitz
 Clap
-Clap
+Applaus
 Ball Roll
-Ball Roll
+Spielball
 Ice Break
-Ice Break
+Eisbrecher
+Bivalve
+Muschel
 Deep Sea
-Deep Sea
+Tiefsee
 South Sea
-South Sea
+Südsee
 Longevity
-Longevity
+Bestand
 Rendezvous
 Rendezvous
 Rock Head
-Rock Head
+Steinhaupt
 Endurance
-Endurance
+Durchsteher
+Dragon
+Drache
 Iron Ball
-Iron Ball
+Eisenkugel
 Iron Claw
-Iron Claw
+Eisenklaue
 Iron Leg
-Iron Leg
+Eisenfuß
 Rock Peak
-Rock Peak
+Steingipfel
 Iceberg
-Iceberg
+Eisberg
 Iron
-Iron
+Eisen
 Eon
+Äon
 Eon
+Äon
 Sea Basin
-Sea Basin
+Seegründler
 Continent
+Kontinent
+Sky High
+Himmelhoch
+Wish
+Wünscher
+DNA
+DNS
+Tiny Leaf
+Winziglaub
+Grove
+Hain
 Continent
-Sky High
-Sky High
-Wish
-Wish
-DNA
-DNA
-Tiny Leaf
-Tiny Leaf
-Grove
-Grove
+Kontinent
 Chimp
-Chimp
+Schimpanse
 Playful
-Playful
+Verspielt
+Flame
+Flamme
 Penguin
+Pinguin
 Penguin
+Pinguin
 Emperor
-Emperor
+Kaiser
 Starling
+Star
 Starling
+Star
 Predator
-Predator
+Raubtier
 Plump Mouse
-Plump Mouse
+Dickmaus
 Beaver
-Beaver
+Biber
 Cricket
+Zirper
 Cricket
-Flash
-Flash
-Spark
-Spark
+Zirper
+Blitz
+Flacker
+Funkensprung
+Funken
 Gleam Eyes
-Gleam Eyes
+Glühauge
 Bud
-Bud
+Knospe
 Bouquet
-Bouquet
+Blumenstrauß
 Head Butt
+Kopfstoß
 Head Butt
+Kopfstoß
 Shield
+Schutzschild
 Shield
+Schutzschild
+Bagworm
+Beutelwurm
+Bagworm
+Beutelwurm
 Moth
-Moth
+Fruchtmotte
 Tiny Bee
-Tiny Bee
+Baby-Biene
 Beehive
-Beehive
+Bienenstock
 EleSquirrel
-EleSquirrel
-Sea Weasel
-Sea Weasel
+Elektrohörnchen
+Sea Weasle
+Meereswiesel
+Sea Weasle
+Meereswiesel
 Cherry
-Cherry
+Kirsche
 Blossom
-Blossom
+Blüte
 Sea Slug
+Seeschnecke
 Sea Slug
+Seeschnecke
+Long Tail
+Langschweif
+Balloon
+Ballon
 Blimp
-Blimp
+Luftschiff
 Rabbit
+Hase
 Rabbit
+Hase
 Magical
-Magical
+Magisch
 Big Boss
-Big Boss
+Anführer
 Catty
-Catty
+Fies
 Tiger Cat
-Tiger Cat
+Tigerkatze
 Bell
-Bell
+Glöckchen
 Skunk
+Stinktier
 Skunk
+Stinktier
 Bronze
 Bronze
 Bronze Bell
-Bronze Bell
+Bronzeglocke
 Bonsai
 Bonsai
 Mime
 Mime
 Playhouse
-Playhouse
+Spielhaus
 Music Note
-Music Note
+Musiknote
 Forbidden
-Forbidden
+Verboten
 Land Shark
-Land Shark
+Landhai
 Cave
-Cave
+Höhle
 Mach
-Mach
+Rasanz
 Big Eater
-Big Eater
+Nimmersatt
 Emanation
-Emanation
+Wellenspiel
 Aura
 Aura
 Hippo
-Hippo
+Flusspferd
 Heavyweight
-Heavyweight
+Schwergewicht
 Scorpion
-Scorpion
+Skorpion
 Ogre Scorpion
-Ogre Scorpion
+Ogerskorpion
 Toxic Mouth
+Giftmund
 Toxic Mouth
+Giftmund
 Bug Catcher
-Bug Catcher
+Käfertod
 Wing Fish
-Wing Fish
+Flügelfisch
 Neon
 Neon
+Kite
+Flugrochen
 Frost Tree
+Frostbaum
 Frost Tree
+Frostbaum
+Sharp Claw
+Stichklaue
 Magnet Area
-Magnet Area
-Thunderbolt
-Thunderbolt
+Magnetgebiet
+Licking
+Schlecker
+Drill
+Bohrer
+Vine
+Ranke
+Thundrbolt
+Donnerkeil
 Blast
-Blast
+Detonation
 Jubilee
-Jubilee
+Jubilierer
 Ogre Darner
-Ogre Darner
+Agrion
 Verdant
-Verdant
+Unreif
 Fresh Snow
-Fresh Snow
+Neuschnee
 Fang Scorpion
-Fang Scorpion
+Zahnskorpi
 Twin Tusk
-Twin Tusk
+Doppelstoßzahn
+Virtual
+Virtuell
 Blade
-Blade
+Klinge
+Compass
+Kompass
 Gripper
-Gripper
+Greifer
 Snow Land
-Snow Land
+Schneegebiet
 Plasma
 Plasma
 Knowledge
-Knowledge
+Wissen
+Emotion
+Emotion
 Willpower
-Willpower
+Willenskraft
 Temporal
-Temporal
+Zeitweilig
 Spatial
-Spatial
+Räumlich
 Lava Dome
-Lava Dome
+Lavadom
 Colossal
-Colossal
+Kolossal
 Renegade
-Renegade
+Rebell
 Lunar
 Lunar
 Sea Drifter
-Sea Drifter
+Seedrift
 Seafaring
-Seafaring
+Seefahrer
 Pitch-Black
-Pitch-Black
-Gratitude
-Gratitude
+Dunkelnacht
+Graditude
+Dankbarkeit
 Alpha
 Alpha
 Victory
-Victory
+Triumph
 Grass Snake
+Grasschlange
 Grass Snake
+Grasschlange
 Regal
-Regal
+Hoheit
 Fire Pig
+Feuerferkel
 Fire Pig
+Feuerferkel
 Mega Fire Pig
-Mega Fire Pig
+Feuerschwein
 Sea Otter
-Sea Otter
+Otter
 Discipline
-Discipline
+Schulung
 Formidable
-Formidable
+Würde
+Scout
+Späher
 Lookout
-Lookout
+Wachsamkeit
+Puppy
+Welpen
 Loyal Dog
-Loyal Dog
+Treuhund
 Big-Hearted
-Big-Hearted
+Großmut
 Devious
-Devious
+Schelm
 Cruel
-Cruel
+Gefühlskälte
 Grass Monkey
-Grass Monkey
+Grasaffe
 Thorn Monkey
-Thorn Monkey
+Stachelaffe
 High Temp
-High Temp
-Ember
-Ember
+Hitze
+Glut
+Ascuas
 Spray
-Spray
+Wasserstrahl
 Geyser
-Geyser
-Dream Eater
-Dream Eater
+Drainage
+Traumfresser
+Comesueños
 Drowsing
-Drowsing
+Halbschlaf
 Tiny Pigeon
-Tiny Pigeon
+Täubchen
 Wild Pigeon
-Wild Pigeon
+Wildtaube
 Proud
-Proud
+Stolz
 Electrified
-Electrified
+Hochspannung
+Donnerblitz
+Donnerkeil
 Mantle
-Mantle
+Erdmantel
 Ore
-Ore
+Erz
 Compressed
-Compressed
+Kompression
+Bat
+Fledermaus
 Courting
-Courting
+Balz
+Mole
+Maulwurf
 Subterrene
-Subterrene
+Untergrund
 Hearing
-Hearing
+Gehör
 Muscular
+Muskel
 Muscular
+Muskel
+Muscular
+Muskel
+Tadpole
+Kaulquappe
+Vibration
+Vibration
+Vibration
+Vibration
 Judo
 Judo
 Karate
 Karate
 Sewing
-Sewing
+Schneider
 Leaf-Wrapped
-Leaf-Wrapped
+Wickelblatt
 Nurturing
-Nurturing
+Kinderpflege
 Centipede
-Centipede
+Tausendfüßer
 Curlipede
-Curlipede
+Kokonfüßer
 Megapede
-Megapede
+Riesenfüßer
 Cotton Puff
-Cotton Puff
+Wattebausch
 Windveiled
-Windveiled
+Windschatten
 Bulb
-Bulb
+Wurzel
 Flowering
-Flowering
+Blumenzier
+Spinning
+Pirouetten
 Hostile
-Hostile
+Grobheit
+Mellow
+Sanftheits
 Desert Croc
+Wüstenkroko
 Desert Croc
+Wüstenkroko
 Intimidation
-Intimidation
+Abschreckung
 Zen Charm
+Lampion
+Blazing
+Lichterloh
 Zen Charm
+Lampion
 Blazing
-Blazing
+Lichterloh
+Cactus
+Kaktus
 Rock Inn
-Rock Inn
+Steinhaus
 Stone Home
-Stone Home
+Felshaus
 Shedding
-Shedding
+Hautwechsel
 Hoodlum
-Hoodlum
+Halunke
 Avianoid
-Avianoid
+Vogelgleich
 Spirit
-Spirit
+Seele
 Coffin
-Coffin
+Sarkophag
 Prototurtle
+Urzeitkröte
 Prototurtle
+Urzeitkröte
 First Bird
+Urzeitvogel
 First Bird
+Urzeitvogel
 Trash Bag
-Trash Bag
+Mülltüte
 Trash Heap
-Trash Heap
+Müllhalde
 Tricky Fox
-Tricky Fox
+Lausefuchs
+Spiteful Fox
+Grollfuchs
 Illusion Fox
-Illusion Fox
+Polymorfuchs
+Baneful Fox
+Fluchfuchs
 Chinchilla
 Chinchilla
 Scarf
-Scarf
+Schal
 Fixation
-Fixation
+Glotz
+Manipulation
+Manipulator
 Astral Body
-Astral Body
+Gestirn
 Cell
-Cell
+Zelle
 Mitosis
-Mitosis
+Zellteilung
 Multiplying
-Multiplying
+Vermehrung
+Water Bird
+Wasservogel
 White Bird
-White Bird
+Schwan
+Fresh Snow
+Neuschnee
 Icy Snow
-Icy Snow
+Firn
 Snowstorm
-Snowstorm
+Schneesturm
 Season
+Jahreszeit
 Season
+Jahreszeit
 Sky Squirrel
-Sky Squirrel
+Flughörnchen
 Clamping
-Clamping
+Schnappbiss
 Cavalry
-Cavalry
+Kavallerie
+Mushroom
+Pilz
+Mushroom
+Pilz
 Floating
+Gleit
 Floating
+Gleit
 Caring
-Caring
+Fürsorge
 Attaching
-Attaching
+Kleben
 EleSpider
-EleSpider
+Stromspinne
 Thorn Seed
-Thorn Seed
+Dornfrucht
 Thorn Pod
-Thorn Pod
+Dornkugel
 Gear
+Getriebe
 Gear
+Getriebe
+Gear
+Getriebe
 EleFish
+Stromfisch
 EleFish
+Stromfisch
+EleFish
+Stromfisch
 Cerebral
+Grips
 Cerebral
+Grips
 Candle
-Candle
+Kerze
 Lamp
-Lamp
+Lampe
 Luring
-Luring
+Geleit
 Tusk
-Tusk
+Stoßzahn
 Axe Jaw
+Beilkiefer
 Axe Jaw
+Beilkiefer
 Chill
-Chill
+Eisscholle
 Freezing
-Freezing
+Packeis
 Crystallizing
-Crystallizing
+Kristall
 Snail
-Snail
+Schnecke
 Shell Out
-Shell Out
+Entschalung
 Trap
-Trap
+Falle
 Martial Arts
+Kampfkünste
 Martial Arts
-Automaton
-Automaton
+Kampfkünste
+Cave
+Höhle
+Automation
+Urgolem
+Automation
+Urgolem
 Sharp Blade
-Sharp Blade
+Stahlklinge
 Sword Blade
-Sword Blade
+Schwertklinge
 Bash Buffalo
-Bash Buffalo
+Kopfstoßrind
 Eaglet
-Eaglet
+Adlerküken
 Valiant
-Valiant
+Kühnheit
+Battle Cry
+Kampfschrei
 Diapered
-Diapered
+Windel
 Bone Vulture
-Bone Vulture
+Knochenadler
 Anteater
-Anteater
+Ameisenbär
 Iron Ant
-Iron Ant
+Eisenameise
 Irate
-Irate
+Haudrauf
+Hostile
+Grobheit
+Brutal
+Brutal
 Torch
-Torch
+Fackel
+Sun
+Sonne
 Iron Will
-Iron Will
+Eisenkern
 Cavern
-Cavern
+Felsenhöhle
 Grassland
-Grassland
+Wiese
 Cyclone
-Cyclone
-Bolt Strike
-Bolt Strike
+Wirbelsturm
+Blitzschlag
+Torpedo
 Vast White
-Vast White
+Wahres Weiß
 Deep Black
-Deep Black
+Reines Schwarz
 Abundance
-Abundance
+Reichtum
 Boundary
-Boundary
+Schwelle
 Colt
-Colt
+Fohlen
 Melody
-Melody
+Melodie
 Paleozoic
-Paleozoic
+Paläozoikum
 Spiny Nut
-Spiny Nut
+Stachelkopf
 Spiny Armor
+Spitzpanzer
 Spiny Armor
+Spitzpanzer
+Fox
+Fuchs
+Fox
+Fuchs
+Fox
+Fuchs
 Bubble Frog
+Blubbfrosch
 Bubble Frog
+Blubbfrosch
+Ninja
+Ninja
 Digging
+Baugräber
 Digging
+Baugräber
 Tiny Robin
-Tiny Robin
+Rotkehlchen
+Glut
+Ascuas
 Scorching
-Scorching
+Stichflamme
 Scatterdust
+Puderinsekt
 Scatterdust
+Puderinsekt
 Scale
-Scale
+Flügelstaub
 Lion Cub
-Lion Cub
+Junglöwe
+Royal
+Monarch
 Single Bloom
+Einblütler
 Single Bloom
+Einblütler
 Garden
-Garden
+Garten
 Mount
+Ritt
 Mount
+Ritt
+Playful
+Verspielt
 Daunting
-Daunting
+Gaunerblick
 Poodle
-Poodle
+Pudel
 Restraint
-Restraint
+Zügelung
 Constraint
-Constraint
+Fassung
 Sword
+Klingenkraft
 Sword
+Klingenkraft
 Royal Sword
-Royal Sword
+Königsklinge
 Perfume
-Perfume
+Parfüm
 Fragrance
-Fragrance
+Duft
 Cotton Candy
-Cotton Candy
+Zuckerwatte
 Meringue
-Meringue
+Schlagsahne
 Revolving
-Revolving
+Rotation
 Overturning
-Overturning
+Inversion
 Two-Handed
-Two-Handed
+Krallenduo
 Collective
-Collective
+Ballung
 Mock Kelp
+Tangmimikry
 Mock Kelp
-Water Gun
-Water Gun
+Tangmimikry
+Aquaknarre
+Aquapistole
 Howitzer
-Howitzer
+Aquawumme
+Generator
+Generator
 Generator
 Generator
 Royal Heir
-Royal Heir
+Kronprinz
 Despot
-Despot
+Tyrann
+Tundra
+Tundra
 Tundra
 Tundra
 Intertwining
-Intertwining
+Bindung
 Wrestling
 Wrestling
 Antenna
-Antenna
+Antenne
 Jewel
+Edelstein
+Soft Tissue
+Schneckedei
+Soft Tissue
+Schneckedei
+Snail
+Schnecke
+Drache
+Dragón
+Shell Bunker
+Schalrückzugs
+Key Ring
+Schlüssel
+Stump
+Baumstumpf
+Elder Tree
+Urgehölz
+Pumpkin
+Kürbis
+Pumpkin
+Kürbis
+Ice Chunk
+Eisklumpen
+Iceberg
+Eisberg
+Sound Wave
+Schallwellen
+Sound Wave
+Schallwellen
+Life
+Leben
+Destruction
+Zerstörung
+Order
+Ordnung
 Jewel
-Soft Tissue
-Soft Tissue
-Key Ring
-Key Ring
-Stump
-Stump
-Elder Tree
-Elder Tree
-Pumpkin
-Pumpkin
-Ice Chunk
-Ice Chunk
-Sound Wave
-Sound Wave
-Life
-Life
-Destruction
-Destruction
-Order
-Order
+Edelstein
 Mischief
-Mischief
+Schabernack
+Djinn
+Plagegeist
 Steam
-Steam
+Dampf
 Grass Quill
-Grass Quill
+Laubflügel
 Blade Quill
-Blade Quill
+Flügelklinge
 Arrow Quill
-Arrow Quill
+Pfeilflügel
 Fire Cat
+Feuerkatze
 Fire Cat
+Feuerkatze
 Heel
-Heel
+Fiesling
+Sea Lion
+Seehund
 Pop Star
-Pop Star
+Popsternchen
 Soloist
-Soloist
+Solist
 Woodpecker
-Woodpecker
-Bugle Beak
-Bugle Beak
+Specht
+Bungle Beak
+Trompete
 Cannon
-Cannon
+Kanone
 Loitering
-Loitering
-Stakeout
-Stakeout
+Patrouullie
+Beschattung
+Vigilante
 Larva
-Larva
-Battery
-Battery
+Larve
+Batterie
+Batería
+Stag Beetle
+Kneifkäfer
 Boxing
-Boxing
+Boxkampf
 Woolly Crab
-Woolly Crab
+Fellkrabbe
 Dancing
-Dancing
+Tanz
 Bee Fly
+Hummelfliege
 Bee Fly
+Hummelfliege
+Puppy
+Welpen
 Wolf
 Wolf
 Small Fry
-Small Fry
+Kleinfisch
 Brutal Star
+Quäl-Stern
 Brutal Star
+Quäl-Stern
 Donkey
-Donkey
+Packesel
 Draft Horse
-Draft Horse
-Water Bubble
-Water Bubble
+Zugpferd
+Wasserblase
+Pompa
+Wasserblase
+Pompa
 Sickle Grass
-Sickle Grass
+Grassichel
 Bloom Sickle
-Bloom Sickle
+Blumensichel
 Illuminating
+Lumineszenz
 Illuminating
+Lumineszenz
 Toxic Lizard
+Giftechse
 Toxic Lizard
+Giftechse
 Flailing
-Flailing
+Wildfang
 Strong Arm
-Strong Arm
+Kraftarme
+Fruit
+Obst
+Fruit
+Obst
+Fruit
+Obst
 Posy Picker
-Posy Picker
+Blumenkranz
 Sage
-Sage
+Weisheit
 Teamwork
 Teamwork
 Turn Tail
-Turn Tail
+Laufschritt
 Hard Scale
-Hard Scale
+Rüstung
 Sand Heap
-Sand Heap
+Sandhaufen
 Sand Castle
-Sand Castle
+Sandschloss
 Sea Cucumber
-Sea Cucumber
+Seegurke
 Synthetic
+Modifikation
 Synthetic
+Modifikation
 Meteor
 Meteor
+Drowsing
+Halbschlaf
 Blast Turtle
-Blast Turtle
+Knallkröte
 Roly-Poly
-Roly-Poly
-Disguise
-Disguise
+Einigler
+Kostümspuk
+Disfraz
 Gnash Teeth
-Gnash Teeth
+Knirschzahn
 Placid
-Placid
+Gelassenheit
 Sea Creeper
-Sea Creeper
+Seetang
 Scaly
+Schuppentier
 Scaly
+Schuppentier
+Scaly
+Schuppentier
 Land Spirit
+Schutzpatron
 Land Spirit
+Schutzpatron
+Land Spirit
+Schutzpatron
+Land Spirit
+Schutzpatron
 Nebula
 Nebula
 Protostar
-Protostar
+Urgestirn
 Sunne
-Sunne
+Sonnenkreis
 Moone
-Moone
+Mondscheibe
 Parasite
-Parasite
+Parasit
 Swollen
-Swollen
+Ausdehnung
 Lissome
-Lissome
+Eleganz
 Glowing
-Glowing
+Illumination
 Launch
-Launch
+Raketenstart
 Drawn Sword
-Drawn Sword
+Schwertkunst
 Junkivore
-Junkivore
+Gaumenfolter
 Prism
-Prism
+Prisma
 Artificial
-Artificial
+Fabrikat
 Gloomdweller
-Gloomdweller
+Dunkelwesen
+Poison Pin
+Giftdorn
+Poison Pin
+Giftdorn
 Rampart
-Rampart
+Steinmauer
 Fireworks
-Fireworks
+Feuerwerk
 Thunderclap
-Thunderclap
+Blitzsturm
 Hex Nut
+Mutter
 Hex Nut
+Mutter
+Chimp
+Schimpanse
 Beat
 Beat
 Drummer
 Drummer
+Rabbit
+Hase
+Rabbit
+Hase
 Striker
-Striker
+Torschützen
 Water Lizard
+Wasserechse
 Water Lizard
+Wasserechse
 Secret Agent
-Secret Agent
+Geheimagenten
 Cheeky
-Cheeky
+Raffbacken
 Greedy
-Greedy
+Gierschlund
+Tiny Bird
+Kleinvogel
 Raven
+Krähe
 Raven
+Krähe
+Larva
+Larve
 Radome
-Radome
+Radarkuppel
 Seven Spot
-Seven Spot
+Siebensterne
+Fox
+Fuchs
+Fox
+Fuchs
+Flowering
+Blumenzier
 Cotton Bloom
-Cotton Bloom
+Baumwollzier
 Sheep
+Schaf
 Sheep
+Schaf
 Snapping
-Snapping
+Schnapp
+Biss
+Mordisco
+Puppy
+Welpen
 Dog
-Dog
+Welpene
+Coal
+Kohle
+Coal
+Kohle
+Coal
+Kohle
 Apple Core
-Apple Core
+Apfelhaus
 Apple Wing
-Apple Wing
+Apfelflügel
 Apple Nectar
-Apple Nectar
+Apfelnektar
 Sand Snake
+Sandschlangen
 Sand Snake
+Sandschlangen
 Gulp
-Gulp
+Schling
 Rush
-Rush
+Rempler
 Skewer
-Skewer
+Spieß
 Baby
 Baby
 Punk
 Punk
 Radiator
+Exotherm
 Radiator
+Exotherm
 Tantrum
-Tantrum
+Balg
 Jujitsu
-Jujitsu
+Jiu-jitsu
 Black Tea
+Schwarztee
 Black Tea
-Calm
-Calm
-Serene
-Serene
+Schwarztee
+Still
+Geruhsam
+Serence
+Ruhe
 Silent
-Silent
-Bulk Up
-Bulk Up
+Stille
+Wily
+Hinterlist
+Devious
+Schelm
+Protzer
+Muskelaufbau
 Blocking
-Blocking
+Barrikaden
 Viking
-Viking
+Wikinger
+Coral
+Koralle
+Wild Duck
+Wildente
 Comedian
-Comedian
-Grudge
-Grudge
+Komiker
+Nachspiel
+Gram
 Cream
+Sahne
 Cream
+Sahne
 Formation
-Formation
+Formations
 Sea Urchin
-Sea Urchin
+Seeigel
+Worm
+Wurm
 Frost Moth
-Frost Moth
+Eismotten
 Big Rock
-Big Rock
+Megalithen
+Penguin
+Pinguin
+Emotion
+Emotion
 Two-Sided
-Two-Sided
+Alter Ego
 Copperderm
+Kuperfant
 Copperderm
+Kuperfant
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
 Alloy
+Legierungs
+Lingering
+Missgunst
+Caretaker
+Betreuer
+Stealth
+Tarnkünstler
+Warrior
+Krieger
+Warrior
+Krieger
+Gigantic
+Giganten
+Wushu
+Kung-Fu
+Wushu
+Kung-Fu
+Rogue Monkey
+Finsteraffen
+Electron
+Elektronen
+Dragon Maw
+Drachenkugel
+Wild Horse
+Wildblut
+Swift Horse
+Flinkblut
+King
+Königs
+High King
+Kaiser
+High King
+Kaiser
+Big Horn
+Vielender
+Axe
+Axt
+Peat
+Torf
+Big Fish
+Großfisch
+Free Climb
+Kletterei
+Pine Cluster
+Tausenddorn
+Love-Hate
+Hassliebe
+Grass Cat
+Florakatzen
+Grass Cat
+Florakatzen
+Zauberer
+Magier
+Fire Croc
+Feuerkroko
+Fire Croc
+Feuerkroko
+Singer
+Sänger
+Duckling
+Jungenten
+Practicing
+Übungs
+Tänzer
+Pareja de Baile
+Hog
+Schwein
+Hog
+Schwein
+String Ball
+Fadenkugel
+Trap
+Falle
+Grasshopper
+Heuschrecken
+Grasshopper
+Heuschrecken
+Mouse
+Maus
+Mouse
+Maus
+Hands-On
+Behandlungs
+Spiny Fish
+Dornfisch
+Couple
+Paar
+Family
+Familien
+Puppy
+Welpen
+Dog
+Welpene
+Olive
+Oliven
+Olive
+Oliven
+Olive
+Oliven
+Parrot
+Sittich
+Rock Salt
+Steinsalz
+Rock Salt
+Steinsalz
+Rock Salt
+Steinsalz
+Rage Monkey
+Zornaffen
+Fire Child
+Feuerkind
+Fire Warrior
+Feuerrüstungs
+Fire Blades
+Feuerklingen
+EleTadpole
+Stromquappen
+EleFrog
+Stromfrosch
+Storm Petrel
+Sturmvogel
+Frigatebird
+Fregattvogel
+Land Snake
+Schlange
+Long Neck
+Langhals
+Rascal
+Halbstark
+Boss
+Oberhaupt
+Toxic Mouse
+Giftmaus
+Toxic Monkey
+Giftaffen
+Tumbleweed
+Rollgras
+Tumbleweed
+Rollgras
+Woodear
+Quallenpilz
+Woodear
+Quallenpilz
+Ambush
+Lauer
+Spicy Pepper
+Habanero
+Spicy Pepper
+Habanero
+Rolling
+Wälz
+Rolling
+Wälz
+Frill
+Rüschen
+Ostrich
+Strauß
+Metalsmith
+Schmied
+Hammer
+Hammer
+Hammer
+Hammer
+Garden Eel
+Meeraal
+Garden Eel
+Meeraal
+Item Drop
+Abwurf
+Dolphin
+Delfin
+Dolphin
+Delfin
+Hero
+Superheld
+Single-Cyl
+Einzylinder
+Multi-Cyl
+Mehrzylinder
+Mount
+Ritt
+Earthworm
+Regenwurm
+Ore
+Erz
+Ore
+Erz
+Ghost Dog
+Geisterhund
+Ghost Dog
+Geisterhund
+Synchro
+Sincronían
+Terra Whale
+Landwal
+Terra Whale
+Landwal
+Big Blade
+Langschwert
+Jettison
+Abtrennungs
+Big Catfish
+Großwels
+Mimese
+Mimetismon
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Ice Fin
+Eisfinnen
+Ice Fin
+Eisfinnen
+Ice Dragon
+Eisdrachen
+Coin Chest
+Schatztruhen
+Coin Hunter
+Schatzsucher
+Coin Entity
+Schatzwesen
+Ruinous
+Unheils
+Ruinous
+Unheils
+Ruinous
+Unheils
+Ruinous
+Unheils
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Candy Apple
+Apfelsirup
+Matcha
+Matcha
+Matcha
+Matcha
+Retainer
+Lakaien
+Retainer
+Lakaien
+Retainer
+Lakaien
+Mask
+Masken
 Alloy
-Lingering
-Lingering
-Caretaker
-Caretaker
-Stealth
-Stealth
-Warrior
-Warrior
-Gigantic
-Gigantic
-Wushu
-Wushu
-Rogue Monkey
-Rogue Monkey
-Electron
-Electron
-Dragon Orb
-Dragon Orb
-Wild Horse
-Wild Horse
-Swift Horse
-Swift Horse
-King
-King
-Unique Horn
-Unique Horn
-Strong Legs
-Strong Legs
-Malevolent
-Malevolent
-Hexpert
-Hexpert
-High King
-High King
+Legierungs
+Apple Hydra
+Apfelhydra
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Paradox
+Tera
+Terakristall
+Subjugation
+Knechtungs
