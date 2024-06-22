@@ -2,34 +2,26 @@
 # translate every second line of this file.
 #-------------------------------
 [TRAINER_TYPE_NAMES]
-Ace Trainer
-Ass-Trainer
-Ace Trainer
-Ass-Trainerin
+Pokémon Trainer
+Pokémon-Trainer
+Rival
+Rivale
+Aroma Lady
+Aromalady
 Beauty
 Schönheit
 Biker
 Rowdy
 Bird Keeper
 Vogel-Profi
-Bird Keeper
-Vogel-Profi
-Black Belt
-Schwarzgurt
 Bug Catcher
 Käfersammler
 Burglar
 Dieb
-Camper
-Camper
-Champion
-Champ
-Champion
-Champ
 Channeler
 Exorzistin
-Elite Four
-Top Vier
+Cue Ball
+Cue Ball
 Engineer
 Elektriker
 Fisherman
@@ -38,331 +30,71 @@ Gambler
 Rollenspieler
 Gentleman
 Gentleman
-Gym Leader
-Arenaleiter
-Gym Leader
-Arenaleiterin
 Hiker
 Wanderer
 Juggler
 Jongleur
-Lass
-Göre
-Picnicker
-Picnicker
+Lady
+Lady
+Painter
+Painter
 Poké Maniac
 Pokémaniac
-Psychic
-Seher
-Psychic
-Seherin
-Rival
-Rivale 
+Pokémon Breeder
+Pokémon-Züchterin
+Professor
+Professor
 Rocker
 Elektro-Musiker
-Roughneck
-Raufbold
+Ruin Maniac
+Ruinenmaniac
 Sailor
 Matrose
-Scientist
-Forscher
 Scientist
 Forscherin
 Super Nerd
 Streber
-Swimmer
-Schwimmer
-Swimmer
-Schwimmerin
 Tamer
 Dompteur
+Black Belt
+Schwarzgurt
+Crush Girl
+Crush Girl
+Camper
+Camper
+Picnicker
+Picnicker
+Cool Trainer
+Cool Trainer
 Youngster
 Knirps
-Boarder
-Snowboarder
-Firebreather
-Feuerspucker
-Guitarist
-Gitarrist
-Guitarist
-Gitarristin
-Kimono Girl
-Kimono-Girl
-Medium
-Medium
-Pokéfan
-Pokéfan
-Pokémon Trainer
-Pokémon-Trainer
-Pokémon Trainer
-Pokémon-Trainer
-Police Officer
-Polizist
-Sage
-Weiser
-Schoolboy
-Schüler
-Skier
-Skifahrer
-Skier
-Skifahrer
-Teacher
-Lehrerin
-Twins
-Zwillinge
-Mystery Man
-Mystiker
-Aroma Lady
-Aromalady
-Battle Girl
-Kämpferin
-Bug Maniac
-Käfermaniac
-Collector
-Pokémon-Sammler
-Dragon Tamer
-Drachenprofi
-Expert
-Experte
-Expert
-Expertin
-Hex Maniac
-Hexe
-Interviewers
-Interviewer
-Kindler
-Hitzkopf
-Lady
-Lady
-Ninja Boy
-Ninjajunge
-Old Couple
-Altes Paar
-Parasol Lady
-Schirmdame
-Pokémon Breeder
-Pokémon-Züchter
-Pokémon Breeder
-Pokémon-Züchterin
+Lass
+Göre
 Pokémon Ranger
 Pokémon-Ranger
-Rich Boy
-Schnösel
-Ruin Maniac
-Ruinenmaniac
-Sis & Bro
-Geschwister
-Teammates
-Senior & Junior
-Triathlete
-Triathlet
+Psychic
+Seherin
+Swimmer
+Schwimmerin
 Tuber
 Planscher
-Tuber
-Planscher
-Worker
-Arbeiter
-Worker
-Arbeiterin
-Young Couple
-Junges Glück
+Cool Couple
+Cool Couple
 Crush Kin
 Mühlensippe
-Frontier Brain
-Kampfkoryphäen
-Ace Duo
-Ass-Duo
-Artist
-Künstler
-Artist
-Künstlerin
-Belle & Pa
-Mädel und Papa
-Cameraman
-Kameramann
-Cowgirl
-Cowgirl
-Clown
-Clown
-Cyclist
-Biker
-Cyclist
-Bikerin
-Idol
-Idol
-Jogger
-Jogger
-Madame
-Dame
-Poké Kid
-Poké-Kind
-Poké Kid
-Poké-Kind
-Rancher
-Farmer
-Ranchers
-Farmer & Tochter
-Reporter
-Reporter
-Veteran
-Veteran
-Veteran
-Veteran
-Waiter
-Serverer
-Waitress
-Servererin
-Maid
-Zofe
-Elder
-Weisester
-Backers
-Anhänger
-Backers
-Anhänger
-Backpacker
-Backpacker
-Backpacker
-Backpackerin
-Baker
-Bäckerin
-Clerk
-Angestellter
-Clerk
-Angestellte
-Dancer
-Tänzer
-Dancer
-Tänzerin
-Doctor
-Artz
-Doctor
-Ärztin
-Harlequin
-Kasper
-Hooligans
-Rabauken
-Hoopster
-Basketballer
-Infielder
-Baseballer
-Janitor
-Hausmeister
-Linebacker
-Footballer
-Musician
-Musiker
-Nurse
-Pflegerin
-Nursery Aide
-Erzieherin
-Pilot
-Pilot
-Preschooler
-Vorschüler
-Preschooler
-Vorschülerin
-Rail Staff
-Bahnangestellter
-Smasher
-Tennis-Ass
-Striker
-Fußballer
-Brains & Brawn
-Grips&Muckis
-Butler
-Butler
-Chef
-Koch
-Delinquent
-Halbstarke
-Driver
-Fahrer
-Fairy Tale Girl
-Träumerin
-Furisode Girl
-Kimono-Trägerin
-Gardener
-Gärtner
-Honeymooners
-Hochzeitsreisende
-Mysterious Sisters
-Schräge Schwestern
-Owner
-Gastronom
-Pokéfan Family
-Pokéfan-Pärchen
-Pokémon Professor
-Pokémon-Professor
-Punk Girl
-Punkerin
-Punk Guy
-Punker
-Rangers
-Ranger
-Roller Skater
-Rollerskater
-Roller Skater
-Rollerskaterin
-Rising Star
-Trainerhoffnung
-Rising Star
-Trainerhoffnung
-Schoolgirl
-Schülerin
-Sky Trainer
-Himmelstrainer
-Sky Trainer
-Himmelstrainer
-Street Thug
-Raubein
-Tourist
-Tourist
-Tourist
-Touristin
-Free Diver
-Taucherin
-Scuba Diver
-Taucher
-Bellhop
-Hotelpage
-Cook
-Küchenchef
-Firefighter
-Feuerwehrmann
-Island Kahuna
-Inselkönig
-Island Kahuna
-Inselkönigin
-Kartenvoy
-Katagami-Ass
-Master & Apprentice
-Meister & Schüler
-Punk Pair
-Punker-Duo
-Swimmers
-Schwimmerpaar
-Swimmer Girls
-Schwimmerinnen
-Trial Captain
-Captain
-Trial Captain
-Captain
-Veteran Duo
-Veteranen
-Youth Athlete
-Sportskanone
-Youth Athlete
-Sportskanone
-Cabbie
-Taxipilot
-Café Master
-Barista
-Daring Couple
-Mutproben-Pärchen
-Medical Team
-Mediziner
-Model
-Model
-Postman
-Postbote
+Sis and Bro
+Sis and Bro
+Twins
+Zwillinge
+Young Couple
+Junges Glück
+Team Rocket
+Team Rocket
+Rocket Boss
+Rocket Boss
+Gym Leader
+Arenaleiterin
+Elite Four
+Top Vier
+Champion
+Champ

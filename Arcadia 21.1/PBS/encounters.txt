@@ -77,17 +77,18 @@ Water,2
 #-------------------------------
 [077] # Route 1
 Land,21
-    15,CATERPIE,2,5
-    15,SCATTERBUG,2,5
+    10,SCATTERBUG,2,5
     10,CUTIEFLY,2,5
     10,FLETCHLING,2,5
     10,LEDYBA,2,5
     10,PIDGEY,2,5
     10,PIDOVE,2,5
-    6,PICHU,2,5
-    6,YAMPER,2,5
-    5,CHESPIN,2,5
-    3,MUNCHLAX,2,5
+    10,PICHU,2,5
+    10,YAMPER,2,5
+    10,CHESPIN,2,5
+    10,MUNCHLAX,2,5
+LandAfternoon,21
+    20,BULBASAUR,5
 #-------------------------------
 [082] # Brinkstone Cave
 Cave,5

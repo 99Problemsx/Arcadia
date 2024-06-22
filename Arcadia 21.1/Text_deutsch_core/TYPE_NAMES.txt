@@ -20,6 +20,8 @@ Ghost
 Geist
 Steel
 Stahl
+???
+???
 Fire
 Feuer
 Water
@@ -38,5 +40,3 @@ Dark
 Unlicht
 Fairy
 Fee
-Stellar
-Stellar

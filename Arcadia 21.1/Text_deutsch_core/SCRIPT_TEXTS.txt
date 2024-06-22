@@ -302,56 +302,56 @@ evasiveness
 Fluchtwert
 Eva
 Flw
-Adamant
-Hartes
-Bashful
-Zaghaftes
-Bold
-Kühnes
-Brave
-Mutiges
-Calm
-Stilles
-Careful
-Sachtes
-Docile
-Sanftes
-Gentle
-Zartes
 Hardy
 Robustes
-Hasty
-Hastiges
-Impish
-Pfiffiges
-Jolly
-Frohes
-Lax
-Lasches
 Lonely
 Solo
-Mild
-Mildes
-Modest
-Mäßiges
-Naive
-Naives
+Brave
+Mutiges
+Adamant
+Hartes
 Naughty
 Freches
-Quiet
-Ruhiges
-Quirky
-Kauziges
-Rash
-Hitziges
+Bold
+Kühnes
+Docile
+Sanftes
 Relaxed
 Lockeres
-Sassy
-Forsches
-Serious
-Ernstes
+Impish
+Pfiffiges
+Lax
+Lasches
 Timid
 Scheues
+Hasty
+Hastiges
+Serious
+Ernstes
+Jolly
+Frohes
+Naive
+Naives
+Modest
+Mäßiges
+Mild
+Mildes
+Quiet
+Ruhiges
+Bashful
+Zaghaftes
+Rash
+Hitziges
+Calm
+Stilles
+Gentle
+Zartes
+Sassy
+Forsches
+Careful
+Sachtes
+Quirky
+Kauziges
 Sleep
 Einschlafen
 Poison
@@ -977,7 +977,7 @@ Wasser Ring hat {1}s KP wiederhergestellt!
 {1} absorbed nutrients with its roots!
 {1} nahm mit seinen Wurzeln Nährstoffe auf!
 {1}'s health is sapped by Leech Seed!
-ie Gesundheit von {1} wird durch Egelsamen geschwächt!
+Die Gesundheit von {1} wird durch Egelsamen geschwächt!
 {1}'s {2} restored its HP.
 {1}s {2} hat seine KP wiederhergestellt.
 {1} is locked in a nightmare!
@@ -1139,7 +1139,7 @@ Du spürst die Anwesenheit von vielen!
 {1} is already frozen solid!
 {1} is already frozen solid!
 It doesn't affect {1}...
-Es betrifft nicht {1}...
+Es hat keine Wirkung auf {1}...
 {1} surrounds itself with electrified terrain!
 {1} umgibt sich mit dem elektrifiziertem Kampffeld!
 {1} surrounds itself with misty terrain!
@@ -1163,7 +1163,7 @@ Doch der Aufruhr hielt {1} wach!
 {1} cannot be burned because of {2}'s {3}!
 {1} kann nicht verbrannt werden aufgrund {2}s {3}!
 {1} cannot be paralyzed because of {2}'s {3}!
-{1} kann aufgrund {2}s {3} nicht gelähmt werden!
+{1} kann aufgrund {2}s {3} nicht  werden!
 {1} cannot be frozen solid because of {2}'s {3}!
 {1} kann aufgrund {2}s {3} nicht fest gefroren werden!
 {1} stays awake because of its {2}!
@@ -1187,7 +1187,7 @@ Das Team von {1} wird von Bodyguard geschützt!
 {1} was burned!
 {1} wurde verbrannt!
 {1} is paralyzed! It may be unable to move!
-{1} ist gelähmt! Es kann sich nicht mehr bewegen!
+{1} ist paralysiert! Es kann sich nicht mehr bewegen!
 {1} was frozen solid!
 {1} wurde fest gefroren!
 {1} is fast asleep.
@@ -1197,7 +1197,7 @@ Das Team von {1} wird von Bodyguard geschützt!
 {1} was hurt by its burn!
 {1} wurde durch seine Verbrennung verletzt!
 {1} is paralyzed! It can't move!
-{1} ist gelähmt! Er kann sich nicht bewegen!
+{1} ist paralysiert! Er kann sich nicht bewegen!
 {1} is frozen solid!
 {1} ist fest gefroren!
 {1} woke up!
@@ -1439,9 +1439,9 @@ Der Angriff von {1} ging daneben!
 {1} is unaffected because of {2}'s {3}!
 {1} ist wegen {2}s {3} nicht betroffen!
 It's super effective on {1}!
-Es ist super effektiv gegen {1}!
+Es ist sehr effektiv gegen {1}!
 It's super effective!
-Es ist super effektiv!
+Es ist sehr effektiv!
 It's not very effective on {1}...
 Es ist nicht sehr effektiv gegen {1}...
 It's not very effective...
@@ -1573,7 +1573,7 @@ Aber er hat nicht genug KP übrig, um einen Delegator einzusetzen!
 {1} cut its own HP and maximized its {2}!
 {1} reduzierte seine eigenen KP und maximierte {2}!
 {1} began charging power!
-{1} began charging power!
+{1} fängt an sich aufzuladen!
 {1} became nimble!
 {1} wurde flink!
 {1} is getting pumped!
@@ -1969,7 +1969,7 @@ Graphics/UI/Battle/icon_statuses
 Can't catch any more...
 Kann nichts mehr fangen...
 Would you like to give a nickname to {1}?
-Würdest du {1} gerne einen Spitznamen geben?
+Möchtest du {1} gerne einen Spitznamen geben?
 {1}'s nickname?
 {1}s Spitzname?
 Add to your party
@@ -2017,11 +2017,11 @@ Das Team von {1} wurde disqualifiziert!
 {1}'s {2} burned {3}!
 {1}s {2} verbrannte {3}!
 {1}'s {2} paralyzed {3}! It may be unable to move!
-{1}s {2} ist gelähmt {3}! Es kann sich nicht mehr bewegen!
+{1}s {2} ist paralysiert {3}! Es kann sich nicht mehr bewegen!
 {1}'s {2} cured its poisoning!
 {1}s {2} hat seine Vergiftung geheilt!
 {1}'s {2} woke it up!
-{{1}s {2} hat es aufgeweckt!
+{1}s {2} hat es aufgeweckt!
 {1}'s {2} cured its paralysis!
 {1}s {2} hat seine Paralyse geheilt!
 {1}'s {2} defrosted it!
@@ -2326,10 +2326,8 @@ You found an \c[1]{1}\c[0]!
 Du hast einen \c[1]{1}\c[0] gefunden!
 You found a \c[1]{1}\c[0]!
 Du hast ein \c[1]{1}\c[0] gefunden!
-You put the {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.
-Du hast das Item in\\ndie <icon=bagPocket{2}>\\c[1]{3}\\c[0] Tasche gesteckt.
-You put {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.
-Du hast das Item in die Tasche gesteckt.
+You put the {1} in your pocket.
+Du hast {1} in deinen Beutel gesteckt.
 But your Bag is full...
 Aber deine Beutel ist voll...
 You obtained \c[1]{1}\c[0]!
@@ -2390,10 +2388,6 @@ Mar.
 Mär.
 Apr.
 Apr.
-May.
-Mai
-May
-Mai
 Jun.
 Jun.
 Jul.

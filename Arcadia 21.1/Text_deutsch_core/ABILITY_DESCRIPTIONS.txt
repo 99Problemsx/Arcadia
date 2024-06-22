@@ -1,3 +1,5 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
 #-------------------------------
 [ABILITY_DESCRIPTIONS]
 The stench may cause the target to flinch.
@@ -29,7 +31,7 @@ Hebt alle Wetter-Effekte auf.
 The Pokémon's accuracy is boosted.
 Erhöht die Genauigkeit von Attacken.
 Prevents the Pokémon from falling asleep.
-Verhindert Einschlafen.
+Das Pokémon ist so munter, dass es nicht einschlafen kann.
 Changes the Pokémon's type to the foe's move.
 Ändert seinen Typ zu dem der Attacke des Angreifers.
 Prevents the Pokémon from getting poisoned.
@@ -68,12 +70,12 @@ Boosts the Pokémon's Speed in rain.
 Erhöht bei Regen die Initiative.
 Boosts the Pokémon's Speed in sunshine.
 Erhöht bei Sonnenschein die Initiative.
-Prevents other Pokémon from lowering accuracy.
-Erhellt die Umgebung und erhöht dadurch die Wahrscheinlichkeit, wilden Pokémon zu begegnen.
+Raises the likelihood of meeting wild Pokémon.
+Raises the likelihood of meeting wild Pokémon.
 The Pokémon copies a foe's Ability.
 Kopiert bei Kampfantritt die Fähigkeit eines Gegners.
 Raises the Pokémon's Attack stat.
-Verdoppelt die Stärke von physischen Attacken.
+Verdoppelt mit reiner Willenskraft die Stärke seiner physischen Attacken.
 Contact with the Pokémon may poison the attacker.
 Vergiftet den Angreifer bei Berührung eventuell.
 The Pokémon is protected from flinching.
@@ -113,8 +115,6 @@ Erhöht den Angriffs-Wert, aber senkt die Genauigkeit.
 Contact with the Pokémon may cause infatuation.
 Wird dieses Pokémon durch eine direkte Attacke angegriffen, verliebt sich der Gegner eventuell in es.
 Ups Sp. Atk if another Pokémon has Plus or Minus.
-Erhöht den Spezial-Angriff, wenn das Pokémon einen Mitstreiter mit der Fähigkeit Plus oder Minus hat.
-Ups Sp. Atk if another Pokémon has Plus or Minus.
 Erhöht den Spezial-Angriff, wenn das Pokémon einen Mitstreiter mit der Fähigkeit Plus oder Minus hat
 Castform transforms with the weather.
 Nimmt je nach Wetter entweder den Typ Wasser, Feuer oder Eis an.
@@ -142,16 +142,6 @@ Turns the sunlight harsh if it is in battle.
 Erzeugt bei Kampfantritt gleißendes Sonnenlicht.
 Prevents the foe from fleeing.
 Hindert Gegner im Kampf an der Flucht.
-Prevents the Pokémon from falling asleep.
-Das Pokémon ist so munter, dass es nicht einschlafen kann.
-Prevents other Pokémon from lowering its stats.
-Indem es sich mit pulvrigem Rauch umhüllt, hindert es Angreifer daran, seine Statuswerte zu senken.
-Raises the Pokémon's Attack stat.
-Verdoppelt mit reiner Willenskraft die Stärke seiner physischen Attacken.
-The Pokémon is protected against critical hits.
-Wehrt gegnerische Volltreffer mit einem harten Panzer ab.
-Eliminates the effects of weather.
-Hebt alle Wetter-Effekte auf.
 Raises evasion if the Pokémon is confused.
 Erhöht den Ausweichwert, wenn das Pokémon verwirrt ist.
 Raises Speed if hit by an Electric-type move.
@@ -207,7 +197,7 @@ Verhindert bei Sonnenschein Statusprobleme.
 The Pokémon can't use any held items.
 Das Pokémon kann keine getragenen Items verwenden.
 Moves can be used regardless of Abilities.
-Attacken können ungeachtet der Fähigkeiten des Zieles verwendet werden.
+Attacken können ungeachtet der Fähigkeit des Zieles eingesetzt werden.
 Heightens the critical-hit ratios of moves.
 Großes Glück erhöht die Wahrscheinlichkeit, einen Volltreffer zu landen.
 Damages the attacker landing the finishing hit.
@@ -230,10 +220,8 @@ Draws in all Water-type moves to up Sp. Attack.
 Zieht Wasser-Attacken an. Statt durch diese Schaden zu nehmen, erhöht es den eigenen Spezial-Angriff.
 The Pokémon gradually regains HP in a hailstorm.
 Regeneriert bei Hagel nach und nach KP.
-Reduces damage from super-effective attacks.
-Reduziert die Stärke von sehr effektiven Attacken und verringert damit den Schaden, den das Pokémon durch sie erleidet.
-The Pokémon summons a snowstorm in battle.
-Das Pokémon erzeugt bei Kampfantritt Schnee.
+The Pokémon summons a hailstorm in battle.
+The Pokémon summons a hailstorm in battle.
 The Pokémon may gather Honey from somewhere.
 Das Pokémon sammelt nach Kämpfen eventuell Honig auf.
 The Pokémon can check a foe's held item.
@@ -303,7 +291,7 @@ Kämpft als Kopie seines Gegenübers.
 Passes through the foe's barrier and strikes.
 Überwindet gegnerische Schilde sowie Delegatoren und greift an.
 Contact with this Pokémon spreads this Ability.
-Überträgt bei Berührung die Fähigkeit Mumie auf den Angreifer.
+Das Pokémon überträgt bei Berührung die Fähigkeit Duftschwade auf den Angreifer.
 Boosts Attack after knocking out any Pokémon.
 Besiegt es ein Pokémon, steigt sein Selbstvertrauen und somit auch sein Angriff.
 Raises Attack when hit by a Dark-type move.
@@ -324,18 +312,14 @@ Changes the Pokémon's shape when HP is halved.
 Fallen seine KP auf die Hälfte des Maximalwerts oder weniger, wechselt es seine Gestalt.
 Boosts the accuracy of its allies and itself.
 Erhöht die Genauigkeit aller Team-Pokémon.
-Moves can be used regardless of Abilities.
-Attacken können ungeachtet der Fähigkeit des Zieles eingesetzt werden.
-Moves can be used regardless of Abilities.
-Attacken können ungeachtet der Fähigkeit des Zieles eingesetzt werden.
 Protects against attacks that limit move choices.
 Kann alle Team-Pokémon vor mentalen Angriffen schützen.
 Protects Grass-type allies from stat/status effects.
 Schützt Mitstreiter vom Typ Pflanze vor dem Senken ihrer Statuswerte sowie vor Statusproblemen.
 Restores HP as well when the Pokémon eats a Berry.
 Regeneriert beim Konsum von Beeren ungeachtet der Beerensorte KP.
-Changes type to the first selected move.
-Das Pokémon nimmt bei Einsatz einer Attacke deren Typ an.
+It changes type to that of the move it's about to use.
+It changes type to that of the move it's about to use.
 Halves the damage from physical moves.
 Halbiert den Schaden, den das Pokémon durch physische Attacken erleidet.
 Steals the held item of a Pokémon it hits.
@@ -418,8 +402,8 @@ Forms a powerful school while it has a lot of HP.
 Verfügt es über einen hohen KP-Wert, wird es zu einem Schwarm und gewinnt an Stärke. Ist der KP-Wert niedrig, löst sich der Schwarm wieder auf.
 Its shroud protects it from an attack just once.
 Kann ein Mal pro Kampf mit seinem gruseligen Kostüm einen Angriff abwehren.
-Defeating a foe powers up the user one time.
-Besiegt es ein Ziel, vertieft dies die Freundschaft zu seinem Trainer, wodurch es die Ash-Form annimmt und sein Wasser-Shuriken stärker wird.
+Defeating a foe lets it become Ash-Greninja.
+Defeating a foe lets it become Ash-Greninja.
 Changes with other Cells if HP becomes half or less.
 Fallen seine KP auf die Hälfte des Maximalwerts oder weniger, eilen ihm weitere Zellen zu Hilfe und es nimmt die Optimumform an.
 It can poison Steel- and Poison-type targets.
@@ -427,7 +411,7 @@ Kann selbst Pokémon vom Typ Stahl oder Gift vergiften.
 It's always drowsing, and attacks without waking.
 Das Pokémon befindet sich ununterbrochen im Halbschlaf und wacht nie vollständig auf. Es kann jedoch im Schlaf angreifen.
 Makes foes unable to use priority attacks.
-Schüchtert Gegner ein und hindert sie so daran, Erstschlag-Attacken gegen es einzusetzen.
+Überrascht Gegner und hindert sie so daran, Erstschlag-Attacken gegen es einzusetzen.
 Damages an attacker that lands the finishing hit.
 Wird es durch eine Attacke besiegt, fügt es dem Angreifer Schaden in Höhe des KP-Werts zu, den es besaß, bevor es kampfunfähig wurde.
 Repeats another Pokémon's dance move immediately.
@@ -436,14 +420,10 @@ Powers up ally Pokémon's special moves.
 Erhöht die Stärke der Spezial-Attacken seiner Mitstreiter.
 Resists contact damage but weaker to Fire-type.
 Halbiert den Schaden, den es durch direkte Attacken nimmt, aber verdoppelt dafür den durch Feuer-Attacken erlittenen Schaden.
-Makes foes unable to use priority attacks.
-Überrascht Gegner und hindert sie so daran, Erstschlag-Attacken gegen es einzusetzen.
 Boosts Sp. Atk each time a Pokémon faints.
 Erhöht jedes Mal, wenn ein Pokémon besiegt wird, den eigenen Spezial-Angriff.
 Contact with it lowers the attacker's Speed.
 Senkt bei Berührung im Zuge eines Angriffs die Initiative des Angreifers.
-Copies the Ability of a defeated ally.
-Wird einer seiner Mitstreiter besiegt, erhält es dessen Fähigkeit.
 Copies the Ability of a defeated ally.
 Wechselt seine Fähigkeit zu der eines kampfunfähig gewordenen Mitstreiters.
 Boosts its best stat each time it deals a KO.
@@ -458,20 +438,14 @@ Turns the ground into Misty Terrain.
 Erzeugt bei Kampfantritt ein Nebelfeld.
 Turns the ground into Grassy Terrain.
 Erzeugt bei Kampfantritt ein Grasfeld.
-Prevents other Pokémon from lowering its stats.
-Verhindert das Senken der Statuswerte durch Attacken und Fähigkeiten von Angreifern.
 Resists damage while its HP is full.
 Verringert den erlittenen Schaden bei vollen KP.
-Reduces damage from super-effective attacks.
-Reduziert die Stärke von sehr effektiven Attacken und verringert damit den Schaden, den das Pokémon durch sie erleidet.
 Powers up moves that are super-effective.
 Erhöht die Stärke von sehr effektiven Attacken.
-Boosts Attack when entering battle one time.
-Erhöht bei Kampfantritt den Angriff.
-Boosts Defense when entering battle one time.
-Erhöht bei Kampfantritt die Verteidigung.
-Changes type to the first selected move.
-Das Pokémon nimmt bei Einsatz einer Attacke deren Typ an.
+Boosts Attack when entering a battle.
+Boosts Attack when entering a battle.
+Boosts Defense when entering a battle.
+Boosts Defense when entering a battle.
 Retrieves the first thrown Poké Ball if it failed.
 Trägt das Pokémon kein Item bei sich, hebt es den Ball aus dem ersten gescheiterten Fangversuch des Kampfes wieder auf.
 Scatters Speed-lowering cotton fluff when hit.
@@ -482,8 +456,6 @@ Bounces back stat-lowering effects.
 Lenkt ausschließlich Effekte, welche die Statuswerte des Pokémon senken würden, auf den Angreifer um.
 Catches prey via Surf or Dive, spits it out when hit.
 Wenn das Pokémon Surfer oder Taucher einsetzt, fängt es sich dabei Beute. Erleidet es anschließend Schaden, greift es an, indem es die Beute wieder ausspuckt.
-This Pokémon's moves cannot be redirected.
-Ignoriert die Effekte von Fähigkeiten und Attacken anderer Pokémon, die Attacken auf sich lenken.
 Boosts Speed drastically if hit by a Fire or Water move.
 Wird es von einer Wasser- oder Feuer-Attacke getroffen, steigt seine Initiative drastisch.
 Powers up own sound moves. Resists other sound moves.
@@ -534,89 +506,3 @@ Combines Unnerve and Chilling Neigh Abilities.
 Das Pokémon verfügt sowohl über Coronospas Fähigkeit Anspannung als auch über Polaross’ Fähigkeit Helles Wiehern.
 Combines Unnerve and Grim Neigh Abilities.
 Das Pokémon verfügt sowohl über Coronospas Fähigkeit Anspannung als auch über Phantoross’ Fähigkeit Dunkles Wiehern
-Gets a powerful boost if a hit makes its HP half or less.
-Fallen die KP des Pokémon durch einen Angriff auf die Hälfte des Maximalwerts oder weniger, sinken Vert. und Sp.-Vert., aber Ang., Sp.-Ang. und Initiative steigen.
-Prevents opposing Pokémon from using priority moves.
-Der rätselhafte Schweif, der den Kopf des Pokémon umhüllt, hindert Gegner daran, Erstschlag-Attacken gegen die Mitstreiterseite einzusetzen.
-Lowers the Sp. Def of all Pokémon except the user.
-Mit der Macht seiner Unheil bringenden Juwelen schwächt das Pokémon die Spezial-Verteidigung aller anderen Pokémon.
-Pairs up and commands with an active Dondozo.
-Befindet sich ein Heerashai auf der Mitstreiterseite, springt das Pokémon bei Kampfantritt in dessen Maul und gibt von dort aus Befehle.
-Copies an ally's stat changes upon entry to battle.
-Das Pokémon kopiert bei Kampfantritt die Statusveränderungen eines Mitstreiters.
-Reuses an eaten Berry at the end of the next turn.
-Wenn das Pokémon eine Beere isst, stößt es diese am Ende der nächsten Runde wieder aus seinem Magen auf und verspeist diese erneut.
-Restores HP if hit by a Ground-type move.
-Wird das Pokémon von einer Boden-Attacke getroffen, erleidet es keinen Schaden, sondern regeneriert stattdessen KP.
-The Pokémon becomes charged upon taking damage.
-Wenn das Pokémon Schaden erleidet, lädt es sich auf. Dadurch steigt die Stärke seiner nächsten Elektro-Attacke.
-The Pokémon becomes immune to status moves.
-Dank seines robusten Körpers aus reinem, rostfreiem Gold kann das Pokémon nicht von Status-Attacken getroffen werden.
-Boosts Atk if intimidated and immune to being forced out.
-Wird das Pokémon bedroht, steigt sein Angriff. Attacken und Items, durch die Pokémon ausgetauscht werden, haben keine Wirkung auf es.
-Turns the ground into Electric Terrain and boosts Sp. Atk.
-Das Pokémon erzeugt bei Kampfantritt ein Elektrofeld. Wenn ein Elektrofeld aktiv ist, verstärkt ein futuristischer Motor seinen Spezial-Angriff.
-Contact with this Pokémon spreads this Ability.
-Das Pokémon überträgt bei Berührung die Fähigkeit Duftschwade auf den Angreifer. 
-Status moves are unimpeded by this Ability but slower to use.
-Beim Einsatz von Status-Attacken handelt das Pokémon stets langsamer, aber dafür kann es sie ungeachtet der Fähigkeit des Zieles einsetzen. .
-Copies an opponent's stat boost during a turn.
-Wenn ein Statuswert eines Gegners steigt, profitiert das Pokémon ebenfalls davon und der gleiche Statuswert steigt auch bei ihm. 
-Turns the sunlight harsh while boosing Attack.
-Das Pokémon erzeugt bei Kampfantritt Sonnenschein. Bei Sonnenschein verstärkt ein urzeitlicher Puls seinen Angriff. 
-Boosts its best stat in harsh sunlight.
-Bei Sonnenschein oder wenn das Pokémon eine Energiekapsel trägt, steigt sein höchster Statuswert. 
-Gains protection from status effects and Ghost-type moves.
-Das Pokémon kann dank seines läuternden Salzes keine Statusprobleme erleiden und der durch Geist-Attacken erlittene Schaden wird halbiert. 
-Boosts its best stat in Electric Terrain.
-Im Elektrofeld oder wenn das Pokémon eine Energiekapsel trägt, steigt sein höchster Statuswert. 
-Powers up Rock-type moves.
-Die Stärke von Gesteins-Attacken des Pokémon steigt. 
-Turns the ground into Grassy Terrain upon taking damage.
-Wird das Pokémon von einem Angriff getroffen, erzeugt es ein Grasfeld. 
-Powers up slicing moves.
-Die Stärke von Schnitt-Attacken des Pokémon steigt. 
-Boosts the power of its moves with every fainted ally.
-Bei Kampfantritt steigen der Angriff und Spezial-Angriff des Pokémon ein bisschen für jedes bis dahin besiegte Team-Mitglied. 
-Lowers the Defense of all Pokémon except the user.
-Mit der Macht seines Unheil bringenden Schwertes schwächt das Pokémon die Verteidigung aller anderen Pokémon. 
-Lowers the Attack of all Pokémon except the user.
-Mit der Macht seiner Unheil bringenden Holztafeln schwächt das Pokémon den Angriff aller anderen Pokémon. 
-Boosts Atk when hit by a Fire-type move and prevents burns.
-Wird das Pokémon von einer Feuer-Attacke getroffen, steigt sein Angriff. Außerdem kann es keine Verbrennung erleiden. 
-Scatters poison spikes when hit by physical moves.
-Erleidet das Pokémon Schaden durch eine physische Attacke, verstreut es giftige Stacheln auf der gegnerischen Seite. 
-Lowers the Sp. Atk of all Pokémon except the user.
-Mit der Macht seines Unheil bringenden Gefäßes schwächt das Pokémon den Spezial-Angriff aller anderen Pokémon. 
-Fire-type moves deal no damage and sharply boost Defense.
-Wird das Pokémon von einer Feuer-Attacke getroffen, erleidet es keinen Schaden. Stattdessen steigt seine Verteidigung stark.
-The Pokémon becomes charged from taking wind damage.
-Wird das Pokémon von einer Wind-Attacke getroffen, lädt es sich auf. Dadurch steigt die Stärke seiner nächsten Elektro-Attacke.
-Boosts Attack in Tailwind or when attacked by wind moves.
-Wirkt Rückenwind oder wird das Pokémon von einer Wind-Attacke getroffen, steigt sein Angriff. Außerdem erleidet es keinen Schaden durch Wind-Attacken. 
-Transforms into its Hero Form when it switches out.
-Wird das Pokémon ausgewechselt, nimmt es die Heldenform an.
-Lowers the foe's evasion once per battle.
-Beim ersten Kampfantritt verbreitet das Pokémon den Duft süßen Nektars und senkt so den Ausweichwert seiner Gegner.
-Restores ally's HP a little when entering battle.
-Bei Kampfantritt zeigt das Pokémon seine Gastlichkeit, indem es die KP seines Mitstreiters ein wenig auffüllt.
-May badly poison targets when the user attacks.
-Durch die toxischen Stoffe in seiner Kette werden Ziele, die das Pokémon mit einer Attacke trifft, gelegentlich schwer vergiftet.
-Prevents accuracy loss. Ignores Ghost immunities.
-Die Genauigkeit des Pokémon kann nicht gesenkt werden. Es ignoriert Änderungen am Ausweichwert des Zieles und trifft mit Normal- und Kampf-Attacken Geister-Pokémon.
-The user's shining mask raises its Speed stat.
-Die Erinnerungen, die das Pokémon in sich trägt, lassen die Türkisgrüne Maske aufleuchten und erhöhen seine Initiative.
-The user's shining mask raises its Sp. Def stat.
-Die Erinnerungen, die das Pokémon in sich trägt, lassen die Brunnenmaske aufleuchten und erhöhen seine Spezial-Verteidigung.
-The user's shining mask raises its Attack stat.
-Die Erinnerungen, die das Pokémon in sich trägt, lassen die Ofenmaske aufleuchten und erhöhen seinen Angriff.
-The user's shining mask raises its Defense stat.
-Die Erinnerungen, die das Pokémon in sich trägt, lassen die Fundamentmaske aufleuchten und erhöhen seine Verteidigung.
-Moves that inflict poison also cause confusion.
-Wenn Infamomo ein Ziel mit einer Attacke vergiftet, so wird dieses auch verwirrt.
-Enters Terastal Form when sent out.
-Bei Kampfantritt absorbiert das Pokémon Energie in seiner Umgebung und nimmt die Terakristall-Form an.
-Resists all types when HP is full.
-Der Panzer des Pokémon birgt die Kraft aller Typen in sich. Alle Schaden verursachenden Attacken, die es bei vollen KP treffen, sind nicht sehr effektiv.
-Eliminates all weather and terrain.
-Wenn Terapagos die Stellarform annimmt, eliminiert es dank seiner verborgenen Kräfte sämtliche Wettereffekte und Felder.

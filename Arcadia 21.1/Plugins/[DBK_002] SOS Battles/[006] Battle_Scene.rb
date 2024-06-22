@@ -14,7 +14,7 @@ class Battle::Scene
       @sprites["targetWindow"] = TargetMenu.new(@viewport, 200, @battle.sideSizes)
       @sprites["targetWindow"].visible = false
       pbCreatePokemonSprite(idxBattler)
-      if defined?(pbHideInfoIcons)
+      if defined?(pbHideInfoUI)
         @sprites["info_icon#{idxBattler}"] = PokemonIconSprite.new(battler.pokemon, @viewport)
         @sprites["info_icon#{idxBattler}"].setOffset(PictureOrigin::CENTER)
         @sprites["info_icon#{idxBattler}"].visible = false

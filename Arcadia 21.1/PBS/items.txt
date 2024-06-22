@@ -6703,3 +6703,14 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+#-------------------------------
+#Custom
+#-------------------------------
+[DIPLOMA]
+Name = Zertifikat
+NamePlural = Zertifikate
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Ein Zertifikat, du darfst nun in die Tropfsteinhöhle.

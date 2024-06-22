@@ -75,7 +75,6 @@ Pokemon = MIENFOO,5
 [BLACKBELT,Damien]
 LoseText = No way!
 Pokemon = SHROOMISH,6
-Pokemon = IRONHANDS,5
 Pokemon = MANKEY,5
 #-------------------------------
 [HIKER,Tyler]
@@ -87,7 +86,6 @@ Pokemon = TURTWIG,6
 [BUGCATCHER,Thomas]
 LoseText = Oh... I lost... you're not weak...
 Pokemon = JOLTIK,5
-Pokemon = PHEROMOSA,7
 Pokemon = SHELMET,6
 #-------------------------------
 [LASS,Colin]
@@ -106,7 +104,6 @@ Pokemon = FLAMIGO,7
 LoseText = I suppose I am the loser.
 Pokemon = QUAXLY,6
 Pokemon = TIRTOUGA,6
-Pokemon = IRONTHORNS,5
 #-------------------------------
 [LASS,Patricia]
 LoseText = Looks like you're the stronger one...
@@ -119,7 +116,7 @@ LoseText = Argh! You're too strong!
 Pokemon = VENIPEDE,5
 Pokemon = WOOLOO,6
 Pokemon = SCATTERBUG,6
-Pokemon = FARIGIRAF,9
+Pokemon = GIRAFARIG,9
 #-------------------------------
 [YOUNGCOUPLE,Holly]
 LoseText = Uww... I blew it.
@@ -504,7 +501,6 @@ Items = HYPERPOTION
 LoseText = Yikes! Sorry!
 Pokemon = EELEKTROSS,75
 Pokemon = LUXRAY,76
-Pokemon = IRONHANDS,78
 Pokemon = MORPEKO,78
 Pokemon = MANECTRIC,75
 Pokemon = ELECTRODE,76

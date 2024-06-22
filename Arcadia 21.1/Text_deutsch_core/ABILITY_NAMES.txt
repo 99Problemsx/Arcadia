@@ -30,8 +30,8 @@ Cloud Nine
 Wolke Sieben
 Compound Eyes
 Facettenauge
-Insomia
-Insomia
+Insomnia
+Insomnia
 Color Change
 Farbwechsel
 Immunity
@@ -56,8 +56,8 @@ Levitate
 Schwebe
 Effect Spore
 Sporenwirt
-Synchonize
-Synchro
+Synchronize
+Synchronize
 Clear Body
 Neutraltorso
 Natural Cure
@@ -220,8 +220,8 @@ Forewarn
 Vorwarnung
 Unaware
 Unkenntnis
-Tint Lens
-Finalschlag
+Tinted Lens
+Tinted Lens
 Filter
 Filter
 Slow Start
@@ -516,8 +516,8 @@ Neutralizing Gas
 Reaktionsgas
 Pastel Veil
 Pastellhülle
-Hunder Switch
-Heißhunger
+Hunger Switch
+Hunger Switch
 Quick Draw
 Schnellschuss
 Unseen Fist
@@ -534,83 +534,3 @@ Grim Neigh
 Dunkles Wiehern
 As One
 Reitgespann
-Lingering Aroma
-Duftschwade
-Seed Sower
-Streusaat
-Thermal Exchange
-Thermowandel
-Anger Shell
-Wutpanzer
-Purifying Salt
-Läutersalz
-Well-Baked Body
-Knusperkruste
-Wind Rider
-Windreiter
-Guard Dog
-Wachhund
-Rocky Payload
-Steinträger
-Wind Power
-Windkraft
-Zero to Hero
-Superwechsel
-Commander
-Kommandant
-Electromorphosis
-Dynamo
-Protosynthesis
-Paläosynthese
-Quark Drive
-Quantenantrieb
-Good as Gold
-Goldkörper
-Vessel of Ruin
-Unheilsgefäß
-Sword of Ruin
-Unheilsschwert
-Tablets of Ruin
-Unheilstafeln
-Beads of Ruin
-Unheilsjuwelen
-Orichalcum Pulse
-Orichalkum-Puls
-Hadron Engine
-Hadronen-Motor
-Opportunist
-Profiteur
-Cud Chew
-Wiederkäuer
-Sharpness
-Scharfkantig
-Supreme Overlord
-Feldherr
-Costar
-Synchronauftritt
-Toxic Debris
-Giftbelag
-Armor Tail
-Schweifrüstung
-Earth Eater
-Bodenschmaus
-Mycelium Might
-Myzelienkraft
-Hospitality
-Gastlichkei
-Mind's Eye
-Geistiges Auge
-Embody Aspect
-Erinnerungskraft
-Toxic Chain
-Giftkette
-Supersweet Syrup
-Süßer Nektar
-Tera Shift
-Tera-Wandel
-Tera Shell
-Tera-Panzer
-Teraform Zero
-Teraforming Null
-Poison Puppeteer
-Giftpuppenspiel
