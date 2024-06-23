@@ -21,7 +21,7 @@ module LevelScalingSettings
   PROPORTIONAL_SCALING = false
 
   # You can use the following to disable level scaling in any condition other then the selected below
-  ONLY_SCALE_IF_HIGHER = true   # The script will only scale levels if the player is overleveled
+  ONLY_SCALE_IF_HIGHER = false   # The script will only scale levels if the player is overleveled
   ONLY_SCALE_IF_LOWER = false    # The script will only scale levels if the player is underleveled
 
   # You can add your own difficulties in the following Hash, using the function "Difficulty.new(fixed_increase, random_increase)"

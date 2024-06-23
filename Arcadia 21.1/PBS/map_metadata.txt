@@ -300,7 +300,7 @@ ShowArea = true
 Weather = Snow,100
 MapPosition = 0,14,6
 SnapEdges = true
-BattleBack = Snow
+BattleBack = snow
 #-------------------------------
 [086]   # Route 2
 Name = Route 2

@@ -17,7 +17,7 @@ module AdvancedItemsFieldMoves
 #===============================================================================
 
   ROCKSMASH_CONFIG = {
-    :internal_name      => :ROCKSMASHITEM,
+    :internal_name      => :HITMONCHANGLOVE,
     :active             => true,              # Default: true
     :needed_badge       => 0,                 # Default: 0
     :needed_switches    => [],                # Default: []
