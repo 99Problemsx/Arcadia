@@ -37,6 +37,7 @@ class Battle::Move
 
   def pbContactMove?(user)
     return false if user.hasActiveAbility?(:LONGREACH)
+    return false if punchingMove? && user.hasActiveItem?(:PUNCHINGGLOVE)
     return contactMove?
   end
 
@@ -86,9 +87,8 @@ class Battle::Move
   # Check if target is immune to the move because of its ability
   #=============================================================================
   def pbImmunityByAbility(user, target, show_message)
-    return false if @battle.moldBreaker
     ret = false
-    if target.abilityActive?
+    if target.abilityActive? && !target.beingMoldBroken?
       ret = Battle::AbilityEffects.triggerMoveImmunity(target.ability, user, target,
                                                        self, @calcType, @battle, show_message)
     end
@@ -126,8 +126,7 @@ class Battle::Move
   end
 
   def pbMoveFailedAromaVeil?(user, target, showMessage = true)
-    return false if @battle.moldBreaker
-    if target.hasActiveAbility?(:AROMAVEIL)
+    if target.hasActiveAbility?(:AROMAVEIL) && !target.beingMoldBroken?
       if showMessage
         @battle.pbShowAbilitySplash(target)
         if Battle::Scene::USE_ABILITY_SPLASH
@@ -141,7 +140,7 @@ class Battle::Move
       return true
     end
     target.allAllies.each do |b|
-      next if !b.hasActiveAbility?(:AROMAVEIL)
+      next if !b.hasActiveAbility?(:AROMAVEIL) || b.beingMoldBroken?
       if showMessage
         @battle.pbShowAbilitySplash(b)
         if Battle::Scene::USE_ABILITY_SPLASH
@@ -168,13 +167,13 @@ class Battle::Move
       return
     end
     # Ice Face will take the damage
-    if !@battle.moldBreaker && target.isSpecies?(:EISCUE) &&
+    if !target.beingMoldBroken? && target.isSpecies?(:EISCUE) &&
        target.form == 0 && target.ability == :ICEFACE && physicalMove?
       target.damageState.iceFace = true
       return
     end
     # Disguise will take the damage
-    if !@battle.moldBreaker && target.isSpecies?(:MIMIKYU) &&
+    if !target.beingMoldBroken? && target.isSpecies?(:MIMIKYU) &&
        target.form == 0 && target.ability == :DISGUISE
       target.damageState.disguise = true
       return
@@ -202,7 +201,7 @@ class Battle::Move
         target.damageState.endured = true
         damage -= 1
       elsif damage == target.totalhp
-        if target.hasActiveAbility?(:STURDY) && !@battle.moldBreaker
+        if target.hasActiveAbility?(:STURDY) && !target.beingMoldBroken?
           target.damageState.sturdy = true
           damage -= 1
         elsif target.hasActiveItem?(:FOCUSSASH) && target.hp == target.totalhp
@@ -297,10 +296,8 @@ class Battle::Move
       @battle.pbDisplay(_INTL("The substitute took damage for {1}!", target.pbThis(true)))
     end
     if target.damageState.critical
-      if $game_temp.party_critical_hits_dealt &&
-         $game_temp.party_critical_hits_dealt[user.pokemonIndex] &&
-         user.pbOwnedByPlayer?
-        $game_temp.party_critical_hits_dealt[user.pokemonIndex] += 1
+      if user.pokemon.isSpecies?(:FARFETCHD) && user.pokemon.form == 1
+        user.pokemon.evolution_counter += 1
       end
       if target.damageState.affection_critical
         if numTargets > 1
@@ -382,6 +379,10 @@ class Battle::Move
         target.effects[PBEffects::MirrorCoat]       = damage
         target.effects[PBEffects::MirrorCoatTarget] = user.index
       end
+      if target.opposes?(user)
+        target.lastHPLostFromFoe = damage                # For Metal Burst
+        target.lastFoeAttacker.push(user.pokemonIndex)   # For Metal Burst
+      end
     end
     if target.effects[PBEffects::Bide] > 0
       target.effects[PBEffects::BideDamage] += damage
@@ -392,14 +393,8 @@ class Battle::Move
     target.tookMoveDamageThisRound = true if damage > 0 && !target.damageState.substitute   # For Focus Punch
     target.tookDamageThisRound = true if damage > 0   # For Assurance
     target.lastAttacker.push(user.index)              # For Revenge
-    if target.opposes?(user)
-      target.lastHPLostFromFoe = damage               # For Metal Burst
-      target.lastFoeAttacker.push(user.index)         # For Metal Burst
-    end
-    if $game_temp.party_direct_damage_taken &&
-       $game_temp.party_direct_damage_taken[target.pokemonIndex] &&
-       target.pbOwnedByPlayer?
-      $game_temp.party_direct_damage_taken[target.pokemonIndex] += damage
+    if target.pokemon.isSpecies?(:YAMASK) && target.pokemon.form == 1
+      target.pokemon.evolution_counter += damage
     end
   end
 end

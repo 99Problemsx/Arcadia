@@ -364,13 +364,13 @@ SaveData.register_conversion(:v21_replace_phone_data) do
           @phoneNumbers.each do |contact|
             if contact.length > 4
               # Trainer
-              Phone.add_silent(contact[6], contact[7], contact[1], contact[2], contact[5], 0)
-              new_contact = Phone.get(contact[1], contact[2], 0)
+              @phone.add(contact[6], contact[7], contact[1], contact[2], contact[5], 0)
+              new_contact = @phone.get(contact[1], contact[2], 0)
               new_contact.visible = contact[0]
               new_contact.rematch_flag = [contact[4] - 1, 0].max
             else
               # Non-trainer
-              Phone.add_silent(contact[3], contact[2], contact[1])
+              @phone.add(contact[3], contact[2], contact[1])
             end
           end
           @phoneNumbers = nil
@@ -415,6 +415,18 @@ SaveData.register_conversion(:v21_add_bump_stat) do
   to_value :stats do |stats|
     stats.instance_eval do
       @bump_count = 0 if !@bump_count
+    end
+  end
+end
+
+#===============================================================================
+
+SaveData.register_conversion(:v22_add_primal_reversion_stat) do
+  essentials_version 22
+  display_title "Adding a primal reversion stat"
+  to_value :stats do |stats|
+    stats.instance_eval do
+      @primal_reversion_count = 0 if !@primal_reversion_count
     end
   end
 end

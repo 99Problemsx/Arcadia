@@ -146,10 +146,24 @@ EventHandlers.add(:on_step_taken, :pick_up_soot,
 EventHandlers.add(:on_step_taken, :grass_rustling,
   proc { |event|
     next if !$scene.is_a?(Scene_Map)
+    next if event.respond_to?("name") && event.name[/airborne/i]
     event.each_occupied_tile do |x, y|
       next if !$map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_grass_rustle
       spriteset = $scene.spriteset(event.map_id)
       spriteset&.addUserAnimation(Settings::GRASS_ANIMATION_ID, x, y, true, 1)
+    end
+  }
+)
+
+# Show water ripple animation
+EventHandlers.add(:on_step_taken, :still_water_ripple,
+  proc { |event|
+    next if !$scene.is_a?(Scene_Map)
+    next if event.respond_to?("name") && event.name[/airborne/i]
+    event.each_occupied_tile do |x, y|
+      next if !$map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_water_ripple
+      spriteset = $scene.spriteset(event.map_id)
+      spriteset&.addUserAnimation(Settings::WATER_RIPPLE_ANIMATION_ID, x, y, true, -1)
     end
   }
 )
@@ -165,6 +179,17 @@ EventHandlers.add(:on_step_taken, :auto_move_player,
       pbTraverseWaterfall
     elsif currentTag.ice || $PokemonGlobal.ice_sliding
       pbSlideOnIce
+    end
+  }
+)
+
+# Certain species of Pokémon record the distance travelled while they were in
+# the party. Those species use this information to evolve.
+EventHandlers.add(:on_step_taken, :party_pokemon_distance_tracker,
+  proc { |event|
+    $player.pokemon_party.each do |pkmn|
+      next if ![:PAWMO, :BRAMBLIN, :RELLOR].include?(pkmn.species)
+      pkmn.evolution_counter += 1
     end
   }
 )
@@ -195,7 +220,7 @@ EventHandlers.add(:on_player_change_direction, :trigger_encounter,
 )
 
 def pbBattleOnStepTaken(repel_active)
-  return if $player.able_pokemon_count == 0
+  return if $player.able_pokemon_count == 0 && !pbInSafari?
   return if !$PokemonEncounters.encounter_possible_here?
   encounter_type = $PokemonEncounters.encounter_type
   return if !encounter_type
@@ -370,6 +395,7 @@ end
 
 # Returns whether event is able to walk up to the player.
 def pbEventCanReachPlayer?(event, player, distance)
+  return false if event.map_id != player.map_id
   return false if !pbEventFacesPlayer?(event, player, distance)
   delta_x = (event.direction == 6) ? 1 : (event.direction == 4) ? -1 : 0
   delta_y = (event.direction == 2) ? 1 : (event.direction == 8) ? -1 : 0
@@ -394,6 +420,7 @@ end
 # Returns whether the two events are standing next to each other and facing each
 # other.
 def pbFacingEachOther(event1, event2)
+  return false if event1.map_id != event2.map_id
   return pbEventFacesPlayer?(event1, event2, 1) && pbEventFacesPlayer?(event2, event1, 1)
 end
 

@@ -22,7 +22,9 @@ class Game_Character
   attr_accessor :lock_pattern
   attr_reader   :move_route_forcing
   attr_accessor :through
-  attr_accessor :animation_id
+  attr_reader   :animation_id
+  attr_accessor :animation_height
+  attr_accessor :animation_regular_tone
   attr_accessor :transparent
   attr_reader   :move_speed
   attr_reader   :jump_speed
@@ -54,7 +56,7 @@ class Game_Character
     @lock_pattern              = false
     @move_route_forcing        = false
     @through                   = false
-    @animation_id              = 0
+    animation_id               = 0
     @transparent               = false
     @original_direction        = 2
     @original_pattern          = 0
@@ -84,6 +86,14 @@ class Game_Character
     @moveto_happened           = false
     @locked                    = false
     @prelock_direction         = 0
+  end
+
+  def animation_id=(value)
+    @animation_id = value
+    if value == 0
+      @animation_height = 3
+      @animation_regular_tone = false
+    end
   end
 
   def x_offset; return @x_offset || 0; end
@@ -196,11 +206,12 @@ class Game_Character
   end
 
   def bush_depth
+    return 0 if respond_to?("name") && name[/airborne/i]
     return @bush_depth || 0
   end
 
   def calculate_bush_depth
-    if @tile_id > 0 || @always_on_top || jumping?
+    if @tile_id > 0 || @always_on_top || jumping? || (respond_to?("name") && name[/airborne/i])
       @bush_depth = 0
       return
     end
@@ -234,17 +245,17 @@ class Game_Character
   #=============================================================================
   # Passability
   #=============================================================================
-  def passable?(x, y, d, strict = false)
-    new_x = x + (d == 6 ? 1 : d == 4 ? -1 : 0)
-    new_y = y + (d == 2 ? 1 : d == 8 ? -1 : 0)
+  def passable?(x, y, dir, strict = false)
+    new_x = x + (dir == 6 ? 1 : dir == 4 ? -1 : 0)
+    new_y = y + (dir == 2 ? 1 : dir == 8 ? -1 : 0)
     return false unless self.map.valid?(new_x, new_y)
     return true if @through
     if strict
-      return false unless self.map.passableStrict?(x, y, d, self)
-      return false unless self.map.passableStrict?(new_x, new_y, 10 - d, self)
+      return false unless self.map.passableStrict?(x, y, dir, self)
+      return false unless self.map.passableStrict?(new_x, new_y, 10 - dir, self)
     else
-      return false unless self.map.passable?(x, y, d, self)
-      return false unless self.map.passable?(new_x, new_y, 10 - d, self)
+      return false unless self.map.passable?(x, y, dir, self)
+      return false unless self.map.passable?(new_x, new_y, 10 - dir, self)
     end
     self.map.events.each_value do |event|
       next if self == event || !event.at_coordinate?(new_x, new_y) || event.through
@@ -709,14 +720,22 @@ class Game_Character
       (rand(2) == 0) ? abs_sx += 1 : abs_sy += 1
     end
     if abs_sx > abs_sy
-      (sx > 0) ? move_left : move_right
+      if abs_sx >= 1
+        (sx > 0) ? move_left : move_right
+      end
       if !moving? && sy != 0
-        (sy > 0) ? move_up : move_down
+        if abs_sy >= 1
+          (sy > 0) ? move_up : move_down
+        end
       end
     else
-      (sy > 0) ? move_up : move_down
+      if abs_sy >= 1
+        (sy > 0) ? move_up : move_down
+      end
       if !moving? && sx != 0
-        (sx > 0) ? move_left : move_right
+        if abs_sx >= 1
+          (sx > 0) ? move_left : move_right
+        end
       end
     end
   end

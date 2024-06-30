@@ -80,6 +80,7 @@ BaseMoney = 48
 Name = Fisherman
 Gender = Male
 BaseMoney = 32
+PokeBall = LUREBALL
 #-------------------------------
 [GAMBLER]
 Name = Gambler
@@ -91,6 +92,7 @@ SkillLevel = 32
 Name = Gentleman
 Gender = Male
 BaseMoney = 72
+PokeBall = LUXURYBALL
 #-------------------------------
 [HIKER]
 Name = Hiker
@@ -107,6 +109,7 @@ Name = Lady
 Gender = Female
 BaseMoney = 160
 SkillLevel = 72
+PokeBall = LUXURYBALL
 #-------------------------------
 [PAINTER]
 Name = Painter
@@ -122,6 +125,7 @@ BaseMoney = 64
 Name = Pokémon Breeder
 Gender = Female
 BaseMoney = 48
+PokeBall = FRIENDBALL
 #-------------------------------
 [PROFESSOR]
 Name = Professor
@@ -147,6 +151,7 @@ BaseMoney = 32
 Name = Scientist
 Gender = Male
 BaseMoney = 48
+PokeBall = REPEATBALL
 #-------------------------------
 [SUPERNERD]
 Name = Super Nerd
@@ -162,6 +167,7 @@ BaseMoney = 40
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+PokeBall = ULTRABALL
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
@@ -182,11 +188,13 @@ BaseMoney = 16
 Name = Cool Trainer
 Gender = Male
 BaseMoney = 60
+PokeBall = ULTRABALL
 #-------------------------------
 [COOLTRAINER_F]
 Name = Cool Trainer
 Gender = Female
 BaseMoney = 60
+PokeBall = ULTRABALL
 #-------------------------------
 [YOUNGSTER]
 Name = Youngster
@@ -223,24 +231,28 @@ Name = Swimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
+PokeBall = DIVEBALL
 #-------------------------------
 [SWIMMER_F]
 Name = Swimmer
 Gender = Female
 BaseMoney = 16
 SkillLevel = 32
+PokeBall = DIVEBALL
 #-------------------------------
 [SWIMMER2_M]
 Name = Swimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
+PokeBall = DIVEBALL
 #-------------------------------
 [SWIMMER2_F]
 Name = Swimmer
 Gender = Female
 BaseMoney = 16
 SkillLevel = 32
+PokeBall = DIVEBALL
 #-------------------------------
 [TUBER_M]
 Name = Tuber
@@ -271,6 +283,7 @@ Name = Cool Couple
 Gender = Unknown
 BaseMoney = 72
 SkillLevel = 48
+PokeBall = ULTRABALL
 #-------------------------------
 [CRUSHKIN]
 Name = Crush Kin
@@ -282,6 +295,7 @@ Name = Sis and Bro
 Gender = Unknown
 BaseMoney = 16
 SkillLevel = 48
+PokeBall = DIVEBALL
 #-------------------------------
 [TWINS]
 Name = Twins
@@ -371,6 +385,7 @@ Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
+PokeBall = ULTRABALL
 #-------------------------------
 [ELITEFOUR_Bruno]
 Name = Elite Four
@@ -378,6 +393,7 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
+PokeBall = ULTRABALL
 #-------------------------------
 [ELITEFOUR_Agatha]
 Name = Elite Four
@@ -385,6 +401,7 @@ Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
+PokeBall = ULTRABALL
 #-------------------------------
 [ELITEFOUR_Lance]
 Name = Elite Four
@@ -392,6 +409,7 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
+PokeBall = ULTRABALL
 #-------------------------------
 [CHAMPION]
 Name = Champion
@@ -399,167 +417,4 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-#-------------------------------
-[CODEWISH]
-Name = Code
-Gender = Female
-BaseMoney = 100
-BattleBGM = untitled.wav
-VictoryBGM = Battle victory leader
-#-------------------------------
-[MISS]
-Name = Rightful
-Gender = Female
-BaseMoney = 100
-BattleBGM = vsMiss.wav
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Etris]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[GUITARIST]
-Name = Gitarrist
-Gender = Male
-BaseMoney = 100
-#-------------------------------
-[DRUMMER]
-Name = Trommler
-Gender = Male
-BaseMoney = 100
-#-------------------------------
-[ADMIN_Cindy]
-Name = Rightful Admin
-Gender = Female
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Mitu]
-Name = Rightful Admin
-Gender = Female
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Koji]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Motessonal]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Denna]
-Name = Rightful Admin
-Gender = Female
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Tanish]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Aze]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Mese]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ADMIN_Uex]
-Name = Rightful Admin
-Gender = Male
-BaseMoney = 100
-BattleBGM = battleRightfulGrunt
-VictoryBGM = Battle victory leader
-#-------------------------------
-[PRESCHOOLER_M]
-Name = Schüler
-Gender = Male
-BaseMoney = 4
-SkillLevel = 16
-#-------------------------------
-[PRESCHOOLER_F]
-Name = Schülerin
-Gender = Female
-BaseMoney = 4
-SkillLevel = 16
-#-------------------------------
-[TEACHER]
-Name = Lehrerin
-Gender = Female
-BaseMoney = 4
-SkillLevel = 16
-#-------------------------------
-[JO]
-Name = Admin
-Gender = Male
-BaseMoney = 32
-#-------------------------------
-[ALICE]
-Name = Admin
-Gender = Female
-BaseMoney = 32
-#-------------------------------
-[MINER]
-Name = Minenarbeiter
-Gender = Male
-BaseMoney = 32
-#-------------------------------
-[PARASOL]
-Name = Lady
-Gender = Female
-BaseMoney = 32
-#-------------------------------
-[ACETRAINER_F]
-Name = Ass Trainerin
-Gender = Female
-BaseMoney = 24
-#-------------------------------
-[ACETRAINER_M]
-Name = Ass Trainer
-Gender = Male
-BaseMoney = 24
-#-------------------------------
-[RICHBOY]
-Name = Schnösel
-Gender = Male
-BaseMoney = 24
-#-------------------------------
-[FIREBREATHER]
-Name = Feuerspucker
-Gender = Male
-BaseMoney = 24
-#-------------------------------
-[LEADER_Hellen]
-Name = Gym Leader
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[VEDETTA]
-Name = Admin
-Gender = Male
-BaseMoney = 30
+PokeBall = ULTRABALL

@@ -1,80 +1,40 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Safari Zone: Forest (10) - Safari Zone: Desert (11)
-10,North,0,11,South,0
-# Safari Zone: Marsh (12) - Safari Zone: Desert (11)
-12,South,2,11,North,0
-# Trees (20) - Trees (18)
-20,West,44,18,East,0
-# Route 2 (86) - Trees (18)
-86,South,30,18,North,0
-# New Harbour Town (87) - Trees (18)
-87,West,24,18,East,0
-# Trees (20) - Trees (19)
-20,West,0,19,East,6
-# Route 2 (86) - Trees (19)
-86,North,30,19,South,0
-# New Harbour Town (87) - Trees (19)
-87,West,0,19,East,26
-# Route 2 (86) - Trees (20)
-86,East,0,20,West,24
-# New Harbour Town (87) - Trees (20)
-87,North,0,20,South,0
-# Route 5 (30) - Wishing Well (50)
-30,North,0,50,South,50
-# Heggate Town (31) - Route 5 (30)
-31,East,0,30,West,0
-# Heggate Town (31) - Wishing Well (50)
-31,North,0,50,South,0
-# Heggate Town (31) - Route 6 (36)
-31,West,0,36,East,19
-# Titan Town (32) - Route 1 (77)
-32,East,11,77,West,0
-# Titan Town (32) - Deserted Path (81)
-32,North,0,81,South,14
-# Route 6 (36) - Wishing Well (50)
-36,East,0,50,West,20
-# Route 6 (36) - Route 7 (41)
-36,South,0,41,North,45
-# Enursia City (37) - Route 6 (36)
-37,East,20,36,West,0
-# Enursia City (37) - Route 9 (49)
-37,North,38,49,South,0
-# Enursia City (37) - Route 7 (41)
-37,South,35,41,North,0
-# Route 7 (41) - Royal River (44)
-41,South,0,44,North,0
-# Route 7 (41) - water1 (46)
-41,East,55,46,West,0
-# Route 8 (45) - Royal River (44)
-45,North,0,44,South,7
-# water1 (46) - Royal River (44)
-46,South,0,44,North,31
-# water2 (47) - Royal River (44)
-47,North,0,44,South,37
-# Downpour City (52) - Route 8 (45)
-52,North,30,45,South,0
-# water2 (47) - Route 8 (45)
-47,West,0,45,East,0
-# Wishing Well (50) - Route 9 (49)
-50,North,0,49,South,102
-# Downpour City (52) - Route 10 (55)
-52,West,44,55,East,0
-# Keishan City (59) - Downpour City (52)
-59,East,140,52,West,0
-# Padded Forest (54) - Route 10 (55)
-54,East,24,55,West,0
-# Padded Forest (54) - Route 11 (56)
-54,North,18,56,South,0
-# Keishan City (59) - Route 11 (56)
-59,South,38,56,North,0
-# Wishing Well (64) - Norpeak Island (89)
-64,East,0,89,West,16
-# Route 13 (75) - Route 12 (74)
-75,West,0,74,East,42
-# Academia City (78) - Route 1 (77)
-78,West,3,77,East,0
-# New Harbour Town (87) - Route 2 (86)
-87,West,4,86,East,0
-# Eterna City (125) - Route 211 (127)
-125,East,1,127,West,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,N,0,40,S,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,S,6,45,N,0
+# Route 6 (44) - Route 1 (5)
+44,S,43,5,N,0
+# Safari Zone outside (66) - Route 1 (5)
+66,N,18,5,S,0
+# Cedolan City (7) - Route 1 (5)
+7,S,0,5,N,2
+# Lappet Town (2) - Route 1 (5)
+2,N,0,5,S,4
+# Cedolan City (7) - Route 6 (44)
+7,W,5,44,E,0
+# Lappet Town (2) - Safari Zone outside (66)
+2,W,0,66,E,0
+# Route 8 (69) - Safari Zone outside (66)
+69,N,0,66,S,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,W,11,39,E,0
+# Cedolan City (7) - Lerucean Town (23)
+7,E,0,23,W,78
+# Route 3 (31) - Lerucean Town (23)
+31,S,32,23,N,0
+# Route 2 (21) - Lerucean Town (23)
+21,E,0,23,W,1
+# Route 7 (47) - Cedolan City (7)
+47,W,0,7,E,0
+# Route 2 (21) - Cedolan City (7)
+21,S,0,7,N,21
+# Route 3 (31) - Ingido Plateau outside (35)
+31,W,0,35,E,10
+# Route 8 (69) - Lappet Town (2)
+69,N,12,2,S,0
+# Route 7 (47) - Battle Frontier (52)
+47,E,8,52,W,0
+# Route 2 (21) - Route 7 (47)
+21,E,77,47,W,0

@@ -87,11 +87,6 @@ class Battle::Battler
     # Do other things
     @battle.pbClearChoice(@index)   # Reset choice
     pbOwnSide.effects[PBEffects::LastRoundFainted] = @battle.turnCount
-    if $game_temp.party_direct_damage_taken &&
-       $game_temp.party_direct_damage_taken[@pokemonIndex] &&
-       pbOwnedByPlayer?
-      $game_temp.party_direct_damage_taken[@pokemonIndex] = 0
-    end
     # Check other battlers' abilities that trigger upon a battler fainting
     pbAbilitiesOnFainting
     # Check for end of primordial weather
@@ -140,6 +135,7 @@ class Battle::Battler
       @effects[PBEffects::ExtraType] = nil
     end
     @effects[PBEffects::BurnUp] = false
+    @effects[PBEffects::DoubleShock] = false
     @effects[PBEffects::Roost]  = false
   end
 
@@ -147,6 +143,7 @@ class Battle::Battler
     @types = @pokemon.types
     @effects[PBEffects::ExtraType] = nil
     @effects[PBEffects::BurnUp] = false
+    @effects[PBEffects::DoubleShock] = false
     @effects[PBEffects::Roost]  = false
   end
 
@@ -195,7 +192,7 @@ class Battle::Battler
         case effectiveWeather
         when :Sun, :HarshSun   then newForm = 1
         when :Rain, :HeavyRain then newForm = 2
-        when :Hail             then newForm = 3
+        when :Hail, :Snowstorm then newForm = 3
         end
         if @form != newForm
           @battle.pbShowAbilitySplash(self, true)
@@ -222,7 +219,7 @@ class Battle::Battler
     end
     # Eiscue - Ice Face
     if !ability_changed && isSpecies?(:EISCUE) && self.ability == :ICEFACE &&
-       @form == 1 && effectiveWeather == :Hail
+       @form == 1 && [:Hail, :Snowstorm].include?(effectiveWeather)
       @canRestoreIceFace = true   # Changed form at end of round
     end
   end
@@ -298,6 +295,7 @@ class Battle::Battler
     oldAbil = @ability_id
     @effects[PBEffects::Transform]        = true
     @effects[PBEffects::TransformSpecies] = target.species
+    self.form = target.form
     pbChangeTypes(target)
     self.ability = target.ability
     @attack  = target.attack

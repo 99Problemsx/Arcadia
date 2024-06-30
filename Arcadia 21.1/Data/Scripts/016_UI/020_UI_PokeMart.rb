@@ -317,7 +317,7 @@ class PokemonMart_Scene
       @viewport2.color.alpha = lerp(0, 255, 0.4, delta_t)
     end
     @viewport2.color.alpha = 255
-    @subscene.pbStartScene(bag, $player.party)
+    @subscene.pbStartScene(bag)
     @viewport = Viewport.new(0, 0, Graphics.width, Graphics.height)
     @viewport.z = 99999
     @sprites = {}

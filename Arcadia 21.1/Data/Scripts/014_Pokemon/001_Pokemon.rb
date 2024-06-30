@@ -75,6 +75,8 @@ class Pokemon
   attr_accessor :fused
   # @return [Integer] this Pokémon's personal ID
   attr_accessor :personalID
+  # A number used by certain species to evolve.
+  attr_writer :evolution_counter
   # Used by Galarian Yamask to remember that it took sufficient damage from a
   # battle and can evolve.
   attr_accessor :ready_to_evolve
@@ -112,6 +114,11 @@ class Pokemon
 
   def species_data
     return GameData::Species.get_species_form(@species, form_simple)
+  end
+
+  def evolution_counter
+    @evolution_counter ||= 0
+    return @evolution_counter
   end
 
   #=============================================================================
@@ -245,8 +252,10 @@ class Pokemon
   # @param value [Integer] new HP value
   def hp=(value)
     @hp = value.clamp(0, @totalhp)
-    heal_status if @hp == 0
-    @ready_to_evolve = false if @hp == 0
+    return if @hp > 0
+    heal_status
+    @ready_to_evolve = false
+    @evolution_counter = 0 if isSpecies?(:BASCULIN) || isSpecies?(:YAMASK)
   end
 
   # Sets this Pokémon's status. See {GameData::Status} for all possible status effects.
@@ -971,11 +980,22 @@ class Pokemon
   #=============================================================================
   # Evolution checks
   #=============================================================================
+
   # Checks whether this Pokemon can evolve because of levelling up.
   # @return [Symbol, nil] the ID of the species to evolve into
   def check_evolution_on_level_up
     return check_evolution_internal do |pkmn, new_species, method, parameter|
       success = GameData::Evolution.get(method).call_level_up(pkmn, parameter)
+      next (success) ? new_species : nil
+    end
+  end
+
+  # Checks whether this Pokemon can evolve because of levelling up in battle.
+  # This also checks call_level_up as above.
+  # @return [Symbol, nil] the ID of the species to evolve into
+  def check_evolution_on_battle_level_up
+    return check_evolution_internal do |pkmn, new_species, method, parameter|
+      success = GameData::Evolution.get(method).call_battle_level_up(pkmn, parameter)
       next (success) ? new_species : nil
     end
   end

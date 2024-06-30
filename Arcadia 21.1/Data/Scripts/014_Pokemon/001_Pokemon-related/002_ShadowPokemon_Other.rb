@@ -360,6 +360,9 @@ class Battle::Move::UserLosesHalfHP < Battle::Move::RecoilMove
     # NOTE: This move's recoil is not prevented by Rock Head/Magic Guard.
     amt = pbRecoilDamage(user, target)
     amt = 1 if amt < 1
+    if user.pokemon.isSpecies?(:BASCULIN) && [2, 3].include?(user.pokemon.form)
+      user.pokemon.evolution_counter += amt
+    end
     user.pbReduceHP(amt, false)
     @battle.pbDisplay(_INTL("{1} is damaged by recoil!", user.pbThis))
     user.pbItemHPHealCheck
@@ -429,7 +432,7 @@ EventHandlers.add(:on_start_battle, :record_party_heart_gauges,
 )
 
 EventHandlers.add(:on_end_battle, :check_ready_to_purify,
-  proc { |_decision, _canLose|
+  proc { |_outcome, _canLose|
     $game_temp.party_heart_gauges_before_battle.each_with_index do |value, i|
       pkmn = $player.party[i]
       next if !pkmn || !value || value == 0
