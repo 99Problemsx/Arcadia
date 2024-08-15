@@ -1,0 +1,5 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[SOUNDBREAK]
+Name = Unterdrücken
+Description = Das Pokémon senkt bei Kampfantritt den Spz.Angriff von Gegnern, indem es sie unterdrückt.

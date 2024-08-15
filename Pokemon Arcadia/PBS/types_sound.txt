@@ -1,0 +1,7 @@
+#-------------------------------
+[SOUND]
+Name = Sound
+IconPosition = 20
+Weaknesses = ROCK,GROUND
+Resistances = FAIRY
+Immunities = SOUND

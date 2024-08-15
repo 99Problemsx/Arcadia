@@ -1,0 +1,431 @@
+===============================================================================
+Thu Jul 04 05:10:12 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jul 04 05:10:32 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jul 04 05:11:07 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Jul 22 20:34:55 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Jul 22 20:36:44 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+Saving "Titan Town"
+'Saving "Titan Town"' on frame 0
+'Saving "Titan Town"' on frame 1
+'Saving "Titan Town"' on frame 2
+'Saving "Titan Town"' on frame 3
+'Saving "Titan Town"' on frame 4
+'Saving "Titan Town"' on frame 5
+'Saving "Titan Town"' on frame 6
+'Saving "Titan Town"' on frame 7
+'Saving "Titan Town"' on frame 8
+'Saving "Titan Town"' on frame 9
+'Saving "Titan Town"' on frame 10
+'Saving "Titan Town"' on frame 11
+'Saving "Titan Town"' on frame 12
+'Saving "Titan Town"' on frame 13
+'Saving "Titan Town"' on frame 14
+'Saving "Titan Town"' on frame 15
+'Saving "Titan Town"' on frame 16
+'Saving "Titan Town"' on frame 17
+'Saving "Titan Town"' on frame 18
+'Saving "Titan Town"' on frame 19
+'Saving "Titan Town"' on frame 20
+'Saving "Titan Town"' on frame 21
+'Saving "Titan Town"' on frame 22
+'Saving "Titan Town"' on frame 23
+'Saving "Titan Town"' on frame 24
+'Saving "Titan Town"' on frame 25
+'Saving "Titan Town"' on frame 26
+'Saving "Titan Town"' on frame 27
+'Saving "Titan Town"' on frame 28
+'Saving "Titan Town"' on frame 29
+'Saving "Titan Town"' on frame 30
+'Saving "Titan Town"' on frame 31
+'Saving "Titan Town"' on frame 32
+'Saving "Titan Town"' on frame 33
+'Saving "Titan Town"' on frame 34
+'Saving "Titan Town"' on frame 35
+'Saving "Titan Town"' on frame 36
+'Saving "Titan Town"' on frame 37
+'Saving "Titan Town"' on frame 38
+'Saving "Titan Town"' on frame 39
+'Saving "Titan Town"' on frame 40
+'Saving "Titan Town"' on frame 41
+'Saving "Titan Town"' on frame 42
+'Saving "Titan Town"' on frame 43
+'Saving "Titan Town"' on frame 44
+'Saving "Titan Town"' on frame 45
+'Saving "Titan Town"' on frame 46
+'Saving "Titan Town"' on frame 47
+'Saving "Titan Town"' on frame 48
+'Saving "Titan Town"' on frame 49
+'Saving "Titan Town"' on frame 50
+'Saving "Titan Town"' on frame 51
+'Saving "Titan Town"' on frame 52
+'Saving "Titan Town"' on frame 53
+'Saving "Titan Town"' on frame 54
+'Saving "Titan Town"' on frame 55
+'Saving "Titan Town"' on frame 56
+'Saving "Titan Town"' on frame 57
+'Saving "Titan Town"' on frame 58
+'Saving "Titan Town"' on frame 59
+'Saving "Titan Town"' on frame 60
+'Saving "Titan Town"' on frame 61
+'Saving "Titan Town"' on frame 62
+'Saving "Titan Town"' on frame 63
+'Saving "Titan Town"' on frame 64
+'Saving "Titan Town"' on frame 65
+'Saving "Titan Town"' on frame 66
+'Saving "Titan Town"' on frame 67
+'Saving "Titan Town"' on frame 68
+'Saving "Titan Town"' on frame 69
+'Saving "Titan Town"' on frame 70
+'Saving "Titan Town"' on frame 71
+'Saving "Titan Town"' on frame 72
+'Saving "Titan Town"' on frame 73
+'Saving "Titan Town"' on frame 74
+'Saving "Titan Town"' on frame 75
+'Saving "Titan Town"' on frame 76
+'Saving "Titan Town"' on frame 77
+'Saving "Titan Town"' on frame 78
+'Saving "Titan Town"' on frame 79
+'Saving "Titan Town"' on frame 80
+'Saving "Titan Town"' on frame 81
+'Saving "Titan Town"' on frame 82
+'Saving "Titan Town"' on frame 83
+'Saving "Titan Town"' on frame 84
+'Saving "Titan Town"' on frame 85
+'Saving "Titan Town"' on frame 86
+'Saving "Titan Town"' on frame 87
+'Saving "Titan Town"' on frame 88
+'Saving "Titan Town"' on frame 89
+'Saving "Titan Town"' on frame 90
+'Saving "Titan Town"' on frame 91
+'Saving "Titan Town"' on frame 92
+'Saving "Titan Town"' on frame 93
+'Saving "Titan Town"' on frame 94
+'Saving "Titan Town"' on frame 95
+'Saving "Titan Town"' on frame 96
+'Saving "Titan Town"' on frame 97
+'Saving "Titan Town"' on frame 98
+'Saving "Titan Town"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Aug 08 16:17:41 Mitteleuropäische Sommerzeit 2024
+-------------------------------------------------------------------------------
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+

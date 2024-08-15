@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map028]
+\bEinige Pokémon können nur mit speziellen Mitteln gezüchtet werden.
+\bEinige Pokémon können nur mit speziellen Mitteln gezüchtet werden.
+\bBaby Pokémon sind nicht so gut für den Kampf geeignet.
+\bBaby Pokémon sind nicht so gut für den Kampf geeignet.

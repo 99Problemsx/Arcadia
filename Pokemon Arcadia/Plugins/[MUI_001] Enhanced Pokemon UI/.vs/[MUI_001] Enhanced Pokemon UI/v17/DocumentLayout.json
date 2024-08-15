@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[005] Summary UI.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:[005] Summary UI.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[004] Storage UI.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:[004] Storage UI.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[001] Utilities.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:[001] Utilities.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[000] Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:[000] Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[002] Legacy Data.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:[002] Legacy Data.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "[005] Summary UI.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[005] Summary UI.rb",
+              "RelativeDocumentMoniker": "[005] Summary UI.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[005] Summary UI.rb",
+              "RelativeToolTip": "[005] Summary UI.rb",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAkwOwAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-12T01:04:44.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "[004] Storage UI.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[004] Storage UI.rb",
+              "RelativeDocumentMoniker": "[004] Storage UI.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[004] Storage UI.rb",
+              "RelativeToolTip": "[004] Storage UI.rb",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwC4AAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-12T01:03:12.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "[001] Utilities.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[001] Utilities.rb",
+              "RelativeDocumentMoniker": "[001] Utilities.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[001] Utilities.rb",
+              "RelativeToolTip": "[001] Utilities.rb",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDQAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-12T01:03:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "[000] Settings.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[000] Settings.rb",
+              "RelativeDocumentMoniker": "[000] Settings.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[000] Settings.rb",
+              "RelativeToolTip": "[000] Settings.rb",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-12T01:03:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "[002] Legacy Data.rb",
+              "DocumentMoniker": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[002] Legacy Data.rb",
+              "RelativeDocumentMoniker": "[002] Legacy Data.rb",
+              "ToolTip": "C:\\Users\\Marcel\\Documents\\GitHub\\Arcadia\\Pokemon Arcadia\\Plugins\\[MUI_001] Enhanced Pokemon UI\\[002] Legacy Data.rb",
+              "RelativeToolTip": "[002] Legacy Data.rb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBUAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUZSURBVEhLvVVdbBRVFP5md2dmt9Nl/9h2u9BaGlsaaQypxUiDgb6gIRYoJEYxPGk0wUcTY2KCD76hFYkxPGh8xQcSiRIkxiCi0FaJKAFpoe2ydGvb3ba77c7\u002Bzc6P51y60hCD8qAn\u002BXLvPXPu\u002Bc4599w7\u002BE/FcRxpZfqvxe/3IxZrxK1b4ysa4NlndkJRVZckgfxJmJ2dtUdGfnL27NkNaXDwvaZ6zb\u002BXvmo2UE/2LkKVYBIsgofgJfgcB7JWrzkN0aiZuH2bzKGQQ9\u002BOHdsVWVFl8sFiLcxnqiMjw9i1a5clfXh0cEvOUIbi0WZXQ0MEbrcLLpcDoyKhWrGwNqahrk4lVgqPvrldNJNoZDuK1\u002BV2E4cEj8cNiQriJuXi/CwM00Cd13dZOvrB\u002B6FyFdNk4g1HgjANE7ZjomJU4SEniiJD1/OQZZVIS0SmYTm/zOWFZVkrhIDq9SKVSiGXzVJiQH9/P/r6\u002Bl6TNm7swIEDL6XvJJNrJWJXFZUIHIrQDS9tYieyLKNarYr6VyoVGIYh1lQO5PN5aJomdHNzc2Jku9cPHdKf2rq1zTM2dpOMjUShWFxbLpcpwjrYti0MTdMUkTJWC5MzqciA5mzH\u002B1yUDeuCwSDWrV//OwU4zwcKrU5bYKfxeFw48Pl8IipFURAOhxGJRMSmQCAgwM7YMQsHpes6pqenRTZMEAqFnGAw8AN/5w4BxZhko0KhIKKv1ZfHXC4ndMJuJZP7R5bVutbW1vKRI0eGeS0y8LjdnIFTLBZRKpVEVLU6M7gED0LNpjZ2dLTP0D2Z/IuAWi3FzKs31bB6cw33r1fD4/GgpaXlDvm7fY9AkhZJUa1FzePfofaNO0ldXoaXal7rKh4ZnZ2dRCL/QiXOsW9xBsVSiRcFcqBwJoya8JzfgHC9H6FMBk/ksmhfWkKAysgX4AId\u002Bs/UABnZh6LbQXd3N86ePXvh9OnTwonI4MSJz/N0BsVaFLWIxZoc2Y9uxt79L\u002BOjQgUHqdfbSMdvSj2R91MTvJtM4g1LwrbOCGXQURwdHR1hvyyi1\u002BJNTWFqvYHFxcUIdwx3ENeZRyuwAeO9r\u002BCyE4WruR09qavw0E2uo30BQpQQ6d\u002BGwLGt2DwQQmE8d\u002BPNwx8do2qI1hMEsVjMR30/kMlkmmqHK9pVjWC2ay\u002BqoSjaYj68\u002BmIvjP0v4JFtTyM60I/K7g04uXMGPx6cRyraCCXYgXXt3gYjkS9fH5v5zbRsQxA0NjbK4VBo31Qq1cLMBKtqO9lS93OS3r1Fdrf4EfBK0PNVJOfpQm55DOHtszilDeKT9BQuunR8pV/DFxNDGJ5MSFrzmp7CRH5uYaZ4RRBEo9GqqqrBycnJYXL\u002BMWXwTn5p6bgjuUpWZ2\u002BP46iKWbRxLV3BrwsGutak8Hjzt0hmbRxPJDBPXowK3eq0iVRyHqMjyT9yQ8WTVgWTgiCdTtuJROISOT9PuEHgtl02M1PXvLeuZx3EN5Ur9f5yWZLcqoV9m86jK3oTMZ\u002BCiaUsbmboBVgiRzOwPFcxii/xVlXHJdLoguABUjLz6eue5JUxqaK02ojEO9ZnpLfbBrFGvwpffhztUgFn0g6Wp2B6LuKc8w0OW2UM0V5u/Xv9/g/idUtyj2/D899/9mmfbZ2nHviOQKN5DvaZU7B9vfiaHtMnyVa7u\u002BWuPMw/WSXjeFhGF90v\u002BufxJYRjUbPZ9C7qwATp7pC6IKxX5GEIWLikfPvFBV0lzMf/cMb/KcCfOyQckzMLl6kAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-12T00:50:43.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

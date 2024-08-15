@@ -1,0 +1,207 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[PICNICKER,Charlotte,1]
+LoseText = Oh... Das ist enttäuschend!
+Pokemon = SPRIGATITO,5
+Pokemon = LECHONK,5
+#-------------------------------
+[LASS,Iris,1]
+LoseText = Oh... Das ist enttäuschend!
+Pokemon = ROCKRUFF,5
+#-------------------------------
+[PRESCHOOLER_M,Ben]
+LoseText = Aack! Meine Pokémon!
+Pokemon = SMOLIV,10
+Pokemon = TINKATINK,10
+#-------------------------------
+[BUGCATCHER,James]
+LoseText = Ich wusste, dass du gewinnen würdest.
+Pokemon = WURMPLE,13
+Pokemon = METAPOD,14
+Pokemon = KAKUNA,15
+#-------------------------------
+[PICNICKER,Charlotte,2]
+LoseText = Das ist schockierend!
+Pokemon = DODUO,5
+#-------------------------------
+[LASS,Iris,2]
+LoseText = Schluck! Das ist ein düsterer Moment.
+Pokemon = SPRIGATITO,5
+#-------------------------------
+[LADY,Lauren]
+LoseText = Ziemlich beeindruckend! Ich bin sicher, du kannst überall hingehen mit dieser Fähigkeit!
+Pokemon = HORSEA,1
+Pokemon = YUNGOOS,1
+#-------------------------------
+[LASS,Jasmine]
+LoseText = Oh... I lost...
+Pokemon = KECLEON,1
+Pokemon = BUNEARY,1
+#-------------------------------
+[HIKER,Dennis]
+LoseText = Aww man, I thought I had a chance.
+Pokemon = LUNATONE,5
+Pokemon = RHYHORN,7
+#-------------------------------
+[HIKER,Denniss]
+Items = DIREHIT
+LoseText = You cheated! It's that simple.
+Pokemon = SANDSHREW,6
+Pokemon = CROAGUNK,5
+#-------------------------------
+[HIKER,Denniss,1]
+LoseText = I should've guessed you would cheat.
+Pokemon = BONSLY,5
+Pokemon = BALTOY,6
+#-------------------------------
+[HIKER,Denniss,2]
+LoseText = I was no match...
+Pokemon = SHUCKLE,6
+Pokemon = SANDSHREW,6
+#-------------------------------
+[BUGCATCHER,Darek]
+LoseText = ...Hmmm...
+Pokemon = PINECO,5
+Pokemon = SPINARAK,7
+#-------------------------------
+[PICNICKER,Tiffany]
+Items = HYPERPOTION
+LoseText = ...did I win?
+Pokemon = DROWZEE,5
+Pokemon = SPINARAK,5
+#-------------------------------
+[YOUNGSTER,Jimmy]
+LoseText = Impresive...
+Pokemon = KECLEON,5
+Pokemon = DUNSPARCE,7
+#-------------------------------
+[TEACHER,Maria]
+LoseText = That's odd.
+Pokemon = CLEFFA,5
+Pokemon = BUDEW,6
+#-------------------------------
+[RIVAL1,Otto,1]
+LoseText = I suppose I am the loser.
+Pokemon = SKORUPI,12
+Pokemon = GROWLITHE,12
+#-------------------------------
+[HIKER,Ben]
+LoseText = You're too much!
+Pokemon = GEODUDE,6
+Pokemon = TYROGUE,7
+#-------------------------------
+[BLACKBELT,Damien]
+LoseText = Ayeeee!
+Pokemon = MANKEY,5
+Pokemon = MACHOP,7
+#-------------------------------
+[HIKER,Tyler]
+LoseText = Gulp! This is a bleak moment.
+Pokemon = GIBLE,6
+Pokemon = LARVITAR,7
+#-------------------------------
+[BUGCATCHER,Thomas]
+LoseText = That's too bad.
+Pokemon = SCYTHER,5
+Pokemon = SPINARAK,6
+#-------------------------------
+[LASS,Colin]
+LoseText = Didn't I train enough?
+Pokemon = CHIKORITA,6
+Pokemon = SUNKERN,6
+#-------------------------------
+[BLACKBELT,Matteo]
+Items = MAXPOTION
+LoseText = Uwahauwaha!
+Pokemon = MEDITITE,6
+Pokemon = CHIMCHAR,7
+#-------------------------------
+[LASS,Patricia]
+LoseText = I'm glad I got to see your Pokemon!
+Pokemon = SEEDOT,5
+Pokemon = MUNCHLAX,6
+#-------------------------------
+[TUBER2_F,Jean]
+Items = DIREHIT
+LoseText = We give up! You're the winner!
+Pokemon = CATERPIE,5
+Pokemon = ZANGOOSE,6
+#-------------------------------
+[RIVAL1,Otto,2]
+Items = FULLHEAL
+LoseText = Peace--even though I lost!
+Pokemon = DODUO,6
+Pokemon = KRICKETOT,5
+#-------------------------------
+[SUPERNERD,Liam]
+LoseText = Peace--even though I lost!
+Pokemon = WEEDLE,5
+Pokemon = ODDISH,7
+#-------------------------------
+[YOUNGCOUPLE,Holly]
+Items = DIREHIT
+LoseText = Looks like we underestimated you
+Pokemon = PSYDUCK,5
+Pokemon = HORSEA,7
+Pokemon = SANDSHREW,8
+#-------------------------------
+[SUPERNERD,Beau]
+LoseText = I was no match...
+Pokemon = GRIMER,6
+Pokemon = SEVIPER,5
+Pokemon = BULBASAUR,8
+#-------------------------------
+[LEADER_Surge,Hayden]
+LoseText = Ow, ow, ow!
+Pokemon = SPINDA,6
+Pokemon = HAPPINY,5
+Pokemon = SURSKIT,8
+#-------------------------------
+[PROFESSOR,Maidenhair]
+LoseText = Ow, ow, ow!
+Pokemon = SPINDA,6
+Pokemon = HAPPINY,5
+Pokemon = SURSKIT,8
+#-------------------------------
+[JO,Jo,1]
+LoseText = ...did I win?
+Pokemon = WEEDLE,5
+Pokemon = SENTRET,5
+Pokemon = WURMPLE,6
+#-------------------------------
+[ALICE,Alice,1]
+LoseText = I see. So you can battle that way.
+Pokemon = ILLUMISE,6
+Pokemon = LEDYBA,6
+Pokemon = FARFETCHD,7
+#-------------------------------
+[SWIMMER_F,Jamie]
+LoseText = Heh, I guess I didn't try hard enough.
+Pokemon = POLIWAG,6
+Pokemon = FINNEON,6
+Pokemon = MAGIKARP,8
+#-------------------------------
+[LEADER_Erika,Cal]
+LoseText = I can't accept defeat like this...
+Pokemon = HAPPINY,5
+Pokemon = VENONAT,5
+Pokemon = SLAKOTH,6
+Pokemon = BURMY,8
+#-------------------------------
+[TUBER2_F,Kyle]
+LoseText = Aack! My Pokemon!
+Pokemon = PIDGEY,6
+Pokemon = COMBEE,6
+Pokemon = GIRAFARIG,8
+#-------------------------------
+[TUBER2_F,Hugh]
+LoseText = No way!
+Pokemon = BUNEARY,5
+Pokemon = GLAMEOW,5
+Pokemon = COMBEE,6
+#-------------------------------
+[LASS,Iris]
+LoseText = No way!
+Pokemon = SPEAROW,6
+Pokemon = ODDISH,7
+Pokemon = MILTANK,7

@@ -1,0 +1,120 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map033]
+\rAre you doing well? Great!
+\rAre you doing well? Great!
+You are not permitted to go here!
+You are not permitted to go here!
+\bEs gibt viele Arten von Pokémon, die noch entdeckt werden! Es ist unglaublich!
+\bEs gibt viele Arten von Pokémon, die noch entdeckt werden! Es ist unglaublich!
+\bEinige Leute trainieren ihre Pokémon, um stärker zu werden, und andere, um eine Verbindung herzustellen!
+\bEinige Leute trainieren ihre Pokémon, um stärker zu werden, und andere, um eine Verbindung herzustellen!
+\bProfessor Maylee ist oben.
+\bProfessor Maylee ist oben.
+\bOh! Hallo! Bist du neu hier?
+\bOh! Hallo! Bist du neu hier?
+\bDie Professorin ist im Moment nicht da...
+\bDie Professorin ist im Moment nicht da...
+\bEs gab eine kleine\1 Komplikation.
+\bEs gab eine kleine\1 Komplikation.
+\bAber ich nehme an, du bist wegen eines Starter- Pokémon hier?
+\bAber ich nehme an, du bist wegen eines Starter- Pokémon hier?
+\bDa hast aber Glück! Denn es ist nur noch eins übrig.
+\bDa hast aber Glück! Denn es ist nur noch eins übrig.
+\bNun, wenn es dir nichts ausmacht, dass ich frage...
+\bNun, wenn es dir nichts ausmacht, dass ich frage...
+\bIch habe 3 Fragen an dich, bevor ich dir deinen neuen Partner gebe.
+\bIch habe 3 Fragen an dich, bevor ich dir deinen neuen Partner gebe.
+\bWoher kommst du?
+\bWoher kommst du?
+\bOk, nächste Frage.
+\bOk, nächste Frage.
+\bHast du die Erlaubnis deiner Eltern, auf eine Reise zu gehen?
+\bHast du die Erlaubnis deiner Eltern, auf eine Reise zu gehen?
+\bOk, eine letzte Frage.
+\bOk, eine letzte Frage.
+\bWie würdest du dich selbst beschreiben?
+\bWie würdest du dich selbst beschreiben?
+\bAlso gut, dann hole ich mal deinen Starter.
+\bAlso gut, dann hole ich mal deinen Starter.
+\bDu bekommst das hier!
+\bDu bekommst das hier!
+\bEs war auch noch jemand anderes hier, vor einem Moment in deinem Alter, vielleicht könntet ihr zwei Rivalen sein.
+\bEs war auch noch jemand anderes hier, vor einem Moment in deinem Alter, vielleicht könntet ihr zwei Rivalen sein.
+\bIch bin sicher, ihr werdet euch bald kennenlernen.
+\bIch bin sicher, ihr werdet euch bald kennenlernen.
+\bViel Glück auf deiner Reise!
+\bViel Glück auf deiner Reise!
+\rIch kann dir im Moment nicht helfen. Ich versuche herauszufinden, wo Team Immortal wieder zuschlagen könnte!
+\rIch kann dir im Moment nicht helfen. Ich versuche herauszufinden, wo Team Immortal wieder zuschlagen könnte!
+\rSoll ich deinen Pokédex überprüfen?
+\rSoll ich deinen Pokédex überprüfen?
+\rAh ja! \PN!
+\rAh ja! \PN!
+\rHast du Otto in letzter Zeit gesehen? Ich kann ihn nicht erreichen!
+\rHast du Otto in letzter Zeit gesehen? Ich kann ihn nicht erreichen!
+\r...
+\r...
+\rWie schrecklich!
+\rWie schrecklich!
+\rDas geht schon viel zu lange so!
+\rDas geht schon viel zu lange so!
+\rNun ja, \PN ich habe dich hierher gerufen wegen dem, was passieren wird.
+\rNun ja, \PN ich habe dich hierher gerufen wegen dem, was passieren wird.
+\rEs gibt mehrere Fälle von Legendenbildung in der Padana, aber auch in einigen anderen Regionen!
+\rEs gibt mehrere Fälle von Legendenbildung in der Padana, aber auch in einigen anderen Regionen!
+\rImmortal ruft die Wächter des Sees an den Wunschbrunnen herbei.
+\rImmortal ruft die Wächter des Sees an den Wunschbrunnen herbei.
+\rSie befinden sich nördlich der Stadt Heggate, versteckt im Berg Frostbyte und es gibt eine auf einer Insel neben der Insel Norpeak.
+\rSie befinden sich nördlich der Stadt Heggate, versteckt im Berg Frostbyte und es gibt eine auf einer Insel neben der Insel Norpeak.
+\rDann haben wir auch einen Fall in der Brinkstone Cave, aber ich bin mir nicht sicher, welches Pokémon sie erwecken.
+\rDann haben wir auch einen Fall in der Brinkstone Cave, aber ich bin mir nicht sicher, welches Pokémon sie erwecken.
+\rAuch die Strudelinseln sind in der Nähe der Küste der Neuen Hafenstadt aufgetaucht.
+\rAuch die Strudelinseln sind in der Nähe der Küste der Neuen Hafenstadt aufgetaucht.
+\rIn der Höhle der Schöpfung wurde Aktivität gesichtet, aber nicht für die Regi's.
+\rIn der Höhle der Schöpfung wurde Aktivität gesichtet, aber nicht für die Regi's.
+\rAußerhalb der Padana hat sich auch einiges getan.
+\rAußerhalb der Padana hat sich auch einiges getan.
+\rWir haben Berichte aus Unova erhalten, dass Immortal einen Teil der alten Team Plasma Basis übernommen hat.
+\rWir haben Berichte aus Unova erhalten, dass Immortal einen Teil der alten Team Plasma Basis übernommen hat.
+\In Johto wurde Immortal am Zinnturm gesichtet, was bedeutet, dass sie hinter Ho-Oh her sind.
+\In Johto wurde Immortal am Zinnturm gesichtet, was bedeutet, dass sie hinter Ho-Oh her sind.
+\rDann haben wir auch noch Immortal am Himmelspfeiler in Hoenn. Das ist also für Rayquaza.
+\rDann haben wir auch noch Immortal am Himmelspfeiler in Hoenn. Das ist also für Rayquaza.
+\rUnd schließlich wurden sie am Kraterberg in Sinnoh gesichtet. Aber ich weiß nicht, was das bedeuten könnte.
+\rUnd schließlich wurden sie am Kraterberg in Sinnoh gesichtet. Aber ich weiß nicht, was das bedeuten könnte.
+\rIch weiß, das ist eine Menge. Ich habe die Liga bereits darüber informiert. Aber leider können sie nicht helfen.
+\rIch weiß, das ist eine Menge. Ich habe die Liga bereits darüber informiert. Aber leider können sie nicht helfen.
+\rDie Liga hat offenbar auch Probleme mit Immortal.
+\rDie Liga hat offenbar auch Probleme mit Immortal.
+\rAlle Arenaleiterinnen und Arenaleiter wurden ebenfalls dazu aufgerufen, in der Liga mitzuhelfen.
+\rAlle Arenaleiterinnen und Arenaleiter wurden ebenfalls dazu aufgerufen, in der Liga mitzuhelfen.
+\rDas bedeutet, dass ich leider nur auf dich zählen kann, um uns zu helfen Immortal zu stoppen.
+\rDas bedeutet, dass ich leider nur auf dich zählen kann, um uns zu helfen Immortal zu stoppen.
+\rDeshalb kann ich dich immer nur einen nach dem anderen auf eine Mission schicken.
+\rDeshalb kann ich dich immer nur einen nach dem anderen auf eine Mission schicken.
+\rTreff mich oben, dort werden wir entscheiden, was du tun wirst.
+\rTreff mich oben, dort werden wir entscheiden, was du tun wirst.
+Hier von Titan City
+Hier von Titan City
+Aus der Wüste
+Aus der Wüste
+Padana City
+Padana City
+Egal
+Egal
+Ich musste gehen
+Ich musste gehen
+Ja, habe ich
+Ja, habe ich
+Ich bin alt genug
+Ich bin alt genug
+Naiv
+Naiv
+Freundlich
+Freundlich
+Perfekt
+Perfekt
+Kühn
+Kühn

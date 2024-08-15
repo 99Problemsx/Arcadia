@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map013]
+\bEs tut mir leid, aber ich brauche diese Schlüssel, um dieses Tor zu öffnen. Bitte hilf mir dabei.
+\bEs tut mir leid, aber ich brauche diese Schlüssel, um dieses Tor zu öffnen. Bitte hilf mir dabei.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+\bDieses Kramurx scheint auf dem Weg in die Safari-Zone zu sein.
+\bDieses Kramurx scheint auf dem Weg in die Safari-Zone zu sein.
+Du hast dem Torwächter den Schlüssel zurückgegeben.
+Du hast dem Torwächter den Schlüssel zurückgegeben.
+\bDanke, dass du mir den Schlüssel zurückgebracht hast!
+\bDanke, dass du mir den Schlüssel zurückgebracht hast!
+\bIch werde das Tor jetzt öffnen!
+\bIch werde das Tor jetzt öffnen!

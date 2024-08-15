@@ -1,0 +1,7 @@
+Name       = Lin's Language Option
+Version    = 1.0.1
+Essentials = 21, 21.1
+Optional   = Lin's HGSS Options Screen,1.0
+Optional   = Set the Controls Screen,1.1.2
+Link       = https://reliccastle.com/resources/1409/
+Credits    = LinKazamine, Richard PT

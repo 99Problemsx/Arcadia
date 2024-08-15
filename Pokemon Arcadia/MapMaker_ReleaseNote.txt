@@ -1,0 +1,15 @@
+-------- CAMBIOS A LA VERSIÓN MAPMAKER V2.0 [BEZIER] --------
+
+Corrige errores a la hora de generar mapas con:
+- Eventos con trigger Event Touch.
+- Eventos sin gráfico.
+- Tiles cuyo gráfico ha desaparecido al reducir el tamaño del tileset.
+
+Elimina:
+- El mouse, ya que no estaba bien gestionado y daba mas problemas que soluciones.
+- El refresco del interfaz en cada frame. Ahora solo refresca al realizar una acción, agilizando la movilidad.
+
+Mejoras:
+- Pinta los autotiles de 1x1, los compuestos por una fila de frames.
+- Arregla el scroll tanto para el movimiento 1 a 1 con las flechas como con el paginado.
+- Añade un contador de progreso en el guardado de la imagen para saber cuánto falta hasta que se genere el .png.

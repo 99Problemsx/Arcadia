@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map039]
+Trasla
+Trasla
+\bPrinplup hilft mir bei allen möglichen Missionen!
+\bPrinplup hilft mir bei allen möglichen Missionen!
+Laaaa
+Laaaa
+Lapras scheint ein großartiges Pokémon zu sein, das man nachahmen kann, um sich im Wasser zu bewegen.
+Lapras scheint ein großartiges Pokémon zu sein, das man nachahmen kann, um sich im Wasser zu bewegen.
+Nimm eine \bLapraschuppe\c[0]?
+Nimm eine \bLapraschuppe\c[0]?
+\bAlmut: Ah! Hallöchen! Mein Name ist Almut.
+\bAlmut: Ah! Hallöchen! Mein Name ist Almut.
+\bAlmut: Ich organisiere den Pokémon Fan Club, wenn Alysa nicht da ist.
+\bAlmut: Ich organisiere den Pokémon Fan Club, wenn Alysa nicht da ist.
+\bAlmut: Wo ist sie?
+\bAlmut: Wo ist sie?
+\bAlmut: Alysa ist zur \rInterstellaren Höhle \bin \rHeggate Town\b!
+\bAlmut: Alysa ist zur \rInterstellaren Höhle \bin \rHeggate Town\b!
+\bAlmut: Sie geht jeden Tag dorthin und versucht herauszufinden, wie man dort eine Tür öffnen kann.
+\bAlmut: Sie geht jeden Tag dorthin und versucht herauszufinden, wie man dort eine Tür öffnen kann.
+\bFolgt mir nach draußen, ich werde euch mehr darüber erzählen.
+\bFolgt mir nach draußen, ich werde euch mehr darüber erzählen.
+\bAlmut: Richtig, du brauchst dieses VM, um dich durch Wasser zu bewegen.
+\bAlmut: Richtig, du brauchst dieses VM, um dich durch Wasser zu bewegen.
+\bAlmut: Hier, bitte sehr!
+\bAlmut: Hier, bitte sehr!
+\bAlmut: Nutze diese Attacke um auf der Wasseroberfläche zu surfen!
+\bAlmut: Nutze diese Attacke um auf der Wasseroberfläche zu surfen!
+Diese Bewegung wird mir nicht helfen, da ich ein Zorua bin. Ich muss etwas finden, mit dem ich mich in ein surfendes Pokémon verwandeln kann.
+Diese Bewegung wird mir nicht helfen, da ich ein Zorua bin. Ich muss etwas finden, mit dem ich mich in ein surfendes Pokémon verwandeln kann.
+\bAlmut: Du findest die Arenaleiterin Alysa in der Höhle \bat \rHeggate Town\b.
+\bAlmut: Du findest die Arenaleiterin Alysa in der Höhle \bat \rHeggate Town\b.
+\bAlmut: Glückwunsch zum Sieg über meine Enkelin! Du hast echtes Potenzial!
+\bAlmut: Glückwunsch zum Sieg über meine Enkelin! Du hast echtes Potenzial!
+\bAlmut: Hier im Pokémon Fan Club verehren wir jedes einzelne Pokémon!
+\bAlmut: Hier im Pokémon Fan Club verehren wir jedes einzelne Pokémon!
+Ja
+Ja
+Nein
+Nein

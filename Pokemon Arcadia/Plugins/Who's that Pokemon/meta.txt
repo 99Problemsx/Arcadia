@@ -1,0 +1,5 @@
+Name = Who's That Pokemon
+Version = 1.0
+Website = https://www.reliccastle.com/resources/1444/
+Credits = Dr.Doom76
+Essentials = V20.1, V21.1

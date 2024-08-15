@@ -1,0 +1,62 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map035]
+\rAh, da bist du ja! Mein Mann hat nach dir gesucht.
+\rAh, da bist du ja!  Mein Mann hat nach dir gesucht.
+\rIch bin die Tagesbetreuerin. Wir können für dich Pokémon züchten.
+\rIch bin die Tagesbetreuerin.  Wir können für dich Pokémon züchten.
+\Möchtest du, dass wir dein Pokémon aufziehen?
+\Möchtest du, dass wir dein Pokémon aufziehen?
+\rAber du hast doch nur ein Pokémon dabei.
+\rAber du hast doch nur ein Pokémon dabei.
+\rDu kannst nicht ohne ein Pokémon weggehen. Komm ein anderes Mal zurück.
+\rDu kannst nicht ohne ein Pokémon weggehen.  Komm ein anderes Mal zurück.
+\rWelches Pokémon sollen wir für dich aufziehen?
+\rWelches Pokémon sollen wir für dich aufziehen?
+\rOh, gut, dann. \nKomm wieder.
+\rOh, gut, dann. \nKomm wieder.
+\rWenn du mir das Pokémon überlässt, womit wirst du dann kämpfen?
+\rWenn du mir das Pokémon überlässt, womit wirst du dann kämpfen?
+\rKomm ein anderes Mal wieder.
+\rKomm ein anderes Mal wieder.
+\rFein, dann tranieren wir dein \v[3] für eine Weile.
+\rFein, dann tranieren wir dein \v[3] für eine Weile.
+\rKomm später wieder.
+\rKomm später wieder.
+\rWir können zwei deiner Pokémon aufziehen. Möchtest du dass wir ein weiteres aufziehen?
+\rWir können zwei deiner Pokémon aufziehen.  Möchtest du dass wir ein weiteres aufziehen?
+\rDu kannst nicht ohne ein Pokémon weggehen. Komm einfach ein anderes Mal.
+\rDu kannst nicht ohne ein Pokémon weggehen.  Komm einfach ein anderes Mal.
+\rWelches Pokémon sollen wir für dich trainieren?
+\rWelches Pokémon sollen wir für dich trainieren?
+\rVery good. Come again.
+\rVery good.  Come again.
+\rFein, dann trainieren wir dein \v[3] für eine Weile.
+\rFein, dann trainieren wir dein \v[3] für eine Weile.
+\rSehr gut. Komm wieder.
+\rSehr gut. Komm wieder.
+\rAh, du bist es! Schön, dich zu sehen. Also, was deine Pokémon...
+\rAh, du bist es!  Schön, dich zu sehen.  Also, was deine Pokémon...
+\rDdein \v[3] ist um etwa \v[4] gestiegen.
+\rDdein \v[3] ist um etwa \v[4] gestiegen.
+\rWillst du dein Pokémon zurück?
+\rWillst du dein Pokémon zurück?
+\rDein Pokémon-Team ist voll. Mach Platz, dann komm zu mir.
+\rDein Pokémon-Team ist voll. Mach Platz, dann komm zu mir.
+Welches möchtest du zurück?
+Welches möchtest du zurück?
+\G\rWenn du dein \v[3] zurückhaben willst, kostet es $\v[4].
+\G\rWenn du dein \v[3] zurückhaben willst, kostet es $\v[4].
+\rDu hast nicht genug Geld...
+\rDu hast nicht genug Geld...
+\rHier ist dein Pokémon.
+\rHier ist dein Pokémon.
+\PN hat \v[3] von der Tagesbetreuerin zurückgenommen.
+\PN hat \v[3] von der Tagesbetreuerin zurückgenommen.
+\rWillst du das andere auch zurücknehmen?
+\rWillst du das andere auch zurücknehmen?
+Ja
+Ja
+Nein
+Nein
